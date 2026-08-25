@@ -66,5 +66,19 @@
     "status": "ok",
     "fetched": 1,
     "new": 0
+  },
+  {
+    "timestamp": "2026-08-25T09:33:54.299101+00:00",
+    "source_id": "mhlw_news",
+    "status": "ok",
+    "fetched": 65,
+    "new": 0
+  },
+  {
+    "timestamp": "2026-08-25T09:33:54.444818+00:00",
+    "source_id": "mhlw_kinkyu",
+    "status": "ok",
+    "fetched": 1,
+    "new": 0
   }
 ]
