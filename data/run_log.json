@@ -80,5 +80,40 @@
     "status": "ok",
     "fetched": 1,
     "new": 0
+  },
+  {
+    "timestamp": "2026-08-25T10:31:33.439511+00:00",
+    "source_id": "mhlw_news",
+    "status": "ok",
+    "fetched": 65,
+    "new": 0
+  },
+  {
+    "timestamp": "2026-08-25T10:31:33.583262+00:00",
+    "source_id": "mhlw_kinkyu",
+    "status": "ok",
+    "fetched": 1,
+    "new": 0
+  },
+  {
+    "timestamp": "2026-08-25T10:31:33.662795+00:00",
+    "source_id": "fsa_news",
+    "status": "ok",
+    "fetched": 15,
+    "new": 15
+  },
+  {
+    "timestamp": "2026-08-25T10:31:33.889732+00:00",
+    "source_id": "boj_news",
+    "status": "ok",
+    "fetched": 56,
+    "new": 56
+  },
+  {
+    "timestamp": "2026-08-25T10:31:34.500745+00:00",
+    "source_id": "mof_news",
+    "status": "ok",
+    "fetched": 100,
+    "new": 100
   }
 ]
