@@ -10,6 +10,7 @@ import requests
 from notify.base import format_discord_embed, format_message
 from notify.digest import format_digest_embed, format_digest_terminal
 from process.category import sort_by_category
+from process.quality_gate import unique_by_display_title
 from process.topic_dedupe import merge_same_topic
 
 
@@ -34,7 +35,7 @@ def send_digest(articles: list[dict[str, Any]], merged_count: int = 0) -> None:
         raise RuntimeError("DISCORD_WEBHOOK_URL が未設定です")
 
     embed = format_digest_embed(articles, merged_count)
-    payload = {"embeds": [embed], "content": "📬 **厚労省 新着まとめ**"}
+    payload = {"embeds": [embed], "content": "📬 **一次情報 新着まとめ**"}
     response = requests.post(webhook_url, json=payload, timeout=15)
     response.raise_for_status()
 
@@ -71,7 +72,13 @@ def send_discord(
 
     profile = profile or {}
     threshold = profile.get("digest_threshold", 3)
+    articles, extra = merge_same_topic(articles)
+    articles = unique_by_display_title(articles)
     articles = sort_by_category(articles)
+    merged_count += extra
+
+    if not articles:
+        return False
 
     if len(articles) > threshold:
         send_digest(articles, merged_count)

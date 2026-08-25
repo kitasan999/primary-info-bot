@@ -5,6 +5,7 @@ from __future__ import annotations
 from typing import Any
 
 from process.category import CATEGORIES
+from process.quality_gate import unique_by_display_title
 from process.topic_dedupe import clean_detail_text
 
 
@@ -19,6 +20,7 @@ def _article_detail(art: dict[str, Any]) -> str:
 
 def format_digest_embed(articles: list[dict[str, Any]], merged_count: int = 0) -> dict[str, Any]:
     """複数記事を1つのDiscord Embedにまとめる"""
+    articles = unique_by_display_title(articles)
     grouped: dict[str, list[dict[str, Any]]] = {"money": [], "action": [], "knowledge": []}
     for art in articles:
         cat = art.get("content_type", {}).get("type", "knowledge")
@@ -55,7 +57,7 @@ def format_digest_embed(articles: list[dict[str, Any]], merged_count: int = 0) -
     color = 0xE74C3C if has_money or has_action else 0x3498DB
 
     return {
-        "title": f"📬 厚労省 新着まとめ（{len(articles)}トピック）",
+        "title": f"📬 新着まとめ（{len(articles)}トピック）",
         "description": description[:4096],
         "color": color,
         "footer": {"text": "詳細は各リンクから · 優先: お金 → 現場対応 → 知っておく"},

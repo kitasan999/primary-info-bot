@@ -403,6 +403,8 @@ def main() -> int:
     profile = load_yaml(CONFIG_DIR / "profile.yaml")
     seen_ids = load_json(DATA_DIR / "seen_ids.json", {})
     run_log = load_json(DATA_DIR / "run_log.json", [])
+    bootstrapped = load_json(DATA_DIR / "bootstrapped_sources.json", {"sources": []})
+    known_sources = set(bootstrapped.get("sources", []))
 
     is_first_run = len(seen_ids) == 0
     all_new: list[dict[str, Any]] = []
@@ -417,13 +419,15 @@ def main() -> int:
             raw_articles = fetch_source(source)
             normalized = [normalize_article(a) for a in raw_articles if a.get("url")]
 
-            if is_first_run:
+            source_is_new = is_first_run or source_id not in known_sources
+            if source_is_new:
                 for article in normalized:
                     seen_ids[article["id"]] = {
                         "url": article["url"],
                         "title": article["title"],
                         "first_seen": datetime.now(timezone.utc).isoformat(),
                     }
+                known_sources.add(source_id)
                 print(f"[初回] {source_id}: {len(normalized)} 件を既読登録（通知なし）")
                 run_log = append_log(
                     run_log,
@@ -470,6 +474,7 @@ def main() -> int:
     seen_ids = cleanup_seen_ids(seen_ids)
     save_json(DATA_DIR / "seen_ids.json", seen_ids)
     save_json(DATA_DIR / "run_log.json", run_log)
+    save_json(DATA_DIR / "bootstrapped_sources.json", {"sources": sorted(known_sources)})
 
     if is_first_run:
         print("\n初回実行完了。次回から新着だけ通知されます。")

@@ -27,9 +27,11 @@ priority_keywords:
   - 税制
   - 確定申告
   - iDeCo
-  - イデコ
-  - 金利
-  - 金融政策
+    - イデコ
+    - 金利
+    - 利上げ
+    - 利下げ
+    - 政策金利
 
 interest_boost:
   - NISA
@@ -39,7 +41,9 @@ interest_boost:
   - 所得税
   - 住民税
   - 金利
-  - 金融政策
+  - 利上げ
+  - 利下げ
+  - 政策金利
 
 min_score_to_notify: 3
 
@@ -94,8 +98,9 @@ keywords:
     - 住民税
     - 源泉徴収
     - 金利
-    - 金融政策
-    - 国債
+    - 利上げ
+    - 利下げ
+    - 政策金利
 
   medium:
     - 福祉
