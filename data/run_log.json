@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2026-08-25T07:07:58.331753+00:00",
+    "source_id": "mhlw_news",
+    "status": "bootstrap",
+    "count": 65
+  },
+  {
+    "timestamp": "2026-08-25T07:07:58.414348+00:00",
+    "source_id": "mhlw_kinkyu",
+    "status": "bootstrap",
+    "count": 1
+  },
+  {
+    "timestamp": "2026-08-25T07:08:18.710417+00:00",
+    "source_id": "mhlw_news",
+    "status": "ok",
+    "fetched": 65,
+    "new": 0
+  },
+  {
+    "timestamp": "2026-08-25T07:08:18.794060+00:00",
+    "source_id": "mhlw_kinkyu",
+    "status": "ok",
+    "fetched": 1,
+    "new": 0
+  },
+  {
+    "timestamp": "2026-08-25T07:16:58.098124+00:00",
+    "source_id": "mhlw_news",
+    "status": "ok",
+    "fetched": 65,
+    "new": 0
+  },
+  {
+    "timestamp": "2026-08-25T07:16:58.191556+00:00",
+    "source_id": "mhlw_kinkyu",
+    "status": "ok",
+    "fetched": 1,
+    "new": 0
+  }
+]

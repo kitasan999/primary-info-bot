@@ -1,0 +1,17 @@
+# 情報源リスト（追加・停止はここだけ触る）
+sources:
+  - id: mhlw_news
+    name: 厚生労働省 新着情報
+    genre: 政治・行政
+    type: rss
+    url: https://www.mhlw.go.jp/stf/news.rdf
+    priority: high
+    enabled: true
+
+  - id: mhlw_kinkyu
+    name: 厚生労働省 緊急情報
+    genre: 災害・防災
+    type: rss
+    url: https://www.mhlw.go.jp/stf/kinkyu.rdf
+    priority: high
+    enabled: true
