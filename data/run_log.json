@@ -115,5 +115,37 @@
     "status": "ok",
     "fetched": 100,
     "new": 100
+  },
+  {
+    "timestamp": "2026-08-25T10:49:11.610754+00:00",
+    "source_id": "mhlw_news",
+    "status": "ok",
+    "fetched": 65,
+    "new": 0
+  },
+  {
+    "timestamp": "2026-08-25T10:49:11.833488+00:00",
+    "source_id": "mhlw_kinkyu",
+    "status": "ok",
+    "fetched": 1,
+    "new": 0
+  },
+  {
+    "timestamp": "2026-08-25T10:49:11.913567+00:00",
+    "source_id": "fsa_news",
+    "status": "bootstrap",
+    "count": 15
+  },
+  {
+    "timestamp": "2026-08-25T10:49:12.180337+00:00",
+    "source_id": "boj_news",
+    "status": "bootstrap",
+    "count": 56
+  },
+  {
+    "timestamp": "2026-08-25T10:49:12.413546+00:00",
+    "source_id": "mof_news",
+    "status": "bootstrap",
+    "count": 100
   }
 ]

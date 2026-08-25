@@ -90,6 +90,13 @@ def _generic_page(body: str, title: str, agency: str) -> dict[str, str] | None:
     if len(lead) > 100:
         lead = lead[:99] + "…"
 
+    # タイトルとほぼ同じ内容なら、title_summaryに任せる（Noneを返す）
+    # 例: タイトル「新型コロナ...を更新しました」→ lead「新型コロナ...について」は情報増えてない
+    title_key = re.sub(r"(を更新しました|について|に関する|報道発表資料|\s)", "", title)[:12]
+    lead_key = re.sub(r"(について|に関する|\s)", "", lead)
+    if title_key and title_key in lead_key:
+        return None  # タイトルの繰り返しなので、title_summaryの方が有益
+
     detail = ""
     if len(key_lines) > 1:
         detail = key_lines[1][:80]

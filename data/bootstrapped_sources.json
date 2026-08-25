@@ -1,6 +1,9 @@
 {
   "sources": [
+    "boj_news",
+    "fsa_news",
+    "mhlw_kinkyu",
     "mhlw_news",
-    "mhlw_kinkyu"
+    "mof_news"
   ]
 }
