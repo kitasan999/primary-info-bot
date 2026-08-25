@@ -29,6 +29,12 @@ jobs:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: python main.py
 
+      - name: Discord接続テスト（手動実行時のみ）
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python main.py --test
+
       - name: 既読データを保存
         run: |
           git config user.name "github-actions[bot]"
