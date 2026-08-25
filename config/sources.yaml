@@ -15,3 +15,27 @@ sources:
     url: https://www.mhlw.go.jp/stf/kinkyu.rdf
     priority: high
     enabled: true
+
+  - id: fsa_news
+    name: 金融庁 新着情報
+    genre: 金融
+    type: rss
+    url: https://www.fsa.go.jp/fsaNewsListAll_rss2.xml
+    priority: high
+    enabled: true
+
+  - id: boj_news
+    name: 日本銀行 更新情報
+    genre: 金融
+    type: rss
+    url: https://www.boj.or.jp/rss/whatsnew.xml
+    priority: high
+    enabled: true
+
+  - id: mof_news
+    name: 財務省 新着情報
+    genre: 金融
+    type: rss
+    url: https://www.mof.go.jp/news.rss
+    priority: high
+    enabled: true

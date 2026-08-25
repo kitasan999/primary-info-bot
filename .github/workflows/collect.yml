@@ -27,6 +27,7 @@ jobs:
       - name: 新着を取得して通知
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python main.py
 
       - name: Discord接続テスト（手動実行時のみ）
@@ -39,6 +40,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/seen_ids.json data/run_log.json
+          git add data/seen_ids.json data/run_log.json data/nisa_snapshot.json
           git diff --staged --quiet || git commit -m "chore: update seen articles [skip ci]"
           git push

@@ -10,7 +10,10 @@ import feedparser
 
 def fetch_rss(source: dict[str, Any]) -> list[dict[str, Any]]:
     """sources.yaml の1件分のRSSを読み、記事リストを返す"""
-    feed = feedparser.parse(source["url"])
+    feed = feedparser.parse(
+        source["url"],
+        request_headers={"User-Agent": "primary-info-bot/1.0 (news notifier)"},
+    )
 
     if feed.bozo and not feed.entries:
         raise RuntimeError(f"RSS取得失敗: {source['id']} ({feed.bozo_exception})")
