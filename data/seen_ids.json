@@ -1203,5 +1203,20 @@
     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
     "title": "国債金利情報(令和8年8月25日)",
     "first_seen": "2026-08-26T01:13:59.173525+00:00"
+  },
+  "305ab7e096638c99": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_75783.html",
+    "title": "第２１回アレルギー疾患対策推進協議会　資料",
+    "first_seen": "2026-08-26T03:03:47.979841+00:00"
+  },
+  "d6c64de89a022547": {
+    "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_tokusyu/proceedings/kanb20260730.html",
+    "title": "関税・外国為替等審議会 関税分科会 特殊関税部会(令和8年7月30日)議事録",
+    "first_seen": "2026-08-26T03:03:49.991616+00:00"
+  },
+  "4b403c60ea76d873": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260826.htm",
+    "title": "流動性供給(第460回)入札",
+    "first_seen": "2026-08-26T03:03:49.991616+00:00"
   }
 }
