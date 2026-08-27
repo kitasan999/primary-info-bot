@@ -1298,5 +1298,35 @@
     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
     "title": "国債金利情報(令和8年8月26日)",
     "first_seen": "2026-08-27T04:15:26.951544+00:00"
+  },
+  "6e85adb085ac6c8b": {
+    "url": "https://www.mhlw.go.jp/topics/kaigo/osirase/jigyo/24/index.html",
+    "title": "令和６年度　介護保険事業状況報告（年報）",
+    "first_seen": "2026-08-27T16:06:17.974158+00:00"
+  },
+  "5d09973bb94338cf": {
+    "url": "https://www.fsa.go.jp/news/r8/ginkou/20260827.html",
+    "title": "令和８年８月27日からの大雨に伴う災害等に対する金融上の措置について公表しました。",
+    "first_seen": "2026-08-27T16:06:18.779244+00:00"
+  },
+  "7a0ee0e00287f702": {
+    "url": "https://www.fsa.go.jp/news/r8/shouken/20260827/20260827.html",
+    "title": "「金融商品取引業等に関するQ&A」の改訂について公表しました。",
+    "first_seen": "2026-08-27T16:06:18.779244+00:00"
+  },
+  "d135c62f045c0db2": {
+    "url": "http://www.boj.or.jp/about/bcp/fso/fso260827b.pdf",
+    "title": "令和8年8月27日からの大雨に伴う災害等に対する金融上の措置について（富山県）",
+    "first_seen": "2026-08-27T16:06:19.385995+00:00"
+  },
+  "27ffd98d2eb14fa9": {
+    "url": "http://www.boj.or.jp/about/bcp/fso/fso260827a.pdf",
+    "title": "令和8年8月27日からの大雨に伴う災害等に対する金融上の措置について（石川県）",
+    "first_seen": "2026-08-27T16:06:19.385995+00:00"
+  },
+  "a4b89437ad7cf444": {
+    "url": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2018.htm",
+    "title": "4年第19回地方公共団体金融機構債券に対する政府保証の付与",
+    "first_seen": "2026-08-27T16:06:20.763249+00:00"
   }
 }
