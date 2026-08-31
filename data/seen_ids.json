@@ -1598,5 +1598,55 @@
     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20260828.htm",
     "title": "国庫短期証券（第1403回）の入札結果",
     "first_seen": "2026-08-28T13:48:34.064396+00:00"
+  },
+  "d0e62bf933bc32e4": {
+    "url": "https://www.mhlw.go.jp/kouseiroudoushou/kanbumeibo/index.html",
+    "title": "令和８年８月31日付幹部名簿",
+    "first_seen": "2026-08-31T03:52:10.982079+00:00"
+  },
+  "7a957a2595b2d657": {
+    "url": "https://www.mhlw.go.jp/kouseiroudoushou/saiyou/ikei/index.html",
+    "title": "【医系技官採用】令和8年度　後期試験は行います。半日見学会（医師および医学生を対象）の受付を開始しました。",
+    "first_seen": "2026-08-31T03:52:10.982079+00:00"
+  },
+  "39163924bdbf63dc": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_75704.html",
+    "title": "第６８回厚生科学審議会疾病対策部会指定難病検討委員会",
+    "first_seen": "2026-08-31T03:52:10.982079+00:00"
+  },
+  "ba7a21d22d685cf1": {
+    "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-iyakukyoku02-kagakubussitusinsasenmonin.html",
+    "title": "採用情報（期間業務職員（化学物質審査専門員）募集情報）",
+    "first_seen": "2026-08-31T03:52:10.982079+00:00"
+  },
+  "d1b89de2666405be": {
+    "url": "http://www.boj.or.jp/statistics/set/kess/release/2026/kess2607.pdf",
+    "title": "決済動向（7月）",
+    "first_seen": "2026-08-31T03:52:11.625599+00:00"
+  },
+  "624b84cea7651e31": {
+    "url": "http://www.boj.or.jp/statistics/sj/sjhiq.pdf",
+    "title": "資金循環（日米欧比較）（2026年第1四半期）",
+    "first_seen": "2026-08-31T03:52:11.625599+00:00"
+  },
+  "8c34378ecb59dbee": {
+    "url": "http://www.boj.or.jp/statistics/dl/loan/yaku/yaku2607.pdf",
+    "title": "貸出約定平均金利（7月）",
+    "first_seen": "2026-08-31T03:52:11.625599+00:00"
+  },
+  "e40b7bc60a2a8753": {
+    "url": "https://www.mof.go.jp/insideLink/20260828134246.html",
+    "title": "国債の償還予定額（令和8年9月分）",
+    "first_seen": "2026-08-31T03:52:12.215955+00:00"
+  },
+  "7fd2e4d89897a7f5": {
+    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+    "title": "国債金利情報(令和8年8月28日)",
+    "first_seen": "2026-08-31T03:52:12.215955+00:00"
+  },
+  "2ca1c45d9ca264b9": {
+    "url": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/shinmado20260831.htm",
+    "title": "新型窓口販売方式による2年利付国債（第488回）の発行条件等",
+    "first_seen": "2026-08-31T03:52:12.215955+00:00"
   }
 }
