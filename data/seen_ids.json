@@ -2218,5 +2218,15 @@
     "url": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2021.htm",
     "title": "第11回株式会社産業革新投資機構社債に対する政府保証の付与",
     "first_seen": "2026-09-02T08:24:50.668953+00:00"
+  },
+  "51d52e415adde855": {
+    "url": "http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2609.xlsx",
+    "title": "日銀当座預金増減要因（9月見込み）",
+    "first_seen": "2026-09-03T01:03:50.334442+00:00"
+  },
+  "83166a3bcab1a01b": {
+    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+    "title": "国債金利情報(令和8年9月2日)",
+    "first_seen": "2026-09-03T01:03:50.954019+00:00"
   }
 }
