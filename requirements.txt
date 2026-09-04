@@ -1,5 +1,6 @@
 feedparser
 requests
+google-generativeai
 pyyaml
 beautifulsoup4
 openpyxl

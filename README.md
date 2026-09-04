@@ -1,84 +1,133 @@
-# 厚労省 一次情報収集ボット
+# 一次情報 → Discord 通知ボット
 
-厚生労働省の公式RSSから新着を取得し、Discordに通知するシステムです。
+日本の一次情報（経済・政策）を RSS から取得し、**重要なものだけ** Gemini で解説して **Discord** に通知する仕組みです。
 
-## 対象ソース（一次情報）
+## この仕組みでやること
 
-| ID | 名前 | URL |
-|----|------|-----|
-| mhlw_news | 厚生労働省 新着情報 | https://www.mhlw.go.jp/stf/news.rdf |
-| mhlw_kinkyu | 厚生労働省 緊急情報 | https://www.mhlw.go.jp/stf/kinkyu.rdf |
+1. TDnet・内閣府・厚労省・防衛省などの RSS から新着を取得
+2. タイトル＋要約に「重要キーワード」が含まれるものだけ残す
+3. Gemini が中学生向けの解説を生成
+4. Discord Webhook で通知
+
+全部送るのではなく、**重要そうなものだけ**届きます。
 
 ## フォルダ構成
 
 ```
 primary-info-bot/
-├── main.py              ← スタート（これを実行）
-├── config/
-│   ├── sources.yaml     ← 情報源リスト
-│   └── keywords.yaml    ← 重要度キーワード
-├── fetch/               ← 取得
-├── process/             ← 整理（重複・分類・重要度）
-├── notify/              ← 通知
-├── data/                ← 既読メモ（GitHub Actionsが更新）
-└── .github/workflows/   ← 自動実行
+├── .github/workflows/
+│   └── notify.yml       ← GitHub Actions（定期実行・手動実行）
+├── scripts/
+│   └── notify.py        ← メインスクリプト
+├── requirements.txt
+└── README.md
 ```
 
-## ローカルで試す（3ステップ）
+（従来の `main.py` ベースの厚労省ボットも残っています。こちらは `collect.yml` で動きます。）
 
-### 1. 準備
+## 必要な Secrets（GitHub）
+
+リポジトリの **Settings → Secrets and variables → Actions** で次を登録してください。
+
+| Name | 内容 |
+|------|------|
+| `DISCORD_WEBHOOK_URL` | Discord Webhook の URL |
+| `GEMINI_API_KEY` | Google AI Studio の API キー |
+
+## Discord Webhook の作り方
+
+1. 通知したい Discord サーバーを開く
+2. チャンネル名の横 **⚙ 設定** → **連携サービス** → **ウェブフック**
+3. **新しいウェブフック** を作成
+4. 名前を付けて **Webhook URL をコピー**
+5. GitHub Secrets の `DISCORD_WEBHOOK_URL` に貼り付け
+
+## Gemini API キーの取得
+
+1. [Google AI Studio](https://aistudio.google.com/) を開く
+2. **Get API key** からキーを発行
+3. GitHub Secrets の `GEMINI_API_KEY` に登録
+
+## 手動実行（GitHub Actions）
+
+1. GitHub リポジトリの **Actions** タブを開く
+2. 左メニューから **「一次情報 → Discord 通知」** を選択
+3. **Run workflow** → **Run workflow**
+
+## ローカルで試す
 
 ```powershell
 cd primary-info-bot
 pip install -r requirements.txt
-```
 
-### 2. 初回実行（既存記事を既読登録、通知なし）
-
-```powershell
-python main.py
-```
-
-### 3. Discord通知を試す
-
-1. Discord でサーバーを開く
-2. チャンネル設定 → 連携サービス → Webhook を作成
-3. URLをコピーして環境変数にセット
-
-```powershell
 $env:DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/..."
-python main.py
+$env:GEMINI_API_KEY = "your-gemini-api-key"
+python scripts/notify.py
 ```
 
-2回目以降、新着があれば Discord に届きます。
+重要な新着がなければ、何も通知せず終了します。
 
-## GitHub Actions で自動化
+## 実行スケジュール
 
-1. このフォルダを GitHub リポジトリに push
-2. リポジトリ Settings → Secrets → Actions → New secret
-   - Name: `DISCORD_WEBHOOK_URL`
-   - Value: Webhook URL
-3. Actions タブ → 「厚労省 新着チェック」→ Run workflow（手動テスト）
-4. 以降、1時間ごとに自動実行
+GitHub Actions が **毎日 3 回**（日本時間）自動実行します。
 
-## 情報源を増やす
+| 日本時間 | 内容 |
+|----------|------|
+| 07:00 | 朝のチェック |
+| 12:00 | 昼のチェック |
+| 20:00 | 夜のチェック |
 
-`config/sources.yaml` に1ブロック追加するだけ（コード変更不要）。
+## キーワードの追加・削除
 
-```yaml
-  - id: 任意のID
-    name: 表示名
-    genre: 政治・行政
-    type: rss
-    url: https://...
-    priority: high
-    enabled: true
+`scripts/notify.py` の先頭付近を編集します。
+
+```python
+ECONOMY_KEYWORDS = [
+    "業績予想",
+    "上方修正",
+    # ここに追加
+]
+
+POLICY_KEYWORDS = [
+    "防衛",
+    "予算",
+    # ここに追加
+]
+```
+
+## 情報源（RSS）の追加
+
+同じく `scripts/notify.py` の `FEEDS` リストに 1 行追加するだけです。
+
+```python
+FEEDS = [
+    {"name": "表示名", "url": "https://..."},
+]
+```
+
+## 通知の形式（例）
+
+```
+【重要一次情報】
+（タイトル）
+
+【一言で言うと】
+...
+
+【どういうこと？】
+...
+
+【なぜ大事？】
+...
+
+元の発表 → https://...
 ```
 
 ## トラブル
 
 | 症状 | 対処 |
 |------|------|
-| 初回に大量通知 | 初回は通知しない設計。`data/seen_ids.json` を消すと再び初回扱い |
-| Discord に届かない | `DISCORD_WEBHOOK_URL` が正しいか確認 |
-| Actions が失敗 | Secrets に Webhook URL が入っているか確認 |
+| Actions が失敗 | Secrets に URL と API キーが入っているか確認 |
+| 通知が来ない | 直近 6 時間にキーワード一致の新着がなかった可能性 |
+| Gemini エラー | API キーが有効か、利用制限に達していないか確認 |
+| Discord エラー | Webhook URL が削除・無効化されていないか確認 |
