@@ -9,6 +9,7 @@ import os
 import sys
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
+from pathlib import Path
 from typing import Any
 
 import feedparser
@@ -66,7 +67,12 @@ IMPORTANT_KEYWORDS: list[str] = ECONOMY_KEYWORDS + POLICY_KEYWORDS
 # 直近何時間分を対象にするか
 HOURS_LOOKBACK = 6
 
-GEMINI_MODEL = "gemini-2.0-flash"
+GEMINI_MODELS = (
+    "gemini-3.6-flash",
+    "gemini-2.5-flash",
+    "gemini-2.0-flash",
+    "gemini-1.5-flash",
+)
 
 GEMINI_PROMPT = """あなたはニュース解説者です。中学生でも理解できる言葉だけを使ってください。
 次の一次情報について、必ず次の形式だけで答えてください。余計な前置きは不要です。
@@ -85,6 +91,29 @@ GEMINI_PROMPT = """あなたはニュース解説者です。中学生でも理�
 タイトル: {title}
 要約: {summary}
 """
+
+
+def load_dotenv(path: Path) -> None:
+    """pip不要の簡易 .env 読み込み（ローカル実行用）。"""
+    if not path.exists():
+        return
+    for line in path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        key = key.strip()
+        value = value.strip().strip('"').strip("'")
+        if key and key not in os.environ:
+            os.environ[key] = value
+
+
+TEST_ITEM: dict[str, Any] = {
+    "source": "テスト",
+    "title": "【テスト】日銀が政策金利を見直す可能性を示唆",
+    "summary": "日本銀行が今後の金融政策について、金利の調整を検討する姿勢を示したというテスト用の架空ニュースです。",
+    "link": "https://github.com/kitasan999/primary-info-bot",
+}
 
 
 def log(message: str) -> None:
@@ -170,18 +199,27 @@ def fetch_recent_entries(feed_info: dict[str, str], cutoff: datetime) -> list[di
 def generate_explanation(api_key: str, item: dict[str, Any]) -> str:
     """Gemini で中学生向け解説を生成する。"""
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel(GEMINI_MODEL)
 
     prompt = GEMINI_PROMPT.format(
         source=item["source"],
         title=item["title"],
         summary=item["summary"] or "（要約なし）",
     )
-    response = model.generate_content(prompt)
-    text = (response.text or "").strip()
-    if not text:
-        raise RuntimeError("Gemini から空の応答が返りました")
-    return text
+
+    last_error = ""
+    for model_name in GEMINI_MODELS:
+        try:
+            model = genai.GenerativeModel(model_name)
+            response = model.generate_content(prompt)
+            text = (response.text or "").strip()
+            if text:
+                return text
+            last_error = f"{model_name}: 空の応答"
+        except Exception as exc:
+            last_error = f"{model_name}: {exc}"
+            continue
+
+    raise RuntimeError(f"Gemini 解説の生成に失敗しました（{last_error}）")
 
 
 def format_discord_message(item: dict[str, Any], explanation: str) -> str:
@@ -223,13 +261,42 @@ def collect_items(cutoff: datetime) -> list[dict[str, Any]]:
     return items
 
 
+def run_test(webhook_url: str, gemini_api_key: str) -> int:
+    """Discord と Gemini の接続テスト（架空ニュースを1件送る）。"""
+    log("テストモード: 架空ニュースを1件 Discord に送ります")
+    try:
+        explanation = generate_explanation(gemini_api_key, TEST_ITEM)
+        message = format_discord_message(TEST_ITEM, explanation)
+        send_discord(webhook_url, message)
+        log("テスト通知を Discord に送信しました。チャンネルを確認してください。")
+        return 0
+    except Exception as exc:
+        log(f"[エラー] テスト送信に失敗: {exc}")
+        return 1
+
+
 def main() -> int:
+    import argparse
+
+    parser = argparse.ArgumentParser(description="一次情報を Discord に通知")
+    parser.add_argument(
+        "--test",
+        action="store_true",
+        help="架空ニュース1件で Discord / Gemini の接続テスト",
+    )
+    args = parser.parse_args()
+
+    load_dotenv(Path(__file__).resolve().parent.parent / ".env")
+
     try:
         webhook_url = get_env("DISCORD_WEBHOOK_URL")
         gemini_api_key = get_env("GEMINI_API_KEY")
     except RuntimeError as exc:
         log(f"[エラー] {exc}")
         return 1
+
+    if args.test:
+        return run_test(webhook_url, gemini_api_key)
 
     cutoff = datetime.now(timezone.utc) - timedelta(hours=HOURS_LOOKBACK)
     log(f"対象期間: {cutoff.isoformat()} 以降（直近 {HOURS_LOOKBACK} 時間）")

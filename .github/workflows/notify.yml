@@ -9,6 +9,11 @@ on:
     # JST 20:00 = UTC 11:00
     - cron: "0 11 * * *"
   workflow_dispatch:
+    inputs:
+      test_mode:
+        description: "テスト通知を送る（架空ニュース1件）"
+        type: boolean
+        default: false
 
 jobs:
   notify:
@@ -29,4 +34,9 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python scripts/notify.py
+        run: |
+          if [ "${{ github.event.inputs.test_mode }}" = "true" ]; then
+            python scripts/notify.py --test
+          else
+            python scripts/notify.py
+          fi
