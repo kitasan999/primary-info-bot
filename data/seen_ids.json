@@ -2768,5 +2768,45 @@
     "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260731.htm",
     "title": "営業毎旬報告（7月31日現在）",
     "first_seen": "2026-09-04T18:07:27.579032+00:00"
+  },
+  "cb7e16af525f5221": {
+    "url": "http://www.boj.or.jp/about/bcp/fso/fso260907a.pdf",
+    "title": "令和8年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について（鹿児島県）",
+    "first_seen": "2026-09-07T03:04:03.236024+00:00"
+  },
+  "76a9bf3721fef0c9": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/mbt/mbt2608.pdf",
+    "title": "マネタリーベースと日本銀行の取引（8月）",
+    "first_seen": "2026-09-07T03:04:03.236024+00:00"
+  },
+  "d03a0110cdd690ca": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2608.pdf",
+    "title": "日本銀行の対政府取引（8月）",
+    "first_seen": "2026-09-07T03:04:03.236024+00:00"
+  },
+  "187fae289da0d782": {
+    "url": "http://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2608.xlsx",
+    "title": "オペレーション（8月）",
+    "first_seen": "2026-09-07T03:04:03.236024+00:00"
+  },
+  "49de12904e209290": {
+    "url": "https://www.mof.go.jp/tax_policy/tax_reform/outline/fy2027/request/index.html",
+    "title": "令和９年度税制改正要望",
+    "first_seen": "2026-09-07T03:04:04.662978+00:00"
+  },
+  "a359505b7e904023": {
+    "url": "https://www.mof.go.jp/application-contact/procurement/20211005180654.html",
+    "title": "国の災害用備蓄食品の有効活用の取組みについて",
+    "first_seen": "2026-09-07T03:04:04.662978+00:00"
+  },
+  "f437481136b7cf5e": {
+    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+    "title": "国債金利情報(令和8年9月4日)",
+    "first_seen": "2026-09-07T03:04:04.662978+00:00"
+  },
+  "fd91ea401c1415ec": {
+    "url": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/data/0808.html",
+    "title": "外貨準備等の状況（令和8年8月末現在）",
+    "first_seen": "2026-09-07T03:04:04.662978+00:00"
   }
 }
