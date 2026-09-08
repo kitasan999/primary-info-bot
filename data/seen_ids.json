@@ -2968,5 +2968,15 @@
     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260908a.htm",
     "title": "5年利付国債（第187回）の第II非価格競争入札結果（令和8年9月8日入札）",
     "first_seen": "2026-09-08T10:38:56.438941+00:00"
+  },
+  "60b4adf6344f7421": {
+    "url": "http://www.boj.or.jp/statistics/money/ms/ms2608.pdf",
+    "title": "マネーストック（8月）",
+    "first_seen": "2026-09-08T23:50:56.146404+00:00"
+  },
+  "7723b2649649d0ad": {
+    "url": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/shinmado20260909.htm",
+    "title": "新型窓口販売方式による5年利付国債（第187回）の発行条件等",
+    "first_seen": "2026-09-08T23:50:57.306218+00:00"
   }
 }
