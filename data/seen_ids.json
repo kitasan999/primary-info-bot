@@ -3203,5 +3203,55 @@
     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260910a.htm",
     "title": "流動性供給(第461回)入札において追加発行した国債の銘柄",
     "first_seen": "2026-09-10T10:41:24.709401+00:00"
+  },
+  "feb75b2fbd2ab789": {
+    "url": "https://www.mhlw.go.jp/toukei/list/105-1c.html",
+    "title": "薬事工業生産動態統計令和8年6月分月報について",
+    "first_seen": "2026-09-11T03:11:06.590703+00:00"
+  },
+  "eae438425a52bcc2": {
+    "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-kenkou_seikatueiseikyoku01.html",
+    "title": "採用情報（期間業務職員（健康・生活衛生局）募集情報）",
+    "first_seen": "2026-09-11T03:11:06.590703+00:00"
+  },
+  "91e78517dc5450f3": {
+    "url": "https://www.fsa.go.jp/search/20260911.html",
+    "title": "その他,2027年版EDINETタクソノミ（案）について公表しました。",
+    "first_seen": "2026-09-11T03:11:07.290413+00:00"
+  },
+  "578ef8f9e917691c": {
+    "url": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2608.pdf",
+    "title": "企業物価指数（8月）",
+    "first_seen": "2026-09-11T03:11:07.677636+00:00"
+  },
+  "a3e24fb4b2638190": {
+    "url": "https://www.mof.go.jp/policy/currency/coin/commemorative_coin/green_expo_2027/20260911.html",
+    "title": "２０２７年国際園芸博覧会記念貨幣を発行します",
+    "first_seen": "2026-09-11T03:11:08.284884+00:00"
+  },
+  "cfdcd92ee046588c": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20260911.htm",
+    "title": "国庫短期証券（第1406回）の入札発行",
+    "first_seen": "2026-09-11T03:11:08.284884+00:00"
+  },
+  "cc4f7cda2759958b": {
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/proceedings/zaitoa20260715.html",
+    "title": "財政投融資分科会（令和8年7月15日開催）議事録",
+    "first_seen": "2026-09-11T03:11:08.284884+00:00"
+  },
+  "75fe3eefc646f2f7": {
+    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+    "title": "国債金利情報(令和8年9月10日)",
+    "first_seen": "2026-09-11T03:11:08.284884+00:00"
+  },
+  "016d09982d7f2f9a": {
+    "url": "https://www.mof.go.jp/insideLink/20260910135356.html",
+    "title": "法人企業景気予測調査時系列データ(BSI項目)",
+    "first_seen": "2026-09-11T03:11:08.284884+00:00"
+  },
+  "da465e97928b11be": {
+    "url": "https://www.mof.go.jp/insideLink/20260910135323.html",
+    "title": "法人企業景気予測調査(令和8年7～9月期)の結果",
+    "first_seen": "2026-09-11T03:11:08.284884+00:00"
   }
 }
