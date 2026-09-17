@@ -3803,5 +3803,30 @@
     "url": "http://www.boj.or.jp/statistics/sj/sj.htm",
     "title": "資金循環統計（速報）（2026年第2四半期）",
     "first_seen": "2026-09-17T00:07:05.261196+00:00"
+  },
+  "4f42ad87aacd371f": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76036.html",
+    "title": "第78回労働政策審議会人材開発分科会監理団体審査部会 開催案内",
+    "first_seen": "2026-09-17T05:47:04.116462+00:00"
+  },
+  "179d50ccbdad1e09": {
+    "url": "https://www.fsa.go.jp/kouhou/showa100nen/showa100symposium.html",
+    "title": "イベント,「昭和100年」関連シンポジウムの開催について公表しました。",
+    "first_seen": "2026-09-17T05:47:04.475972+00:00"
+  },
+  "6c82b761e6a81f3b": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20260917.htm",
+    "title": "国庫短期証券（第1408回）の入札結果",
+    "first_seen": "2026-09-17T05:47:05.392913+00:00"
+  },
+  "487ffb81bbcbc8db": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20260917.htm",
+    "title": "国庫短期証券（第1408回）の入札発行",
+    "first_seen": "2026-09-17T05:47:05.392913+00:00"
+  },
+  "7a6e22d9a8b945d0": {
+    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+    "title": "国債金利情報(令和8年9月16日)",
+    "first_seen": "2026-09-17T05:47:05.392913+00:00"
   }
 }
