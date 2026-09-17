@@ -3828,5 +3828,60 @@
     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
     "title": "国債金利情報(令和8年9月16日)",
     "first_seen": "2026-09-17T05:47:05.392913+00:00"
+  },
+  "cb7682c1bc1f6326": {
+    "url": "https://www.mhlw.go.jp/toukei/list/113-1.html",
+    "title": "食肉検査等情報還元調査",
+    "first_seen": "2026-09-17T11:01:44.809783+00:00"
+  },
+  "c606d45ca359733e": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76303.html",
+    "title": "第12回柔道整復療養費のオンライン請求導入等に関するワーキング・グループ議事要旨（2025年7月8日）",
+    "first_seen": "2026-09-17T11:01:44.809783+00:00"
+  },
+  "2dad91c220a7a80b": {
+    "url": "https://www.fsa.go.jp/common/ronten/index.html",
+    "title": "その他,令和８年６月、令和８年７月に開催された業界団体との意見交換会において、金融庁が提起した主な論点を公表しました。",
+    "first_seen": "2026-09-17T11:01:45.196951+00:00"
+  },
+  "ba68fe2279e8aaad": {
+    "url": "https://www.fsa.go.jp/news/r8/shouken/20260917/20260917-2.html",
+    "title": "公開買付け等に係る株式発行者役員からの情報受領者による（株）グッドスピード株式に係る内部者取引に対する課徴金納付命令の決定について公表しました。",
+    "first_seen": "2026-09-17T11:01:45.196951+00:00"
+  },
+  "080082c9f1b4a480": {
+    "url": "https://www.fsa.go.jp/news/r8/shouken/20260917/20260917-3.html",
+    "title": "ＥＮＥＣＨＡＮＧＥ（株）における四半期報告書等の虚偽記載に対する課徴金納付命令の決定について公表しました。",
+    "first_seen": "2026-09-17T11:01:45.196951+00:00"
+  },
+  "4ffa017e25fb9a30": {
+    "url": "https://www.fsa.go.jp/news/r8/shouken/20260917/20260917-4.html",
+    "title": "（株）Ｉ－ｎｅにおける有価証券報告書の不記載に対する課徴金納付命令の決定について公表しました。",
+    "first_seen": "2026-09-17T11:01:45.196951+00:00"
+  },
+  "d0cebdd86bdb7d48": {
+    "url": "https://www.fsa.go.jp/news/r8/shouken/20260917/20260917-1.html",
+    "title": "ベースフード（株）株式外２銘柄に係る相場操縦に対する課徴金納付命令の決定について公表しました。",
+    "first_seen": "2026-09-17T11:01:45.196951+00:00"
+  },
+  "50764059a88797e0": {
+    "url": "https://www.boj.or.jp/statistics/sj/sj.htm",
+    "title": "資金循環統計（速報）（2026年第2四半期）",
+    "first_seen": "2026-09-17T11:01:45.436670+00:00"
+  },
+  "75c822814545542d": {
+    "url": "https://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
+    "title": "業態別の日銀当座預金残高（8月）",
+    "first_seen": "2026-09-17T11:01:45.436670+00:00"
+  },
+  "b4320e60fea86f3a": {
+    "url": "https://www.boj.or.jp/intl_finance/cooperate/coop260915a.pdf",
+    "title": "日・マレーシア間の第三次二国間通貨スワップ契約の署名",
+    "first_seen": "2026-09-17T11:01:45.436670+00:00"
+  },
+  "483690e18f0d4a21": {
+    "url": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260910.xlsx",
+    "title": "日本銀行が保有する国債の銘柄別残高",
+    "first_seen": "2026-09-17T11:01:45.436670+00:00"
   }
 }
