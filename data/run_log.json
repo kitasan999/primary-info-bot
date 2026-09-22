@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-09-20T10:41:51.213762+00:00",
-    "source_id": "mhlw_news",
-    "status": "ok",
-    "fetched": 128,
-    "new": 0
-  },
-  {
-    "timestamp": "2026-09-20T10:41:51.361929+00:00",
-    "source_id": "mhlw_kinkyu",
-    "status": "ok",
-    "fetched": 1,
-    "new": 0
-  },
-  {
-    "timestamp": "2026-09-20T10:41:51.537428+00:00",
-    "source_id": "fsa_news",
-    "status": "ok",
-    "fetched": 15,
-    "new": 0
-  },
-  {
-    "timestamp": "2026-09-20T10:41:51.764244+00:00",
-    "source_id": "boj_news",
-    "status": "ok",
-    "fetched": 61,
-    "new": 0
-  },
-  {
-    "timestamp": "2026-09-20T10:41:52.290563+00:00",
-    "source_id": "mof_news",
-    "status": "ok",
-    "fetched": 100,
-    "new": 0
-  },
-  {
     "timestamp": "2026-09-20T14:30:28.007665+00:00",
     "source_id": "mhlw_news",
     "status": "ok",
@@ -347,5 +312,40 @@
     "source_id": "mof_news",
     "status": "error",
     "message": "Remote end closed connection without response"
+  },
+  {
+    "timestamp": "2026-09-22T03:28:40.945630+00:00",
+    "source_id": "mhlw_news",
+    "status": "ok",
+    "fetched": 128,
+    "new": 0
+  },
+  {
+    "timestamp": "2026-09-22T03:28:41.121259+00:00",
+    "source_id": "mhlw_kinkyu",
+    "status": "ok",
+    "fetched": 1,
+    "new": 0
+  },
+  {
+    "timestamp": "2026-09-22T03:28:41.205824+00:00",
+    "source_id": "fsa_news",
+    "status": "ok",
+    "fetched": 15,
+    "new": 0
+  },
+  {
+    "timestamp": "2026-09-22T03:28:41.559403+00:00",
+    "source_id": "boj_news",
+    "status": "ok",
+    "fetched": 59,
+    "new": 0
+  },
+  {
+    "timestamp": "2026-09-22T03:28:42.093006+00:00",
+    "source_id": "mof_news",
+    "status": "ok",
+    "fetched": 100,
+    "new": 0
   }
 ]
