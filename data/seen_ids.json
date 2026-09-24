@@ -3163,5 +3163,80 @@
     "url": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2026.09.17_47.pdf",
     "title": "人事異動(令和8年9月17日)",
     "first_seen": "2026-09-24T13:14:52.666794+00:00"
+  },
+  "03bbd9ae35d454d5": {
+    "url": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
+    "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
+    "first_seen": "2026-09-24T18:13:10.174931+00:00"
+  },
+  "fc3923bb68a52bbb": {
+    "url": "http://www.boj.or.jp/statistics/bis/repo/index.htm",
+    "title": "FSBレポ統計の日本分集計結果",
+    "first_seen": "2026-09-24T18:13:10.976335+00:00"
+  },
+  "719c8f3864203b6c": {
+    "url": "http://www.boj.or.jp/research/research_data/reri/index.htm",
+    "title": "実質輸出入の動向",
+    "first_seen": "2026-09-24T18:13:10.976335+00:00"
+  },
+  "01b45d182be1f594": {
+    "url": "http://www.boj.or.jp/research/research_data/cai/index.htm",
+    "title": "消費活動指数",
+    "first_seen": "2026-09-24T18:13:10.976335+00:00"
+  },
+  "2258ab365065d81e": {
+    "url": "http://www.boj.or.jp/about/release_2026/rel260825a.htm",
+    "title": "（金研ニュースレター）情報セキュリティ・セミナー「生体認証技術の現在地」",
+    "first_seen": "2026-09-24T18:13:10.976335+00:00"
+  },
+  "752382c5e7bb3b53": {
+    "url": "http://www.boj.or.jp/research/research_data/cpi/index.htm",
+    "title": "消費者物価のコア指標",
+    "first_seen": "2026-09-24T18:13:10.976335+00:00"
+  },
+  "9f231ec0431737ef": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260820.xlsx",
+    "title": "日本銀行が保有する国債の銘柄別残高",
+    "first_seen": "2026-09-24T18:13:10.976335+00:00"
+  },
+  "e6f6290b87331523": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260820.htm",
+    "title": "営業毎旬報告（8月20日現在）",
+    "first_seen": "2026-09-24T18:13:10.976335+00:00"
+  },
+  "a928653cb255aec0": {
+    "url": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm",
+    "title": "政府調達情報",
+    "first_seen": "2026-09-24T18:13:11.516281+00:00"
+  },
+  "f8cfaf4244fa8dda": {
+    "url": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm",
+    "title": "入札、落札結果情報（物品・役務）",
+    "first_seen": "2026-09-24T18:13:11.516281+00:00"
+  },
+  "800384f349c4fdf7": {
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html",
+    "title": "製造たばこの小売定価の認可",
+    "first_seen": "2026-09-24T18:13:11.516281+00:00"
+  },
+  "d04b07db42ae463c": {
+    "url": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf",
+    "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース)",
+    "first_seen": "2026-09-24T18:13:11.516281+00:00"
+  },
+  "b7698a051ea6e354": {
+    "url": "https://www.mof.go.jp/policy/international_policy/reference/offshore/data/offshore.pdf",
+    "title": "オフショア勘定残高",
+    "first_seen": "2026-09-24T18:13:11.516281+00:00"
+  },
+  "54a69cab7d9e0354": {
+    "url": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm",
+    "title": "入札、落札結果情報（工事等）",
+    "first_seen": "2026-09-24T18:13:11.516281+00:00"
+  },
+  "5ca4bfef3a822241": {
+    "url": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/month.pdf",
+    "title": "対外及び対内証券売買契約等の状況(月次・指定報告機関ベース)",
+    "first_seen": "2026-09-24T18:13:11.516281+00:00"
   }
 }
