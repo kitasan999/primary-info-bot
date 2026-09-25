@@ -1,19 +1,4 @@
 {
-  "ee18c2533f41e003": {
-    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/iryouhoken/database/seido/kouki_jittai.html",
-    "title": "後期高齢者医療制度被保険者実態調査",
-    "first_seen": "2026-08-26T06:46:33.505031+00:00"
-  },
-  "cb0ebc51d2d189da": {
-    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260826a.htm",
-    "title": "流動性供給(第460回)入札において追加発行した国債の銘柄",
-    "first_seen": "2026-08-26T08:41:37.971562+00:00"
-  },
-  "49f9271e02f3a0d8": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_75766.html",
-    "title": "第62回厚生科学審議会疾病対策部会造血幹細胞移植委員会　資料",
-    "first_seen": "2026-08-26T09:39:49.102406+00:00"
-  },
   "8599a0eb5a341641": {
     "url": "https://www.mhlw.go.jp/bunya/iyakuhin/yakuzaishi/menkyo.html",
     "title": "薬剤師免許の申請手続き等について",
@@ -3318,5 +3303,85 @@
     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
     "title": "国債金利情報(令和8年9月24日)",
     "first_seen": "2026-09-25T05:51:34.632190+00:00"
+  },
+  "30f0a0f7d64d004d": {
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/iryouhoken/database/seido/kokuho_jittai_system.html",
+    "title": "国民健康保険実態調査に関する報告システムについて",
+    "first_seen": "2026-09-25T11:14:15.434170+00:00"
+  },
+  "f326a90941c82e5f": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76380.html",
+    "title": "第４回介護保険制度における預貯金等の把握等に係る検討の場の開催について",
+    "first_seen": "2026-09-25T11:14:15.434170+00:00"
+  },
+  "c7b9e7a916cc63a5": {
+    "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/s2026/07.html",
+    "title": "「人口動態統計速報」令和８（2026）年07月分",
+    "first_seen": "2026-09-25T11:14:15.434170+00:00"
+  },
+  "49695f28ffc2e002": {
+    "url": "https://www.fsa.go.jp/news/r8/singi/20260925-2.html",
+    "title": "「AI時代を見据えたオンチェーン金融フォーラム」（第１回）の開催について公表しました。",
+    "first_seen": "2026-09-25T11:14:16.070803+00:00"
+  },
+  "01996e9bd71e8e7c": {
+    "url": "https://www.fsa.go.jp/news/r8/ginkou/20260925/20260925.html",
+    "title": "第31回金融機能強化審査会の議事録について公表しました。",
+    "first_seen": "2026-09-25T11:14:16.070803+00:00"
+  },
+  "dbd1406152f4c7ad": {
+    "url": "https://www.fsa.go.jp/news/r8/ginkou/20260925/20260925-3.html",
+    "title": "経営強化計画等の履行状況（令和８年３月期）について公表しました。",
+    "first_seen": "2026-09-25T11:14:16.070803+00:00"
+  },
+  "ca2068c38d3128b2": {
+    "url": "https://www.fsa.go.jp/news/r8/ginkou/20260925.html",
+    "title": "経営強化計画等について公表しました。",
+    "first_seen": "2026-09-25T11:14:16.070803+00:00"
+  },
+  "1ffeeb1e966bcad2": {
+    "url": "https://www.fsa.go.jp/news/r8/ginkou/20260925/20260925-2.html",
+    "title": "実施計画の履行状況（令和８年３月期）について公表しました。",
+    "first_seen": "2026-09-25T11:14:16.070803+00:00"
+  },
+  "7868143fdb341ac1": {
+    "url": "https://www.fsa.go.jp/news/r8/singi/20260925.html",
+    "title": "「AI時代を見据えたオンチェーン金融フォーラム」について公表しました。",
+    "first_seen": "2026-09-25T11:14:16.070803+00:00"
+  },
+  "21269f3c5155efd7": {
+    "url": "https://www.fsa.go.jp/news/r8/singi/20261002_kansa.html",
+    "title": "企業会計審議会監査部会（第57回）の開催について掲載しました。",
+    "first_seen": "2026-09-25T11:14:16.070803+00:00"
+  },
+  "f73b70054e16d653": {
+    "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260925a.pdf",
+    "title": "共通担保資金供給オペレーションの運用について",
+    "first_seen": "2026-09-25T11:14:16.867090+00:00"
+  },
+  "9ad060449edf3fab": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260918.xlsx",
+    "title": "日本銀行が保有する国債の銘柄別残高",
+    "first_seen": "2026-09-25T11:14:16.867090+00:00"
+  },
+  "67f7055e6face2ee": {
+    "url": "http://www.boj.or.jp/statistics/pi/cspi_release/sppi2607.pdf",
+    "title": "企業向けサービス価格指数（7月）",
+    "first_seen": "2026-09-25T11:14:16.867090+00:00"
+  },
+  "7d433651b55e5e98": {
+    "url": "https://www.mof.go.jp/public_relations/conference/my20260925.html",
+    "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年9月25日(金曜日))",
+    "first_seen": "2026-09-25T11:14:17.535247+00:00"
+  },
+  "069627e9aa940505": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260925a.htm",
+    "title": "流動性供給(第462回)入札において追加発行した国債の銘柄",
+    "first_seen": "2026-09-25T11:14:17.535247+00:00"
+  },
+  "7d452b3750a33101": {
+    "url": "https://www.mof.go.jp/insideLink/20260924092323.html",
+    "title": "各府省の概算要求書、要望一覧及び『「強く豊かな日本」投資枠』一覧公開ページへのリンク先一覧",
+    "first_seen": "2026-09-25T11:14:17.535247+00:00"
   }
 }
