@@ -1,54 +1,4 @@
 {
-  "d0e62bf933bc32e4": {
-    "url": "https://www.mhlw.go.jp/kouseiroudoushou/kanbumeibo/index.html",
-    "title": "令和８年８月31日付幹部名簿",
-    "first_seen": "2026-08-31T03:52:10.982079+00:00"
-  },
-  "7a957a2595b2d657": {
-    "url": "https://www.mhlw.go.jp/kouseiroudoushou/saiyou/ikei/index.html",
-    "title": "【医系技官採用】令和8年度　後期試験は行います。半日見学会（医師および医学生を対象）の受付を開始しました。",
-    "first_seen": "2026-08-31T03:52:10.982079+00:00"
-  },
-  "39163924bdbf63dc": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_75704.html",
-    "title": "第６８回厚生科学審議会疾病対策部会指定難病検討委員会",
-    "first_seen": "2026-08-31T03:52:10.982079+00:00"
-  },
-  "ba7a21d22d685cf1": {
-    "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-iyakukyoku02-kagakubussitusinsasenmonin.html",
-    "title": "採用情報（期間業務職員（化学物質審査専門員）募集情報）",
-    "first_seen": "2026-08-31T03:52:10.982079+00:00"
-  },
-  "d1b89de2666405be": {
-    "url": "http://www.boj.or.jp/statistics/set/kess/release/2026/kess2607.pdf",
-    "title": "決済動向（7月）",
-    "first_seen": "2026-08-31T03:52:11.625599+00:00"
-  },
-  "624b84cea7651e31": {
-    "url": "http://www.boj.or.jp/statistics/sj/sjhiq.pdf",
-    "title": "資金循環（日米欧比較）（2026年第1四半期）",
-    "first_seen": "2026-08-31T03:52:11.625599+00:00"
-  },
-  "8c34378ecb59dbee": {
-    "url": "http://www.boj.or.jp/statistics/dl/loan/yaku/yaku2607.pdf",
-    "title": "貸出約定平均金利（7月）",
-    "first_seen": "2026-08-31T03:52:11.625599+00:00"
-  },
-  "e40b7bc60a2a8753": {
-    "url": "https://www.mof.go.jp/insideLink/20260828134246.html",
-    "title": "国債の償還予定額（令和8年9月分）",
-    "first_seen": "2026-08-31T03:52:12.215955+00:00"
-  },
-  "7fd2e4d89897a7f5": {
-    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-    "title": "国債金利情報(令和8年8月28日)",
-    "first_seen": "2026-08-31T03:52:12.215955+00:00"
-  },
-  "2ca1c45d9ca264b9": {
-    "url": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/shinmado20260831.htm",
-    "title": "新型窓口販売方式による2年利付国債（第488回）の発行条件等",
-    "first_seen": "2026-08-31T03:52:12.215955+00:00"
-  },
   "2179faf34f88141e": {
     "url": "https://www.mhlw.go.jp/wp/yosan/yosan/27syokan/index.html",
     "title": "令和９年度厚生労働省所管予算概算要求関係",
@@ -3448,5 +3398,175 @@
     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
     "title": "国債金利情報(令和8年9月29日)",
     "first_seen": "2026-09-30T01:06:05.729475+00:00"
+  },
+  "bda6ec7e475235ea": {
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/36163_00001.html",
+    "title": "地域ブロック別の職種別平均手数料及び離職率について",
+    "first_seen": "2026-09-30T08:02:23.454882+00:00"
+  },
+  "3fcb3d3b5787c766": {
+    "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/kakutei25/index.html",
+    "title": "令和７（2025）年　人口動態統計（確定数）の概況",
+    "first_seen": "2026-09-30T08:02:23.454882+00:00"
+  },
+  "1321a6fefc5abc3e": {
+    "url": "https://www.mhlw.go.jp/toukei/saikin/hw/hoken/katsudou/09/ryouikichousa_r08.html",
+    "title": "令和８年度保健師活動領域調査（領域調査）の結果について",
+    "first_seen": "2026-09-30T08:02:23.454882+00:00"
+  },
+  "414d5242bb07181e": {
+    "url": "https://www.mhlw.go.jp/topics/medias/c-med/2026/05/",
+    "title": "最近の調剤医療費（電算処理分）の動向　令和8年度4～5月号",
+    "first_seen": "2026-09-30T08:02:23.454882+00:00"
+  },
+  "42028e66e767baff": {
+    "url": "https://www.mhlw.go.jp/topics/medias/shika_iryou/2026/05/",
+    "title": "最近の歯科医療費（電算処理分）の動向　令和8年度4～5月号",
+    "first_seen": "2026-09-30T08:02:23.454882+00:00"
+  },
+  "af595e80624ab5c9": {
+    "url": "https://www.mhlw.go.jp/topics/medias/ika_iryou/2026/05/",
+    "title": "最近の医科医療費（電算処理分）の動向　令和8年度4～5月号",
+    "first_seen": "2026-09-30T08:02:23.454882+00:00"
+  },
+  "6a96ecfd3150438e": {
+    "url": "https://www.mhlw.go.jp/topics/medias/month/26/04-05.html",
+    "title": "最近の医療費の動向-MEDIAS-令和8年度4～5月号",
+    "first_seen": "2026-09-30T08:02:23.454882+00:00"
+  },
+  "4b6fc9c2a52c6a8e": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76403.html",
+    "title": "石綿対策に係る全国一斉パトロールを実施します",
+    "first_seen": "2026-09-30T08:02:23.454882+00:00"
+  },
+  "685cd5844ba06e08": {
+    "url": "https://www.mhlw.go.jp/toukei/saikin/hw/iryosd/m26/is2607.html",
+    "title": "医療施設動態調査（令和8(2026)年7月末概数）",
+    "first_seen": "2026-09-30T08:02:23.454882+00:00"
+  },
+  "0dcb26698b2b1871": {
+    "url": "https://www.mhlw.go.jp/toukei/saikin/hw/kaigo/kyufu/25/index.html",
+    "title": "令和７（2025）年度　介護給付費等実態統計の概況(令和７（2025）年5月審査分～令和８（2026）年4月審査分）",
+    "first_seen": "2026-09-30T08:02:23.454882+00:00"
+  },
+  "1c9b09fd333f6bb3": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76378.html",
+    "title": "第５回ゲノム編集技術等を用いたヒト受精胚等の取扱い等に関する合同会議（第13回ゲノム編集技術等を用いたヒト受精胚等の臨床利用のあり方に関する専門委員会、第26回ヒト受精胚を用いる遺伝性・先天性疾患研究に関する専門委員会）の開催について",
+    "first_seen": "2026-09-30T08:02:23.454882+00:00"
+  },
+  "d8bfbe3dc736c9e2": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76328.html",
+    "title": "第５回ゲノム編集技術等を用いたヒト受精胚等の取扱い等に関する合同会議（第13回ゲノム編集技術等を用いたヒト受精胚等の臨床利用のあり方に関する専門委員会、第26回ヒト受精胚を用いる遺伝性・先天性疾患研究に関する専門委員会）の開催について",
+    "first_seen": "2026-09-30T08:02:23.454882+00:00"
+  },
+  "b0e87163dc048ef4": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76495.html",
+    "title": "おたふくかぜワクチンについての議論のまとめ",
+    "first_seen": "2026-09-30T08:02:23.454882+00:00"
+  },
+  "fd135e0e678f7e1e": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76262.html",
+    "title": "10月は年次有給休暇取得促進期間です。",
+    "first_seen": "2026-09-30T08:02:23.454882+00:00"
+  },
+  "23600608f452afc4": {
+    "url": "https://www.fsa.go.jp/news/r8/ginkou/20260930/20260930.html",
+    "title": "「銀行法施行規則等の一部を改正する内閣府令」等について公表しました。",
+    "first_seen": "2026-09-30T08:02:24.119146+00:00"
+  },
+  "45f8991c435a5620": {
+    "url": "https://www.fsa.go.jp/singi/singi_kinyu/hokenseido_wg/gijishidai/20261001.html",
+    "title": "金融審議会「保険制度ワーキング・グループ」（第１回）議事次第について公表しました。",
+    "first_seen": "2026-09-30T08:02:24.119146+00:00"
+  },
+  "b0a39f4a1e26e1a6": {
+    "url": "https://www.fsa.go.jp/news/r8/sonota/20260930-2/20260930-2.html",
+    "title": "高速取引行為の動向（令和８年１月～６月）について公表しました。",
+    "first_seen": "2026-09-30T08:02:24.119146+00:00"
+  },
+  "2981531da4bffef5": {
+    "url": "https://www.fsa.go.jp/singi/ai_onchain/shiryou/20260930.html",
+    "title": "「AI時代を見据えたオンチェーン金融フォーラム」（第１回）議事次第について公表しました。",
+    "first_seen": "2026-09-30T08:02:24.119146+00:00"
+  },
+  "0494bcf351d3c214": {
+    "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-08/ginnsyou-08.html",
+    "title": "採用,職員を募集しています。（金融モニタリング業務（ITガバナンス・オペレーショナルレジリエンス分野）に従事する専門調査員（非常勤職員））",
+    "first_seen": "2026-09-30T08:02:24.119146+00:00"
+  },
+  "561408d7b08ce5c8": {
+    "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260930a.pdf",
+    "title": "長期国債買入れ（利回り・価格入札方式）の四半期予定（2026年10～12月）",
+    "first_seen": "2026-09-30T08:02:24.405255+00:00"
+  },
+  "7ecd4a231d08313b": {
+    "url": "http://www.boj.or.jp/paym/bond/ryudo.pdf",
+    "title": "国債市場の流動性指標（8月）",
+    "first_seen": "2026-09-30T08:02:24.405255+00:00"
+  },
+  "b38da9ab2b1fefdb": {
+    "url": "http://www.boj.or.jp/about/bcp/fso/fso260930a.pdf",
+    "title": "令和8年台風第18号に伴う災害等に対する金融上の措置について（鹿児島県）",
+    "first_seen": "2026-09-30T08:02:24.405255+00:00"
+  },
+  "fe809a8107f2b1ac": {
+    "url": "http://www.boj.or.jp/intl_finance/meeting/emeap/eme260930a.htm",
+    "title": "「AIに関するEMEAPノート：経済、金融安定、中央銀行業務への含意」の公表について",
+    "first_seen": "2026-09-30T08:02:24.405255+00:00"
+  },
+  "b396d42f8e73a11e": {
+    "url": "http://www.boj.or.jp/statistics/set/kess/release/2026/kess2608.pdf",
+    "title": "決済動向（8月）",
+    "first_seen": "2026-09-30T08:02:24.405255+00:00"
+  },
+  "8c2fa5bfe34ae233": {
+    "url": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2024.htm",
+    "title": "ユーロ建国際協力銀行国外社債に対する政府保証の付与",
+    "first_seen": "2026-09-30T08:02:25.206595+00:00"
+  },
+  "5851a071ce122e15": {
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/20260930zaiseia.html",
+    "title": "財政制度分科会（令和8年９月30日開催）資料一覧",
+    "first_seen": "2026-09-30T08:02:25.206595+00:00"
+  },
+  "05fc98c5422d8f89": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260930a.htm",
+    "title": "2年利付国債（第489回）の第II非価格競争入札結果（令和8年9月30日入札）",
+    "first_seen": "2026-09-30T08:02:25.206595+00:00"
+  },
+  "406201eeb006bbcb": {
+    "url": "https://www.mof.go.jp/policy/customs_tariff/tariff_reform/fy2027/index.html",
+    "title": "令和９年度関税改正要望事項",
+    "first_seen": "2026-09-30T08:02:25.206595+00:00"
+  },
+  "5519f75e1364bdd6": {
+    "url": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2026.09.30_48.pdf",
+    "title": "人事異動(令和8年9月30日)",
+    "first_seen": "2026-09-30T08:02:25.206595+00:00"
+  },
+  "586de7ca68699948": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260930.htm",
+    "title": "2年利付国債（第489回）の入札結果（令和8年9月30日入札）",
+    "first_seen": "2026-09-30T08:02:25.206595+00:00"
+  },
+  "ab4d09e85ba35f97": {
+    "url": "https://www.mof.go.jp/insideLink/20260929153903.html",
+    "title": "フィナンシャル・レビュー164号「財政研究の展開と日本財政の課題」を掲載しました",
+    "first_seen": "2026-09-30T08:02:25.206595+00:00"
+  },
+  "7c0133d107fe9880": {
+    "url": "https://www.mof.go.jp/insideLink/20260929150539.html",
+    "title": "ディスカッション・ペーパーを掲載しました「所得税データを用いた日本の可処分所得の上位所得シェア：2023～2024年」",
+    "first_seen": "2026-09-30T08:02:25.206595+00:00"
+  },
+  "dc03ce82a3ac93a1": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-offer260930.htm",
+    "title": "エネルギー対策特別会計の借入金の入札予定（令和8年9月30日公表）",
+    "first_seen": "2026-09-30T08:02:25.206595+00:00"
+  },
+  "118cbedc1acee954": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260930.htm",
+    "title": "2年利付国債（第489回）の入札発行（令和8年9月30日入札）",
+    "first_seen": "2026-09-30T08:02:25.206595+00:00"
   }
 }
