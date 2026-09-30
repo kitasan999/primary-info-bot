@@ -1,9 +1,4 @@
 {
-  "f938e1ee44094779": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_75921.html",
-    "title": "リビア国保健省との協力覚書に署名しました",
-    "first_seen": "2026-08-31T17:53:45.268478+00:00"
-  },
   "79a81fb44a3dab3a": {
     "url": "https://www.mhlw.go.jp/web_magazine/",
     "title": "WEBマガジン「厚生労働」（特集[戦没者慰霊]ほか更新）",
@@ -3483,5 +3478,25 @@
     "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/data/monthly/20260930.html",
     "title": "外国為替平衡操作の実施状況(令和8年8月27日～令和8年9月28日)",
     "first_seen": "2026-09-30T15:39:13.385730+00:00"
+  },
+  "1ee0f9a0ab66edc5": {
+    "url": "https://www.mhlw.go.jp/kinkyu/151106.html",
+    "title": "労働基準関係法令違反に係る公表事案",
+    "first_seen": "2026-09-30T20:33:41.269712+00:00"
+  },
+  "cf44483ed22ac952": {
+    "url": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei11/rousai-hassei/index.html",
+    "title": "労働災害発生状況",
+    "first_seen": "2026-09-30T20:33:41.269712+00:00"
+  },
+  "fc2f1e9d3290e3d8": {
+    "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260831a.pdf",
+    "title": "長期国債買入れ（利回り・価格入札方式）の四半期予定（2026年7～9月）［日程更新］",
+    "first_seen": "2026-09-30T20:33:42.160403+00:00"
+  },
+  "50ae924ce2ae25eb": {
+    "url": "http://www.boj.or.jp/about/bcp/fso/fso260831a.pdf",
+    "title": "令和8年8月27日からの大雨に伴う災害等に対する金融上の措置について（福井県）",
+    "first_seen": "2026-09-30T20:33:42.160403+00:00"
   }
 }
