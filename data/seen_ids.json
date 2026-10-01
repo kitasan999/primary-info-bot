@@ -3443,5 +3443,30 @@
     "url": "https://www.mof.go.jp/jgbs/issuance_plan/pd/261001.pdf",
     "title": "国債の落札順位",
     "first_seen": "2026-10-01T14:12:30.681594+00:00"
+  },
+  "7f9015057eb556bb": {
+    "url": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261001a.htm",
+    "title": "バーゼル銀行監督委員会による「バーゼルIIIモニタリングレポート」の公表について",
+    "first_seen": "2026-10-01T20:07:35.244666+00:00"
+  },
+  "f07c4fa42628a2bd": {
+    "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261001a.pdf",
+    "title": "気候変動対応を支援するための資金供給オペレーションの実施スケジュールについて",
+    "first_seen": "2026-10-01T20:07:35.244666+00:00"
+  },
+  "3c3e415eeb4dd22c": {
+    "url": "http://www.boj.or.jp/intl_finance/meeting/group/gro260901a.htm",
+    "title": "金融安定理事会によるG20財務大臣・中央銀行総裁へのレターの公表について",
+    "first_seen": "2026-10-01T20:07:35.244666+00:00"
+  },
+  "a669043ca96693f3": {
+    "url": "http://www.boj.or.jp/paym/bond/bond_list/bond2608.pdf",
+    "title": "債券市場サーベイ（2026年8月調査）",
+    "first_seen": "2026-10-01T20:07:35.244666+00:00"
+  },
+  "29fc4c2060e39025": {
+    "url": "http://www.boj.or.jp/statistics/boj/fm/juqf/juqf08.xlsx",
+    "title": "日銀当座預金増減要因と金融調節（8月実績）",
+    "first_seen": "2026-10-01T20:07:35.244666+00:00"
   }
 }
