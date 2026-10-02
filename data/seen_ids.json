@@ -3468,5 +3468,35 @@
     "url": "http://www.boj.or.jp/statistics/boj/fm/juqf/juqf08.xlsx",
     "title": "日銀当座預金増減要因と金融調節（8月実績）",
     "first_seen": "2026-10-01T20:07:35.244666+00:00"
+  },
+  "080556228a254b25": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76543.html",
+    "title": "第92回労働政策審議会雇用環境・均等分科会の資料を掲載しました。",
+    "first_seen": "2026-10-02T00:32:11.603733+00:00"
+  },
+  "a1696dc48e23db29": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76397.html",
+    "title": "一般職業紹介状況(令和8年8月分)について",
+    "first_seen": "2026-10-02T00:32:11.603733+00:00"
+  },
+  "2b5e6157f965a080": {
+    "url": "http://www.boj.or.jp/statistics/dl/loan/yaku/yaku2608.pdf",
+    "title": "貸出約定平均金利（8月）",
+    "first_seen": "2026-10-02T00:32:13.470210+00:00"
+  },
+  "f5eb6d01b3ef0089": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
+    "title": "マネタリーベース（9月）",
+    "first_seen": "2026-10-02T00:32:13.470210+00:00"
+  },
+  "6b694d75fc053f39": {
+    "url": "http://www.boj.or.jp/statistics/tk/tankan09b.htm",
+    "title": "短観（9月）＜調査全容＞",
+    "first_seen": "2026-10-02T00:32:13.470210+00:00"
+  },
+  "9213abb974cec1fe": {
+    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+    "title": "国債金利情報(令和8年10月1日)",
+    "first_seen": "2026-10-02T00:32:14.262783+00:00"
   }
 }
