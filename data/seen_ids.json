@@ -1,79 +1,4 @@
 {
-  "d5565ebe7dabf9f3": {
-    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koushin.html",
-    "title": "キャリアコンサルタント更新講習について、講習一覧を更新しました",
-    "first_seen": "2026-09-02T03:02:55.733907+00:00"
-  },
-  "35daa80a232b6888": {
-    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/career_consultant02.html",
-    "title": "キャリアコンサルタントとして活動している方へ（ホームページを更新しました）",
-    "first_seen": "2026-09-02T03:02:55.733907+00:00"
-  },
-  "f2774cad2de2fe5b": {
-    "url": "https://www.mhlw.go.jp/toukei/saikin/hw/hihogosya/m2026/06.html",
-    "title": "被保護者調査（令和８年６月分概数）",
-    "first_seen": "2026-09-02T03:02:55.733907+00:00"
-  },
-  "eda1a84d9d5246e0": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_75831.html",
-    "title": "人事労務マガジン 定例第191号",
-    "first_seen": "2026-09-02T03:02:55.733907+00:00"
-  },
-  "1de7114b701e54a6": {
-    "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
-    "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
-    "first_seen": "2026-09-02T03:02:55.733907+00:00"
-  },
-  "73ba587ef796f621": {
-    "url": "http://www.boj.or.jp/about/press/koen_2026/ko260902a.htm",
-    "title": "【挨拶】高田審議委員「わが国の経済・物価情勢と金融政策」（札幌）",
-    "first_seen": "2026-09-02T03:02:56.374401+00:00"
-  },
-  "b68351455d224fd8": {
-    "url": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260831.htm",
-    "title": "営業毎旬報告（8月31日現在）",
-    "first_seen": "2026-09-02T03:02:56.374401+00:00"
-  },
-  "9fc138aa3d8a3482": {
-    "url": "http://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
-    "title": "マネタリーベース（8月）",
-    "first_seen": "2026-09-02T03:02:56.374401+00:00"
-  },
-  "ac111d888fbcfbf8": {
-    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20260902.htm",
-    "title": "国庫短期証券（第1405回）の発行予定額等",
-    "first_seen": "2026-09-02T03:02:57.013376+00:00"
-  },
-  "df73975130343421": {
-    "url": "https://www.mof.go.jp/application-contact/procurement/koubokoukoku/index.htm",
-    "title": "公募（使用許可相手方選定）公告",
-    "first_seen": "2026-09-02T03:02:57.013376+00:00"
-  },
-  "ff735912ad0b3160": {
-    "url": "https://www.mof.go.jp/policy/national_property/reference/houkoku/2025.html",
-    "title": "国有財産に関する国会報告（令和7年度）",
-    "first_seen": "2026-09-02T03:02:57.013376+00:00"
-  },
-  "1137099233648713": {
-    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-    "title": "国債金利情報(令和8年9月1日)",
-    "first_seen": "2026-09-02T03:02:57.013376+00:00"
-  },
-  "4ddb1dc8f91430f9": {
-    "url": "https://www.mof.go.jp/policy/international_policy/convention/g20/202609ja.pdf",
-    "title": "G20財務大臣・中央銀行総裁会議議長声明（仮訳）",
-    "first_seen": "2026-09-02T03:02:57.013376+00:00"
-  },
-  "eb2646f766900335": {
-    "url": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/shinmado20260902.htm",
-    "title": "新型窓口販売方式による10年利付国債（第383回）の発行条件等",
-    "first_seen": "2026-09-02T03:02:57.013376+00:00"
-  },
-  "18cd26aa747295e7": {
-    "url": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/p20260902.pdf",
-    "title": "個人向け国債の発行条件等",
-    "first_seen": "2026-09-02T03:02:57.013376+00:00"
-  },
   "d0df6f94986eb496": {
     "url": "https://www.mhlw.go.jp/stf/newpage_75941.html",
     "title": "戦没者慰霊事業のお知らせ（令和８年９月実施分）",
@@ -3498,5 +3423,70 @@
     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
     "title": "国債金利情報(令和8年10月1日)",
     "first_seen": "2026-10-02T00:32:14.262783+00:00"
+  },
+  "908f3b4b9834900b": {
+    "url": "https://www.mhlw.go.jp/general/saiyo/kokka1/yakugaku.html",
+    "title": "総合職（化学・生物・薬学）（薬系技官）",
+    "first_seen": "2026-10-02T06:42:57.768988+00:00"
+  },
+  "0c010a122e30d4a2": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76250.html",
+    "title": "ロシア連邦政府等から提供された抑留者に関する資料を日本側の資料と照合し、抑留中に死亡した者の個人を特定しました",
+    "first_seen": "2026-10-02T06:42:57.768988+00:00"
+  },
+  "2260080bfce3a642": {
+    "url": "https://www.mhlw.go.jp/kouseiroudoushou/saiyou/ikei/index.html",
+    "title": "【医系技官採用】医系技官採用情報に令和8年度後期試験の小論文課題を掲載しました（応募期間：10月7日～11月6日）",
+    "first_seen": "2026-10-02T06:42:57.768988+00:00"
+  },
+  "3cea82044c7483ed": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76402.html",
+    "title": "「第２回 創薬力向上のための官民協議会 施策検討・推進部会」を開催します（開催案内）",
+    "first_seen": "2026-10-02T06:42:57.768988+00:00"
+  },
+  "d8ced564d08a2945": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76345.html",
+    "title": "第60回労働政策審議会人材開発分科会（オンライン併用）の開催について",
+    "first_seen": "2026-10-02T06:42:57.768988+00:00"
+  },
+  "ae6ddd0e8c3be6d3": {
+    "url": "https://www.mof.go.jp/policy/exchequer/reference/receipts_payments/202609gaiyo.htm",
+    "title": "財政資金対民間収支（令和8年9月中実績）の概要",
+    "first_seen": "2026-10-02T06:42:59.372027+00:00"
+  },
+  "01f561fd73aa516d": {
+    "url": "https://www.mof.go.jp/policy/exchequer/reference/receipts_payments/202610a.pdf",
+    "title": "財政資金対民間収支（令和8年10月見込）",
+    "first_seen": "2026-10-02T06:42:59.372027+00:00"
+  },
+  "63ab2d9e65ad1c6f": {
+    "url": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2026.htm",
+    "title": "第550回日本高速道路保有・債務返済機構債券（ソーシャルボンド）に対する政府保証の付与",
+    "first_seen": "2026-10-02T06:42:59.372027+00:00"
+  },
+  "e053758eee5c26db": {
+    "url": "https://www.mof.go.jp/about_mof/mof_budget/budget/fy2027/seisakuhyouka20261002.html",
+    "title": "令和９年度政策評価調書",
+    "first_seen": "2026-10-02T06:42:59.372027+00:00"
+  },
+  "3492f601a22a5860": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20261002.htm",
+    "title": "国庫短期証券（第1410回）の入札結果",
+    "first_seen": "2026-10-02T06:42:59.372027+00:00"
+  },
+  "14588be32375ae47": {
+    "url": "https://www.mof.go.jp/about_mof/councils/policy_evaluation/press_release/20260928112122.html",
+    "title": "「第87回財務省政策評価懇談会」を開催します（傍聴者募集の御案内）",
+    "first_seen": "2026-10-02T06:42:59.372027+00:00"
+  },
+  "4bcff484284534a0": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20261002.htm",
+    "title": "国庫短期証券（第1412回）の発行予定額等",
+    "first_seen": "2026-10-02T06:42:59.372027+00:00"
+  },
+  "be75b3839c8722cb": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20261002.htm",
+    "title": "国庫短期証券（第1410回）の入札発行",
+    "first_seen": "2026-10-02T06:42:59.372027+00:00"
   }
 }
