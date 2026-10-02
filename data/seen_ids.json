@@ -1,79 +1,4 @@
 {
-  "d0df6f94986eb496": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_75941.html",
-    "title": "戦没者慰霊事業のお知らせ（令和８年９月実施分）",
-    "first_seen": "2026-09-02T08:24:48.889047+00:00"
-  },
-  "287e8319eae0dab4": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_75762.html",
-    "title": "救急医療功労者及び産科医療功労者厚生労働大臣表彰式を開催します",
-    "first_seen": "2026-09-02T08:24:48.889047+00:00"
-  },
-  "7146cf7b199c3ec5": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_75592.html",
-    "title": "第264回社会保障審議会介護給付費分科会（Web会議）を開催します",
-    "first_seen": "2026-09-02T08:24:48.889047+00:00"
-  },
-  "1b3cd141bdea6e3e": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_32214.html",
-    "title": "令和８年国民健康・栄養調査 ご協力のお願い",
-    "first_seen": "2026-09-02T08:24:48.889047+00:00"
-  },
-  "cfb57312115edd81": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_75946.html",
-    "title": "第59回労働政策審議会人材開発分科会（オンライン併用）の開催について",
-    "first_seen": "2026-09-02T08:24:48.889047+00:00"
-  },
-  "2f34b638a2d0dec1": {
-    "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260831.xlsx",
-    "title": "日本銀行が保有する国債の銘柄別残高",
-    "first_seen": "2026-09-02T08:24:49.972839+00:00"
-  },
-  "3e580977e02c3ac2": {
-    "url": "http://www.boj.or.jp/statistics/boj/other/col/col2608.xlsx",
-    "title": "日本銀行が受入れている担保の残高（8月末）",
-    "first_seen": "2026-09-02T08:24:49.972839+00:00"
-  },
-  "1e0a892eb2a69032": {
-    "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260901144536.html",
-    "title": "片山大臣と世界銀行バンガ総裁との面会（令和8年9月1日）",
-    "first_seen": "2026-09-02T08:24:50.668953+00:00"
-  },
-  "a71892cd805b01aa": {
-    "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260831131326.html",
-    "title": "片山大臣とポーランドのドマンスキ財務・経済大臣との面会（令和8年9月1日（火））",
-    "first_seen": "2026-09-02T08:24:50.668953+00:00"
-  },
-  "43c9ffc967b19689": {
-    "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260901204404.html",
-    "title": "片山大臣と米国連邦準備制度理事会のウォーシュ議長との面会（令和8年9月1日（火））",
-    "first_seen": "2026-09-02T08:24:50.668953+00:00"
-  },
-  "5ad1c86f2f58f787": {
-    "url": "https://www.mof.go.jp/policy/exchequer/reference/receipts_payments/202609a.pdf",
-    "title": "財政資金対民間収支（令和8年9月見込）",
-    "first_seen": "2026-09-02T08:24:50.668953+00:00"
-  },
-  "ffb0079ca296e68c": {
-    "url": "https://www.mof.go.jp/policy/exchequer/reference/receipts_payments/202608gaiyo.htm",
-    "title": "財政資金対民間収支（令和8年8月中実績）の概要",
-    "first_seen": "2026-09-02T08:24:50.668953+00:00"
-  },
-  "92d8e4b92d80716a": {
-    "url": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2020.htm",
-    "title": "第91回株式会社日本政策投資銀行社債に対する政府保証の付与",
-    "first_seen": "2026-09-02T08:24:50.668953+00:00"
-  },
-  "7b453545f5ad67b9": {
-    "url": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2019.htm",
-    "title": "第549回日本高速道路保有・債務返済機構債券（ソーシャルボンド）に対する政府保証の付与",
-    "first_seen": "2026-09-02T08:24:50.668953+00:00"
-  },
-  "e3869b27df35bc69": {
-    "url": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2021.htm",
-    "title": "第11回株式会社産業革新投資機構社債に対する政府保証の付与",
-    "first_seen": "2026-09-02T08:24:50.668953+00:00"
-  },
   "51d52e415adde855": {
     "url": "http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2609.xlsx",
     "title": "日銀当座預金増減要因（9月見込み）",
@@ -3488,5 +3413,80 @@
     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20261002.htm",
     "title": "国庫短期証券（第1410回）の入札発行",
     "first_seen": "2026-10-02T06:42:59.372027+00:00"
+  },
+  "1de7114b701e54a6": {
+    "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
+    "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+    "first_seen": "2026-10-02T13:35:13.340670+00:00"
+  },
+  "724b8c80509ec6b9": {
+    "url": "https://www.fsa.go.jp/news/r8/singi/20261009.html",
+    "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第２回）の開催について公表しました。",
+    "first_seen": "2026-10-02T13:35:13.933880+00:00"
+  },
+  "7bfef54ced43b583": {
+    "url": "https://www.fsa.go.jp/policy/nisa/20261002.html",
+    "title": "NISA口座の利用状況に関する調査結果（令和８年６月末時点）について公表しました。",
+    "first_seen": "2026-10-02T13:35:13.933880+00:00"
+  },
+  "bb635e9e75cc7202": {
+    "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20260911-1.html",
+    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年９月11日）について掲載しました。",
+    "first_seen": "2026-10-02T13:35:13.933880+00:00"
+  },
+  "e65a21e899973d4a": {
+    "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20260915-1.html",
+    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣臨時閣議後記者会見の概要（令和８年９月15日）について掲載しました。",
+    "first_seen": "2026-10-02T13:35:13.933880+00:00"
+  },
+  "ab5125f4c664865a": {
+    "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20260917-1.html",
+    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣臨時閣議後記者会見の概要（令和８年９月17日）について掲載しました。",
+    "first_seen": "2026-10-02T13:35:13.933880+00:00"
+  },
+  "e5f8d2710cbaf44f": {
+    "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20260918-1.html",
+    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年９月18日）について掲載しました。",
+    "first_seen": "2026-10-02T13:35:13.933880+00:00"
+  },
+  "35c7bc07fefb69d5": {
+    "url": "https://www.fsa.go.jp/common/about/jinji/index.html",
+    "title": "人事異動（令和８年９月30日付幹部名簿の更新）について公表しました。",
+    "first_seen": "2026-10-02T13:35:13.933880+00:00"
+  },
+  "49e82c34bb8a3425": {
+    "url": "https://www.fsa.go.jp/news/r8/ginkou/20260924.html",
+    "title": "令和８年台風第25号に伴う災害等に対する金融上の措置について更新しました。",
+    "first_seen": "2026-10-02T13:35:13.933880+00:00"
+  },
+  "8b77b686097f537f": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260930.xlsx",
+    "title": "日本銀行が保有する国債の銘柄別残高",
+    "first_seen": "2026-10-02T13:35:14.291308+00:00"
+  },
+  "0c21779813bd0543": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/col/col2609.xlsx",
+    "title": "日本銀行が受入れている担保の残高（9月末）",
+    "first_seen": "2026-10-02T13:35:14.291308+00:00"
+  },
+  "b68351455d224fd8": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260831.htm",
+    "title": "営業毎旬報告（8月31日現在）",
+    "first_seen": "2026-10-02T13:35:14.291308+00:00"
+  },
+  "913f72a44757f4d4": {
+    "url": "https://www.mof.go.jp/public_relations/conference/my20261002.html",
+    "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月2日(金曜日))",
+    "first_seen": "2026-10-02T13:35:14.905794+00:00"
+  },
+  "ba6ed78e9086ef1a": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/syokyaku/ichiran223.htm",
+    "title": "買入消却入札による買入れの詳細及び累計（令和8年9月実施分）",
+    "first_seen": "2026-10-02T13:35:14.905794+00:00"
+  },
+  "e2fd94d3bf1d0654": {
+    "url": "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/20261001205921.html",
+    "title": "ウクライナ情勢に関する外国為替及び外国貿易法に基づく措置について（令和8年10月2日）",
+    "first_seen": "2026-10-02T13:35:14.905794+00:00"
   }
 }
