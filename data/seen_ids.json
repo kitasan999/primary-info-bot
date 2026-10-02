@@ -3488,5 +3488,15 @@
     "url": "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/20261001205921.html",
     "title": "ウクライナ情勢に関する外国為替及び外国貿易法に基づく措置について（令和8年10月2日）",
     "first_seen": "2026-10-02T13:35:14.905794+00:00"
+  },
+  "2f34b638a2d0dec1": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260831.xlsx",
+    "title": "日本銀行が保有する国債の銘柄別残高",
+    "first_seen": "2026-10-02T18:59:17.425677+00:00"
+  },
+  "3e580977e02c3ac2": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/col/col2608.xlsx",
+    "title": "日本銀行が受入れている担保の残高（8月末）",
+    "first_seen": "2026-10-02T18:59:17.425677+00:00"
   }
 }
