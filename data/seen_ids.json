@@ -3408,5 +3408,30 @@
     "url": "http://www.boj.or.jp/paym/market/mkt260903a.pdf",
     "title": "「市場調節に関する意見交換会」の開催について",
     "first_seen": "2026-10-03T13:03:22.539297+00:00"
+  },
+  "90f73ba5d705b151": {
+    "url": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260930.xlsx",
+    "title": "日本銀行が保有する国債の銘柄別残高",
+    "first_seen": "2026-10-03T20:37:45.919727+00:00"
+  },
+  "710fc1a307233c4b": {
+    "url": "https://www.boj.or.jp/statistics/boj/other/col/col2609.xlsx",
+    "title": "日本銀行が受入れている担保の残高（9月末）",
+    "first_seen": "2026-10-03T20:37:45.919727+00:00"
+  },
+  "a699cc2097ec0897": {
+    "url": "https://www.boj.or.jp/statistics/dl/loan/yaku/yaku2608.pdf",
+    "title": "貸出約定平均金利（8月）",
+    "first_seen": "2026-10-03T20:37:45.919727+00:00"
+  },
+  "f00fa191e26a90b6": {
+    "url": "https://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
+    "title": "マネタリーベース（9月）",
+    "first_seen": "2026-10-03T20:37:45.919727+00:00"
+  },
+  "0714e6fe639ab050": {
+    "url": "https://www.boj.or.jp/statistics/tk/tankan09b.htm",
+    "title": "短観（9月）＜調査全容＞",
+    "first_seen": "2026-10-03T20:37:45.919727+00:00"
   }
 }
