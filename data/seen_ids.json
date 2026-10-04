@@ -1,9 +1,4 @@
 {
-  "e0410bffc12c823f": {
-    "url": "https://www.mof.go.jp/public_relations/conference/my20260904.html",
-    "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年9月4日(金曜日))",
-    "first_seen": "2026-09-04T14:48:11.773531+00:00"
-  },
   "dcb1b64456f5f839": {
     "url": "https://www.boj.or.jp/about/press/kaiken_2026/kk260904a.pdf",
     "title": "【記者会見】植田総裁（G20、9月1日分）",
@@ -3278,5 +3273,10 @@
     "url": "https://www.boj.or.jp/statistics/tk/tankan09b.htm",
     "title": "短観（9月）＜調査全容＞",
     "first_seen": "2026-10-03T20:37:45.919727+00:00"
+  },
+  "88563ec65645c810": {
+    "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk260904a.pdf",
+    "title": "【記者会見】植田総裁（G20、9月1日分）",
+    "first_seen": "2026-10-04T15:40:07.346870+00:00"
   }
 }
