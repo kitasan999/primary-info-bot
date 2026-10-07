@@ -1,84 +1,4 @@
 {
-  "cb7e16af525f5221": {
-    "url": "http://www.boj.or.jp/about/bcp/fso/fso260907a.pdf",
-    "title": "令和8年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について（鹿児島県）",
-    "first_seen": "2026-09-07T03:04:03.236024+00:00"
-  },
-  "76a9bf3721fef0c9": {
-    "url": "http://www.boj.or.jp/statistics/boj/other/mbt/mbt2608.pdf",
-    "title": "マネタリーベースと日本銀行の取引（8月）",
-    "first_seen": "2026-09-07T03:04:03.236024+00:00"
-  },
-  "d03a0110cdd690ca": {
-    "url": "http://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2608.pdf",
-    "title": "日本銀行の対政府取引（8月）",
-    "first_seen": "2026-09-07T03:04:03.236024+00:00"
-  },
-  "187fae289da0d782": {
-    "url": "http://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2608.xlsx",
-    "title": "オペレーション（8月）",
-    "first_seen": "2026-09-07T03:04:03.236024+00:00"
-  },
-  "49de12904e209290": {
-    "url": "https://www.mof.go.jp/tax_policy/tax_reform/outline/fy2027/request/index.html",
-    "title": "令和９年度税制改正要望",
-    "first_seen": "2026-09-07T03:04:04.662978+00:00"
-  },
-  "a359505b7e904023": {
-    "url": "https://www.mof.go.jp/application-contact/procurement/20211005180654.html",
-    "title": "国の災害用備蓄食品の有効活用の取組みについて",
-    "first_seen": "2026-09-07T03:04:04.662978+00:00"
-  },
-  "f437481136b7cf5e": {
-    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-    "title": "国債金利情報(令和8年9月4日)",
-    "first_seen": "2026-09-07T03:04:04.662978+00:00"
-  },
-  "fd91ea401c1415ec": {
-    "url": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/data/0808.html",
-    "title": "外貨準備等の状況（令和8年8月末現在）",
-    "first_seen": "2026-09-07T03:04:04.662978+00:00"
-  },
-  "9ceafed77c270c23": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76056.html",
-    "title": "第131回労働政策審議会労働条件分科会労災保険部会資料",
-    "first_seen": "2026-09-07T08:57:10.165979+00:00"
-  },
-  "39fd05ffd2b256ba": {
-    "url": "https://www.mhlw.go.jp/stf/shingi/0001210262_00101.html",
-    "title": "第２回厚生労働省ヘルスケアＡＸ・ＤＸ推進本部の開催案内",
-    "first_seen": "2026-09-07T08:57:10.165979+00:00"
-  },
-  "4efaa10ebd643926": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76050.html",
-    "title": "第59回労働政策審議会人材開発分科会（オンライン併用）の開催について",
-    "first_seen": "2026-09-07T08:57:10.165979+00:00"
-  },
-  "f9bb2b571877531c": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76047.html",
-    "title": "第59回労働政策審議会人材開発分科会（オンライン併用）の開催について",
-    "first_seen": "2026-09-07T08:57:10.165979+00:00"
-  },
-  "685960b9e836f47b": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_75971.html",
-    "title": "第２回　令和８年度医師の働き方改革の推進等に関する検討会：開催案内",
-    "first_seen": "2026-09-07T08:57:10.165979+00:00"
-  },
-  "9cd0855c8386b8bc": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_75906.html",
-    "title": "令和７年度第９回薬事審議会化学物質安全対策部会化学物質調査会",
-    "first_seen": "2026-09-07T08:57:10.165979+00:00"
-  },
-  "9c4df496b87dfdb9": {
-    "url": "https://www.mhlw.go.jp/stf/shinngi_00021.html",
-    "title": "第８回労働政策審議会労働条件分科会「組織再編に伴う労働関係の調整に関する部会」(開催案内)",
-    "first_seen": "2026-09-07T08:57:10.165979+00:00"
-  },
-  "4b38ba23e720a520": {
-    "url": "http://www.boj.or.jp/statistics/market/short/call/call.xlsx",
-    "title": "コール市場残高（8月）",
-    "first_seen": "2026-09-07T08:57:11.377349+00:00"
-  },
   "0a750b5140c6da12": {
     "url": "https://www.mhlw.go.jp/stf/newpage_76057.html",
     "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
@@ -3293,5 +3213,75 @@
     "url": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/p20261007.pdf",
     "title": "個人向け国債の発行条件等",
     "first_seen": "2026-10-07T02:07:06.177508+00:00"
+  },
+  "08109e2710371897": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76638.html",
+    "title": "厚生科学審議会感染症部会第２７回新型インフルエンザ対策に関する小委員会 ・第１２回危機対応医薬品等に関する小委員会についてを開催します",
+    "first_seen": "2026-10-07T09:51:58.106628+00:00"
+  },
+  "4fa1def65192c157": {
+    "url": "https://www.mhlw.go.jp/stf/shingi/shingi-kousei_263447_00003.html",
+    "title": "厚生科学審議会 (新型インフルエンザ対策に関する小委員会)",
+    "first_seen": "2026-10-07T09:51:58.106628+00:00"
+  },
+  "027813ef0c5287b4": {
+    "url": "https://www.mhlw.go.jp/stf/shingi2/0000068982_00003.html",
+    "title": "第１７回厚生科学審議会結核部会の開催について",
+    "first_seen": "2026-10-07T09:51:58.106628+00:00"
+  },
+  "3c9acb3981d6a4c1": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76616.html",
+    "title": "第188回市町村セミナーの資料について",
+    "first_seen": "2026-10-07T09:51:58.106628+00:00"
+  },
+  "d26c4bece42fbb37": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76547.html",
+    "title": "薬事審議会　医薬品第二部会を開催します",
+    "first_seen": "2026-10-07T09:51:58.106628+00:00"
+  },
+  "6fa59e104ab2e5a7": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76524.html",
+    "title": "第38回特定石綿被害建設業務労働者等認定審査会専門委員会　開催案内",
+    "first_seen": "2026-10-07T09:51:58.106628+00:00"
+  },
+  "9aafcb1f85fb2cd5": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76512.html",
+    "title": "「令和８年度 第１回 薬事審議会 化学物質安全対策部会 家庭用品安全対策調査会」 <br/> を開催します（開催案内）",
+    "first_seen": "2026-10-07T09:51:58.106628+00:00"
+  },
+  "c34186f5ca993bf7": {
+    "url": "https://www.fsa.go.jp/ordinary/chuui/angoushisan_mutouroku.html",
+    "title": "無登録で暗号資産交換業を行う者の名称等について公表しました。",
+    "first_seen": "2026-10-07T09:51:58.494321+00:00"
+  },
+  "0d9b834f12b31453": {
+    "url": "http://www.boj.or.jp/statistics/market/short/call/call.xlsx",
+    "title": "コール市場残高（9月）",
+    "first_seen": "2026-10-07T09:51:58.830588+00:00"
+  },
+  "a05ed8fda930714a": {
+    "url": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2028.htm",
+    "title": "第56回住宅金融支援機構債券（グリーンボンド）に対する政府保証の付与",
+    "first_seen": "2026-10-07T09:51:59.467887+00:00"
+  },
+  "1be80d8e5e4945b5": {
+    "url": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2027.htm",
+    "title": "第551回日本高速道路保有・債務返済機構債券（ソーシャルボンド）に対する政府保証の付与",
+    "first_seen": "2026-10-07T09:51:59.467887+00:00"
+  },
+  "ab6a303264aa050d": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-result261007.htm",
+    "title": "エネルギー対策特別会計の借入金の入札結果（令和8年10月7日入札）",
+    "first_seen": "2026-10-07T09:51:59.467887+00:00"
+  },
+  "cd9a7e9db3c56188": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/syokyaku/resul418.htm",
+    "title": "国債整理基金による買入消却に係る国債の買入れのための入札結果（令和8年10月7日）",
+    "first_seen": "2026-10-07T09:51:59.467887+00:00"
+  },
+  "9c9365da1ab37bcb": {
+    "url": "https://www.mof.go.jp/public_relations/conference/my20261006.html",
+    "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月6日(火曜日))",
+    "first_seen": "2026-10-07T09:51:59.467887+00:00"
   }
 }
