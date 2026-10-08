@@ -1,29 +1,4 @@
 {
-  "ae9fb358ed59bcbe": {
-    "url": "https://www.mhlw.go.jp/toukei/saikin/hw/byouin/m26/06.html",
-    "title": "病院報告（令和８(2026)年6月分概数）",
-    "first_seen": "2026-09-08T05:37:47.555093+00:00"
-  },
-  "9aedd7bcb0fe9051": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76061.html",
-    "title": "令和８年度 第１回戦没者の遺骨収集に関する有識者会議資料",
-    "first_seen": "2026-09-08T05:37:47.555093+00:00"
-  },
-  "4075b3b6f4ed4233": {
-    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260908.htm",
-    "title": "5年利付国債（第187回）の入札結果（令和8年9月8日入札）",
-    "first_seen": "2026-09-08T05:37:48.815698+00:00"
-  },
-  "42e27954710cd556": {
-    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260908.htm",
-    "title": "5年利付国債（第187回）の入札発行（令和8年9月8日入札）",
-    "first_seen": "2026-09-08T05:37:48.815698+00:00"
-  },
-  "7696b96e7d0a0a33": {
-    "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260908.htm",
-    "title": "20年利付国債（9月債）の発行予定額等（令和8年9月8日公表）",
-    "first_seen": "2026-09-08T05:37:48.815698+00:00"
-  },
   "0b2d08ca462b663c": {
     "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/m2026/04.html",
     "title": "「人口動態統計月報（概数）」令和８（2026）年４月分",
@@ -3313,5 +3288,100 @@
     "url": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/pg202608.htm",
     "title": "令和8年8月中 国際収支状況（速報）の概要",
     "first_seen": "2026-10-08T02:32:50.922738+00:00"
+  },
+  "1b6fda918b84a4b8": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76658.html",
+    "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+    "first_seen": "2026-10-08T10:03:20.717404+00:00"
+  },
+  "464dcd882670efd1": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76455.html",
+    "title": "第269回社会保障審議会介護給付費分科会（Web会議）を開催します",
+    "first_seen": "2026-10-08T10:03:20.717404+00:00"
+  },
+  "2035379b08cb3a9b": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76385.html",
+    "title": "薬事審議会　再生医療等製品・生物由来技術部会を開催します",
+    "first_seen": "2026-10-08T10:03:20.717404+00:00"
+  },
+  "5a7f544d46108c6e": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76332.html",
+    "title": "令和８年度「食品衛生事業功労者厚生労働大臣表彰」の受賞者の決定について",
+    "first_seen": "2026-10-08T10:03:20.717404+00:00"
+  },
+  "412bef5606a5e119": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76654.html",
+    "title": "第80回ハンセン病元患者家族補償金認定審査会",
+    "first_seen": "2026-10-08T10:03:20.717404+00:00"
+  },
+  "65fd1f6d26f3d31b": {
+    "url": "https://www.fsa.go.jp/singi/singi_kinyu/seityousikin_wg/gijishidai/20261009.html",
+    "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第２回）議事次第について公表しました。",
+    "first_seen": "2026-10-08T10:03:21.000803+00:00"
+  },
+  "b9d691bf2a811a2e": {
+    "url": "https://www.fsa.go.jp/status/npl/20261008.html",
+    "title": "令和８年３月期における金融再生法開示債権の状況等（ポイント）を公表しました。",
+    "first_seen": "2026-10-08T10:03:21.000803+00:00"
+  },
+  "704e1d016e8c035c": {
+    "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-09/ginnsyou-09.html",
+    "title": "採用,職員を募集しています。（金融モニタリング業務に従事する職員）",
+    "first_seen": "2026-10-08T10:03:21.000803+00:00"
+  },
+  "424693ff5526fb01": {
+    "url": "http://www.boj.or.jp/about/recruit/rec261008a.htm",
+    "title": "金融経済調査および統計作成事務に関する「短期リサーチスタッフ」の募集について",
+    "first_seen": "2026-10-08T10:03:21.217302+00:00"
+  },
+  "559cf29367e476f7": {
+    "url": "http://www.boj.or.jp/research/brp/rer/rera261008.htm",
+    "title": "各地域からみた景気の現状（2026年10月支店長会議における報告）",
+    "first_seen": "2026-10-08T10:03:21.217302+00:00"
+  },
+  "eb1500f680f54de4": {
+    "url": "http://www.boj.or.jp/research/brp/rer/rer261008.htm",
+    "title": "地域経済報告（さくらレポート、2026年10月）",
+    "first_seen": "2026-10-08T10:03:21.217302+00:00"
+  },
+  "ff12fa6cd0e2a31f": {
+    "url": "http://www.boj.or.jp/statistics/other/toukai/toukai.xlsx",
+    "title": "東海地域業況判断DI（9月）",
+    "first_seen": "2026-10-08T10:03:21.217302+00:00"
+  },
+  "f185b15593b25b9c": {
+    "url": "http://www.boj.or.jp/statistics/other/kantou/kantou.xlsx",
+    "title": "関東甲信越地域業況判断DI（9月）",
+    "first_seen": "2026-10-08T10:03:21.217302+00:00"
+  },
+  "e16a01468e2c1fe0": {
+    "url": "http://www.boj.or.jp/statistics/dl/depo/kashi/kasi2608.pdf",
+    "title": "貸出・預金動向（8月）",
+    "first_seen": "2026-10-08T10:03:21.217302+00:00"
+  },
+  "8edb101fdc97afcb": {
+    "url": "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/congohoudou_20261009.html",
+    "title": "コンゴ民主共和国に対する武器禁輸措置等に違反した者等に対する資産凍結等措置の対象者の追加を実施します",
+    "first_seen": "2026-10-08T10:03:21.807213+00:00"
+  },
+  "4c10f1291f80ddb9": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261008a.htm",
+    "title": "30年利付国債（第92回）の第II非価格競争入札結果（令和8年10月8日入札）",
+    "first_seen": "2026-10-08T10:03:21.807213+00:00"
+  },
+  "de7bc7ce72e5cab1": {
+    "url": "http://www.mof.go.jp/about_mof/councils/study_on_chain/index.html",
+    "title": "国債のオンチェーン対応に関する研究会",
+    "first_seen": "2026-10-08T10:03:21.807213+00:00"
+  },
+  "4ce9a4b47ebc239b": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261008.htm",
+    "title": "30年利付国債（第92回）の入札結果（令和8年10月8日入札）",
+    "first_seen": "2026-10-08T10:03:21.807213+00:00"
+  },
+  "9cc51be4cdbca543": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20261008.htm",
+    "title": "国庫短期証券（第1411回）の入札結果",
+    "first_seen": "2026-10-08T10:03:21.807213+00:00"
   }
 }
