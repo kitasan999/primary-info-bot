@@ -1,54 +1,4 @@
 {
-  "0b2d08ca462b663c": {
-    "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/m2026/04.html",
-    "title": "「人口動態統計月報（概数）」令和８（2026）年４月分",
-    "first_seen": "2026-09-08T10:38:55.026743+00:00"
-  },
-  "be616dab50f8ea06": {
-    "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20260904-1.html",
-    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年９月４日）について掲載しました。",
-    "first_seen": "2026-09-08T10:38:55.373413+00:00"
-  },
-  "62b586b5fc0c09ab": {
-    "url": "https://www.boj.or.jp/statistics/dl/depo/kashi/kasi2608.pdf",
-    "title": "貸出・預金動向（8月）",
-    "first_seen": "2026-09-08T10:38:55.731554+00:00"
-  },
-  "f746345c37b1d1f4": {
-    "url": "https://www.boj.or.jp/statistics/market/short/call/call.xlsx",
-    "title": "コール市場残高（8月）",
-    "first_seen": "2026-09-08T10:38:55.731554+00:00"
-  },
-  "8fea14925d2ac074": {
-    "url": "https://www.boj.or.jp/about/bcp/fso/fso260907a.pdf",
-    "title": "令和8年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について（鹿児島県）",
-    "first_seen": "2026-09-08T10:38:55.731554+00:00"
-  },
-  "9f99dda27b454d03": {
-    "url": "https://www.boj.or.jp/statistics/boj/other/mbt/mbt2608.pdf",
-    "title": "マネタリーベースと日本銀行の取引（8月）",
-    "first_seen": "2026-09-08T10:38:55.731554+00:00"
-  },
-  "17758fd55d13010b": {
-    "url": "https://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2608.pdf",
-    "title": "日本銀行の対政府取引（8月）",
-    "first_seen": "2026-09-08T10:38:55.731554+00:00"
-  },
-  "bf6a09b67e4de710": {
-    "url": "https://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2608.xlsx",
-    "title": "オペレーション（8月）",
-    "first_seen": "2026-09-08T10:38:55.731554+00:00"
-  },
-  "9f7cc0ec0400f70a": {
-    "url": "https://www.mof.go.jp/public_relations/conference/my20260908.html",
-    "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年9月8日(火曜日))",
-    "first_seen": "2026-09-08T10:38:56.438941+00:00"
-  },
-  "7f014505ff5b0966": {
-    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260908a.htm",
-    "title": "5年利付国債（第187回）の第II非価格競争入札結果（令和8年9月8日入札）",
-    "first_seen": "2026-09-08T10:38:56.438941+00:00"
-  },
   "60b4adf6344f7421": {
     "url": "http://www.boj.or.jp/statistics/money/ms/ms2608.pdf",
     "title": "マネーストック（8月）",
@@ -3383,5 +3333,20 @@
     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20261008.htm",
     "title": "国庫短期証券（第1411回）の入札結果",
     "first_seen": "2026-10-08T10:03:21.807213+00:00"
+  },
+  "dc15b5d8d6e84654": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76665.html",
+    "title": "第133回労働政策審議会労働条件分科会労災保険部会資料",
+    "first_seen": "2026-10-08T17:44:06.670280+00:00"
+  },
+  "c1e5b2a41678687d": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76663.html",
+    "title": "第60回労働政策審議会人材開発分科会（オンライン併用）の開催について",
+    "first_seen": "2026-10-08T17:44:06.670280+00:00"
+  },
+  "943fb7fc4b9ebf26": {
+    "url": "https://www.mof.go.jp/about_mof/councils/study_on_chain/index.html",
+    "title": "国債のオンチェーン対応に関する研究会",
+    "first_seen": "2026-10-08T17:44:09.727945+00:00"
   }
 }
