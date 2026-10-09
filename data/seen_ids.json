@@ -1,14 +1,4 @@
 {
-  "aedaafae958f3440": {
-    "url": "https://www.fsa.go.jp/news/r8/ginkou/20260907.html",
-    "title": "令和８年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について更新しました。",
-    "first_seen": "2026-09-09T13:25:59.415727+00:00"
-  },
-  "56664120213bc93a": {
-    "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260909091349.html",
-    "title": "片山大臣とセラフィン欧州委員との面会（令和8年9月9日（水））",
-    "first_seen": "2026-09-09T13:26:00.906585+00:00"
-  },
   "a53fd7d386568b9d": {
     "url": "http://www.boj.or.jp/statistics/bis/yoshi/index.htm",
     "title": "デリバティブ取引に関する定例市場報告",
@@ -3393,5 +3383,25 @@
     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20261009.htm",
     "title": "国庫短期証券（第1412回）の入札結果",
     "first_seen": "2026-10-09T10:05:54.994091+00:00"
+  },
+  "9e0e7056e7e77cb6": {
+    "url": "https://www.fsa.go.jp/ordinary/chuui/chuui_phishing.html",
+    "title": "「インターネット取引サービスへの不正アクセス・不正取引にご注意ください」のページを更新しました。",
+    "first_seen": "2026-10-09T17:20:15.295641+00:00"
+  },
+  "dbf9e6ca26f52d24": {
+    "url": "http://www.boj.or.jp/about/bcp/fso/fso260909a.pdf",
+    "title": "令和8年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について（愛知県）",
+    "first_seen": "2026-10-09T17:20:15.805961+00:00"
+  },
+  "6c59f91a9573df5d": {
+    "url": "http://www.boj.or.jp/about/organization/notice/index.htm",
+    "title": "日本銀行やその役職員の関与を装った不審な連絡・勧誘・ウェブサイト・SNSアカウントなどにご注意ください",
+    "first_seen": "2026-10-09T17:20:15.805961+00:00"
+  },
+  "733b9fba54bc9a31": {
+    "url": "https://www.mof.go.jp/public_relations/conference/my20261009.html",
+    "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月9日(金曜日))",
+    "first_seen": "2026-10-09T17:20:16.668466+00:00"
   }
 }
