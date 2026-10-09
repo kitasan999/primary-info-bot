@@ -1,14 +1,4 @@
 {
-  "60b4adf6344f7421": {
-    "url": "http://www.boj.or.jp/statistics/money/ms/ms2608.pdf",
-    "title": "マネーストック（8月）",
-    "first_seen": "2026-09-08T23:50:56.146404+00:00"
-  },
-  "7723b2649649d0ad": {
-    "url": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/shinmado20260909.htm",
-    "title": "新型窓口販売方式による5年利付国債（第187回）の発行条件等",
-    "first_seen": "2026-09-08T23:50:57.306218+00:00"
-  },
   "71d13140273bd7d0": {
     "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/chuto-hiritsu.html",
     "title": "中途採用比率の公表について",
@@ -3348,5 +3338,55 @@
     "url": "https://www.mof.go.jp/about_mof/councils/study_on_chain/index.html",
     "title": "国債のオンチェーン対応に関する研究会",
     "first_seen": "2026-10-08T17:44:09.727945+00:00"
+  },
+  "2cc53c010c143fbe": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76664.html",
+    "title": "有料老人ホームにおける望ましいサービス提供のあり方に関する検討会（第10回）の資料について",
+    "first_seen": "2026-10-09T02:50:58.953845+00:00"
+  },
+  "1f44c6e454ea4644": {
+    "url": "https://www.fsa.go.jp/news/r8/sonota/20261009/20261009.html",
+    "title": "現下の情勢を踏まえたサイバーセキュリティ対策の強化と各種取引申込等における対応について公表しました。",
+    "first_seen": "2026-10-09T02:50:59.268877+00:00"
+  },
+  "ca4210977ac7370c": {
+    "url": "https://www.fsa.go.jp/ordinary/earthquake202401/press.html",
+    "title": "令和６年能登半島地震関連情報に関する特設ページを更新しました。（令和８年10月９日 10時00分時点）",
+    "first_seen": "2026-10-09T02:50:59.268877+00:00"
+  },
+  "631b20980e9ee4d6": {
+    "url": "https://www.fsa.go.jp/ordinary/earthquake202607/fund.html",
+    "title": "「熊本産業復興相談センター」の開設及び「令和８年熊本地震復興支援ファンド」の設立について（令和８年熊本地震による被災事業者の多重債務問題対応）公表しました。",
+    "first_seen": "2026-10-09T02:50:59.268877+00:00"
+  },
+  "c82349977ff80fe0": {
+    "url": "https://www.mof.go.jp/policy/currency/coin/test/20261009.html",
+    "title": "第155次製造貨幣大試験を実施します",
+    "first_seen": "2026-10-09T02:51:00.543512+00:00"
+  },
+  "7f963a35dc80e02e": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20261009b.htm",
+    "title": "国庫短期証券（第1414回）の発行予定額等",
+    "first_seen": "2026-10-09T02:51:00.543512+00:00"
+  },
+  "be698789e4c3a353": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20261009a.htm",
+    "title": "国庫短期証券（第1413回）の発行予定額等",
+    "first_seen": "2026-10-09T02:51:00.543512+00:00"
+  },
+  "2b873b33c50d0a68": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20261009.htm",
+    "title": "国庫短期証券（第1412回）の入札発行",
+    "first_seen": "2026-10-09T02:51:00.543512+00:00"
+  },
+  "b4c9e4799cd2b521": {
+    "url": "https://www.mof.go.jp/jgbs/reference/appendix/suii/index.htm",
+    "title": "分離適格振替国債の分離状況並びに現在高推移",
+    "first_seen": "2026-10-09T02:51:00.543512+00:00"
+  },
+  "16d277330fa162ce": {
+    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+    "title": "国債金利情報(令和8年10月8日)",
+    "first_seen": "2026-10-09T02:51:00.543512+00:00"
   }
 }
