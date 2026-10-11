@@ -1,9 +1,4 @@
 {
-  "554618989b6c287a": {
-    "url": "https://www.fsa.go.jp/ordinary/chuui/bithills_inc._keikokushiryo.pdf",
-    "title": "無登録で貸金業を行っている者等（Bit Hills Inc.）に対する警告書の発出について公表しました。",
-    "first_seen": "2026-09-11T13:16:16.850069+00:00"
-  },
   "87c0a51958d05fc7": {
     "url": "https://www.mhlw.go.jp/stf/newpage_76042.html",
     "title": "「第１回 創薬力向上のための官民協議会 施策検討・推進部会」を開催します（開催案内）",
@@ -3148,5 +3143,25 @@
     "url": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2608.pdf",
     "title": "企業物価指数（8月）",
     "first_seen": "2026-10-11T11:13:56.326371+00:00"
+  },
+  "9972bb77f43f0541": {
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00025.html",
+    "title": "インフルエンザに関する報道発表資料を更新しました",
+    "first_seen": "2026-10-11T17:22:39.289528+00:00"
+  },
+  "54fbe5f2b820d83f": {
+    "url": "http://www.boj.or.jp/about/organization/policyboard/pb_geppo/pbgp2607.htm",
+    "title": "日本銀行政策委員会月報（令和8年7月号）",
+    "first_seen": "2026-10-11T17:22:39.993855+00:00"
+  },
+  "db153756488b7213": {
+    "url": "http://www.boj.or.jp/paym/intlact_pm/cpss/cpss260911a.htm",
+    "title": "BIS決済・市場インフラ委員会及び証券監督者国際機構による市中協議文書「サイバーレジリエンス実用ツール集: FMIのための実務的考慮事項」及び「『金融市場インフラ（FMI）のサードパーティ業者への依存: 課題およびリスク』に関するディスカッション・ペーパー」の公表について",
+    "first_seen": "2026-10-11T17:22:39.993855+00:00"
+  },
+  "a41675f34b319d0a": {
+    "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk260911a.pdf",
+    "title": "【記者会見】増審議委員（福井、9月10日分）",
+    "first_seen": "2026-10-11T17:22:39.993855+00:00"
   }
 }
