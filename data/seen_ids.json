@@ -3268,5 +3268,25 @@
     "url": "https://www.boj.or.jp/research/research_data/reri/index.htm",
     "title": "実質輸出入の動向",
     "first_seen": "2026-10-12T18:37:25.532650+00:00"
+  },
+  "3924f4767d254a4d": {
+    "url": "http://www.boj.or.jp/statistics/dl/depo/kashi/kasi2609.pdf",
+    "title": "貸出・預金動向（9月）",
+    "first_seen": "2026-10-13T01:06:52.070493+00:00"
+  },
+  "a0f1f056b701ef17": {
+    "url": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2609.pdf",
+    "title": "企業物価指数（9月）",
+    "first_seen": "2026-10-13T01:06:52.070493+00:00"
+  },
+  "6d181d4ff678f399": {
+    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+    "title": "国債金利情報(令和8年10月9日)",
+    "first_seen": "2026-10-13T01:06:52.741747+00:00"
+  },
+  "1fba8806f290c620": {
+    "url": "https://www.mof.go.jp/policy/international_policy/imf/dc/20261009183854.html",
+    "title": "片山財務大臣の世銀・IMF合同開発委員会次期議長指名について（令和8年10月13日）",
+    "first_seen": "2026-10-13T01:06:52.741747+00:00"
   }
 }
