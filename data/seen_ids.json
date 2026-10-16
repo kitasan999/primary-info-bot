@@ -1,34 +1,4 @@
 {
-  "5e7e03f17e9dd88c": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76035.html",
-    "title": "第１回法的脳死判定基準に関する作業班　資料",
-    "first_seen": "2026-09-16T03:29:55.242592+00:00"
-  },
-  "4b986d4845eef34b": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76162.html",
-    "title": "人事労務マガジン 特集第248号　「働き方改革推進支援セミナー2026秋」を10月から開催します",
-    "first_seen": "2026-09-16T03:29:55.242592+00:00"
-  },
-  "75f76f46b2f36e3c": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76187.html",
-    "title": "第211回労働政策審議会労働条件分科会（資料）",
-    "first_seen": "2026-09-16T03:29:55.242592+00:00"
-  },
-  "c675ce4e7b11974d": {
-    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20260916.htm",
-    "title": "国庫短期証券（第1407回）の入札発行",
-    "first_seen": "2026-09-16T03:29:57.288961+00:00"
-  },
-  "8196029368af5763": {
-    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-    "title": "国債金利情報(令和8年9月15日)",
-    "first_seen": "2026-09-16T03:29:57.288961+00:00"
-  },
-  "0634781529ce9f5a": {
-    "url": "https://www.mof.go.jp/outside_link/20260915143914.html",
-    "title": "貿易統計(令和8年8月分速報)【税関ホームページ】",
-    "first_seen": "2026-09-16T03:29:57.288961+00:00"
-  },
   "708342a0d74229d4": {
     "url": "https://www.mhlw.go.jp/stf/newpage_76199.html",
     "title": "第22回成年後見制度利用促進専門家会議　開催案内",
@@ -3338,5 +3308,120 @@
     "url": "https://www.mof.go.jp/tax_policy/20260915shouhizei.html",
     "title": "令和９年度及び令和10年度の飲食料品に係る消費税率の臨時的な引下げ",
     "first_seen": "2026-10-15T18:11:02.012948+00:00"
+  },
+  "c7c48ad298fc88b2": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76766.html",
+    "title": "薬事審議会　医療機器・体外診断薬部会を開催します",
+    "first_seen": "2026-10-16T05:28:39.828905+00:00"
+  },
+  "cd650125d9061ca1": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76727.html",
+    "title": "令和８年度生活衛生功労者に対する厚生労働大臣表彰について",
+    "first_seen": "2026-10-16T05:28:39.828905+00:00"
+  },
+  "d9ffce200ee6b763": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76718.html",
+    "title": "令和８年度厚生労働統計功労者功績表彰の受賞者が決定しました",
+    "first_seen": "2026-10-16T05:28:39.828905+00:00"
+  },
+  "434ab5f282656563": {
+    "url": "https://www.mhlw.go.jp/toukei/saikin/hw/byouin/m26/07.html",
+    "title": "病院報告（令和８(2026)年7月分概数）",
+    "first_seen": "2026-10-16T05:28:39.828905+00:00"
+  },
+  "05fcf1c4beccf7e3": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76678.html",
+    "title": "第２２回肝炎治療戦略会議の開催について",
+    "first_seen": "2026-10-16T05:28:39.828905+00:00"
+  },
+  "d7c23e301f02cc34": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76624.html",
+    "title": "第271回社会保障審議会介護給付費分科会（Web会議）を開催します",
+    "first_seen": "2026-10-16T05:28:39.828905+00:00"
+  },
+  "f777412cb2f0973d": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76433.html",
+    "title": "第213回労働政策審議会労働条件分科会　開催案内",
+    "first_seen": "2026-10-16T05:28:39.828905+00:00"
+  },
+  "4164dbbdbef138d1": {
+    "url": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127940.html",
+    "title": "中央最低賃金審議会(目安制度の在り方に関する全員協議会)",
+    "first_seen": "2026-10-16T05:28:39.828905+00:00"
+  },
+  "6760d7ab1aab85c5": {
+    "url": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html",
+    "title": "中央最低賃金審議会 (中央最低賃金審議会)",
+    "first_seen": "2026-10-16T05:28:39.828905+00:00"
+  },
+  "706264b5afafbe28": {
+    "url": "https://www.mhlw.go.jp/toukei/list/105-1c.html",
+    "title": "薬事工業生産動態統計令和8年7月分月報について",
+    "first_seen": "2026-10-16T05:28:39.828905+00:00"
+  },
+  "de9013d24983a7a1": {
+    "url": "https://www.mhlw.go.jp/toukei/list/140-15.html",
+    "title": "令和8年国民年金被保険者実態調査にご協力をお願いします",
+    "first_seen": "2026-10-16T05:28:39.828905+00:00"
+  },
+  "a55f9dfd88e8d5b1": {
+    "url": "https://www.mhlw.go.jp/toukei/list/135-2.html",
+    "title": "人口動態職業・産業別統計　調査の概要",
+    "first_seen": "2026-10-16T05:28:39.828905+00:00"
+  },
+  "0d26ad689e00ffa1": {
+    "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-syuuroushiensenmonkan.html",
+    "title": "採用情報（任期付職員（就労支援専門官）募集情報）",
+    "first_seen": "2026-10-16T05:28:39.828905+00:00"
+  },
+  "94e7ff6ced298599": {
+    "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261002-1.html",
+    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月２日）について掲載しました。",
+    "first_seen": "2026-10-16T05:28:40.120043+00:00"
+  },
+  "53c5d0ca82aa9c78": {
+    "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261006-1.html",
+    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月６日）について掲載しました。",
+    "first_seen": "2026-10-16T05:28:40.120043+00:00"
+  },
+  "d7a055a00cbdc373": {
+    "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk261016a.pdf",
+    "title": "【記者会見】小枝審議委員（熊本、10月15日分）",
+    "first_seen": "2026-10-16T05:28:40.437688+00:00"
+  },
+  "4153d706695840ee": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20261016.htm",
+    "title": "国庫短期証券（第1413回）の入札結果",
+    "first_seen": "2026-10-16T05:28:41.307724+00:00"
+  },
+  "6986546e18266927": {
+    "url": "https://www.mof.go.jp/insideLink/20261014104418.html",
+    "title": "第32期　中国研究会（第1回）を開催しました",
+    "first_seen": "2026-10-16T05:28:41.307724+00:00"
+  },
+  "b5266de5ff52b0ff": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20261016.htm",
+    "title": "国庫短期証券（第1415回）の発行予定額等",
+    "first_seen": "2026-10-16T05:28:41.307724+00:00"
+  },
+  "2d96b2811263c1a4": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20261016.htm",
+    "title": "国庫短期証券（第1413回）の入札発行",
+    "first_seen": "2026-10-16T05:28:41.307724+00:00"
+  },
+  "da9a18ce2b5927a9": {
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/outline/zaitoa20260918.html",
+    "title": "財政投融資分科会（令和8年9月18日開催）議事要旨",
+    "first_seen": "2026-10-16T05:28:41.307724+00:00"
+  },
+  "9b1ce4401ae8a33b": {
+    "url": "https://www.mof.go.jp/policy/customs_tariff/trade/plan/futou/ka20261016.html",
+    "title": "中華人民共和国産二酸化チタンルチル型をもととした顔料及び調製品に対する不当廉売関税の課税に関する調査を開始します",
+    "first_seen": "2026-10-16T05:28:41.307724+00:00"
+  },
+  "8a7e6e4323a0f44a": {
+    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+    "title": "国債金利情報(令和8年10月15日)",
+    "first_seen": "2026-10-16T05:28:41.307724+00:00"
   }
 }
