@@ -1,54 +1,4 @@
 {
-  "708342a0d74229d4": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76199.html",
-    "title": "第22回成年後見制度利用促進専門家会議　開催案内",
-    "first_seen": "2026-09-16T09:05:29.768457+00:00"
-  },
-  "967c9c93f11a6b26": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76126.html",
-    "title": "令和８年度「高年齢者活躍企業コンテスト」の入賞企業が決定しました ～厚生労働大臣表彰最優秀賞・株式会社エヴァーブルー（静岡県浜松市）はじめ 入賞企業を10月９日（金）に表彰～",
-    "first_seen": "2026-09-16T09:05:29.768457+00:00"
-  },
-  "a123e8178ddedb24": {
-    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/iryou/00001.html",
-    "title": "医療施設等の自然災害からの復旧について",
-    "first_seen": "2026-09-16T09:05:29.768457+00:00"
-  },
-  "c51de5c004e86ff7": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76239.html",
-    "title": "第24回匿名介護情報等の提供に関する専門委員会",
-    "first_seen": "2026-09-16T09:05:29.768457+00:00"
-  },
-  "c57de75c4487713a": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76217.html",
-    "title": "第189回労働政策審議会安全衛生分科会（開催案内）",
-    "first_seen": "2026-09-16T09:05:29.768457+00:00"
-  },
-  "5776a55626ea3b45": {
-    "url": "https://www.fsa.go.jp/news/r8/sonota/20260916/20260916.html",
-    "title": "令和５年金融商品取引法等改正及び社債、株式等の振替に関する法律等改正（３年６月以内施行）に係る内閣府令の公布及びパブリックコメントの結果等について公表しました。",
-    "first_seen": "2026-09-16T09:05:30.460941+00:00"
-  },
-  "d24efa514acbd878": {
-    "url": "https://www.fsa.go.jp/news/r8/shouken/20260916/20260916.html",
-    "title": "「金融商品取引業者等向けの総合的な監督指針」の一部改正（案）に対するパブリックコメントの結果等について公表しました。",
-    "first_seen": "2026-09-16T09:05:30.460941+00:00"
-  },
-  "3c1b41bc6899208f": {
-    "url": "http://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
-    "title": "業態別の日銀当座預金残高（8月）",
-    "first_seen": "2026-09-16T09:05:30.935533+00:00"
-  },
-  "011949f8a5119d5e": {
-    "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260916094525.html",
-    "title": "片山大臣とロバートソン駐日英国大使との面会（令和8年9月16日（水））",
-    "first_seen": "2026-09-16T09:05:32.044454+00:00"
-  },
-  "888c94b2d5759123": {
-    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20260916.htm",
-    "title": "国庫短期証券（第1407回）の入札結果",
-    "first_seen": "2026-09-16T09:05:32.044454+00:00"
-  },
   "ffb4576ec96327c3": {
     "url": "https://www.mhlw.go.jp/stf/newpage_76266.html",
     "title": "第25回　医薬品等行政評価・監視委員会資料",
@@ -3423,5 +3373,45 @@
     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
     "title": "国債金利情報(令和8年10月15日)",
     "first_seen": "2026-10-16T05:28:41.307724+00:00"
+  },
+  "24515930ef585226": {
+    "url": "https://www.fsa.go.jp/news/r8/ginkou/20261016.html",
+    "title": "預貯金の不正送金問題等に対する対応状況（令和８年３月末）について公表しました。",
+    "first_seen": "2026-10-16T10:46:16.385232+00:00"
+  },
+  "c05da244d7ab2f81": {
+    "url": "https://www.fsa.go.jp/news/r8/hoken/20261016/20261016.html",
+    "title": "保険会社等における障がい者等に配慮した取組に関するアンケート調査の結果について（令和８年３月末時点）公表しました。",
+    "first_seen": "2026-10-16T10:46:16.385232+00:00"
+  },
+  "1e19f3e7aa6fe39e": {
+    "url": "https://www.fsa.go.jp/news/r8/sonota/20261016-2/20261016.html",
+    "title": "「監査基準の改訂について（公開草案）」について公表しました。",
+    "first_seen": "2026-10-16T10:46:16.385232+00:00"
+  },
+  "b5b4af132c344e27": {
+    "url": "https://www.fsa.go.jp/inter/fsf/20261016/20261016.html",
+    "title": "国際関係,金融安定理事会による最終報告書「AIの責任ある導入に関する健全な実務慣行」について公表しました。",
+    "first_seen": "2026-10-16T10:46:16.385232+00:00"
+  },
+  "0ecf8dc878bf8c0b": {
+    "url": "http://www.boj.or.jp/intl_finance/meeting/group/gro261016a.htm",
+    "title": "金融安定理事会による最終報告書「AIの責任ある導入に関する健全な実務慣行」の公表について",
+    "first_seen": "2026-10-16T10:46:16.683560+00:00"
+  },
+  "74603a6629c2761f": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
+    "title": "業態別の日銀当座預金残高（9月）",
+    "first_seen": "2026-10-16T10:46:16.683560+00:00"
+  },
+  "8a7b2f9d47d7c8a2": {
+    "url": "http://www.boj.or.jp/about/press/koen_2026/ko261016a.htm",
+    "title": "【挨拶】植田総裁（内田副総裁代読）（全国信用組合大会）",
+    "first_seen": "2026-10-16T10:46:16.683560+00:00"
+  },
+  "97f66483bc6b75ed": {
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/20261016zaiseia.html",
+    "title": "財政制度分科会（令和８年10月16日開催）資料一覧",
+    "first_seen": "2026-10-16T10:46:17.867999+00:00"
   }
 }
