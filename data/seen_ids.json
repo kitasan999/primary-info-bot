@@ -3373,5 +3373,125 @@
     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
     "title": "国債金利情報(令和8年10月19日)",
     "first_seen": "2026-10-20T03:33:37.781272+00:00"
+  },
+  "9cbe67990955b9eb": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76843.html",
+    "title": "第２回創薬力向上のための官民協議会 施策検討・推進部会　資料",
+    "first_seen": "2026-10-20T09:09:13.035896+00:00"
+  },
+  "7156bb30b68eeebe": {
+    "url": "https://www.mhlw.go.jp/kouseiroudoushou/kanbumeibo/index.html",
+    "title": "令和８年10月20日付幹部名簿",
+    "first_seen": "2026-10-20T09:09:13.035896+00:00"
+  },
+  "6818a7315bab5bc8": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76811.html",
+    "title": "2026年9月18日　第136回社会保障審議会介護保険部会　議事録",
+    "first_seen": "2026-10-20T09:09:13.035896+00:00"
+  },
+  "85c9261f639b8307": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76757.html",
+    "title": "第137回社会保障審議会介護保険部会の開催について",
+    "first_seen": "2026-10-20T09:09:13.035896+00:00"
+  },
+  "43f7c224116a0b0b": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76682.html",
+    "title": "令和８年度第２回 厚生科学審議会医薬品医療機器制度部会の開催について（Web併用）",
+    "first_seen": "2026-10-20T09:09:13.035896+00:00"
+  },
+  "f482917e99f24e4f": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76548.html",
+    "title": "第79回労働政策審議会人材開発分科会監理団体審査部会 開催案内",
+    "first_seen": "2026-10-20T09:09:13.035896+00:00"
+  },
+  "6e3918877b4c92d3": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76436.html",
+    "title": "第399回労働政策審議会職業安定分科会労働力需給制度部会　資料",
+    "first_seen": "2026-10-20T09:09:13.035896+00:00"
+  },
+  "d579a77118713f4d": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76434.html",
+    "title": "第399回労働政策審議会職業安定分科会労働力需給制度部会（開催案内）",
+    "first_seen": "2026-10-20T09:09:13.035896+00:00"
+  },
+  "603d528ac31a171b": {
+    "url": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html",
+    "title": "社会保障審議会（介護保険部会）",
+    "first_seen": "2026-10-20T09:09:13.035896+00:00"
+  },
+  "3b2afb693a0baf26": {
+    "url": "https://www.fsa.go.jp/singi/digital_2026/shiryo/20261020.html",
+    "title": "「デジタル・分散型金融への対応のあり方等に関する研究会」（第１回）議事次第について公表しました。",
+    "first_seen": "2026-10-20T09:09:13.884688+00:00"
+  },
+  "2ffd3bc31cc56a0b": {
+    "url": "https://www.fsa.go.jp/inter/etc/20261020.html",
+    "title": "国際関係,「秋季金融庁-米国SEC金融規制対話」の開催について公表しました。",
+    "first_seen": "2026-10-20T09:09:13.884688+00:00"
+  },
+  "46d664e6e49bff7c": {
+    "url": "https://www.fsa.go.jp/inter/bis/20261020/20261020.html",
+    "title": "国際関係,バーゼル銀行監督委員会による「整合性評価プログラム（RCAP）におけるレバレッジ比率規制の評価」について公表しました。",
+    "first_seen": "2026-10-20T09:09:13.884688+00:00"
+  },
+  "7e255a979038e82b": {
+    "url": "https://www.fsa.go.jp/news/r8/sonota/20261020/20261020.html",
+    "title": "金融経済教育イベント「ワニーサと学ぶ 未来のためのお金の教室 in広島」の開催について公表しました。",
+    "first_seen": "2026-10-20T09:09:13.884688+00:00"
+  },
+  "da9c7c58427c5081": {
+    "url": "https://www.fsa.go.jp/singi/ai_onchain/gijiroku/20260930.html",
+    "title": "「AI時代を見据えたオンチェーン金融フォーラム」（第１回）議事録について公表しました。",
+    "first_seen": "2026-10-20T09:09:13.884688+00:00"
+  },
+  "9531d84ea6e70418": {
+    "url": "https://www.fsa.go.jp/inter/ios/20261019/20261019.html",
+    "title": "国際関係,BIS決済・市場インフラ委員会及び証券監督者国際機構による最終報告書「金融市場インフラ（FMI）によるビジネスリスク・ビジネスロス管理：金融市場インフラのための原則（FMI原則）に関する追加ガイダンス」について公表しました。",
+    "first_seen": "2026-10-20T09:09:13.884688+00:00"
+  },
+  "8afa0e7b0c6f6773": {
+    "url": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261020a.htm",
+    "title": "バーゼル銀行監督委員会による「整合性評価プログラム（RCAP）におけるレバレッジ比率規制の評価」の公表について",
+    "first_seen": "2026-10-20T09:09:14.874503+00:00"
+  },
+  "6304e878cb837c1e": {
+    "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk261020a.pdf",
+    "title": "【記者会見】植田総裁（G20、10月16日分）",
+    "first_seen": "2026-10-20T09:09:14.874503+00:00"
+  },
+  "81dd3f6f7edb4e27": {
+    "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261019211115.html",
+    "title": "片山大臣とオランダのハイネン財務大臣との面会（令和8年10月20日（火））",
+    "first_seen": "2026-10-20T09:09:16.240696+00:00"
+  },
+  "34bcc6a10ff315ba": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261020a.htm",
+    "title": "20年利付国債（第198回）の第II非価格競争入札結果（令和8年10月20日入札）",
+    "first_seen": "2026-10-20T09:09:16.240696+00:00"
+  },
+  "afdd00b565a8d0cf": {
+    "url": "https://www.mof.go.jp/insideLink/20261016143837.html",
+    "title": "国庫歳入歳出状況（令和8年度　令和8年8月分）",
+    "first_seen": "2026-10-20T09:09:16.240696+00:00"
+  },
+  "0c7848a7b2376fa0": {
+    "url": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2026.10.20_50.pdf",
+    "title": "人事異動(令和8年10月20日)",
+    "first_seen": "2026-10-20T09:09:16.240696+00:00"
+  },
+  "412c5bd405d74c78": {
+    "url": "https://www.mof.go.jp/policy/filp/reference/flf_balance/zaiyuu/zaiyuu0809.html",
+    "title": "財政融資資金現在高（令和8年9月末）",
+    "first_seen": "2026-10-20T09:09:16.240696+00:00"
+  },
+  "7ae17aa99c37de49": {
+    "url": "https://www.mof.go.jp/policy/filp/reference/flf_balance/santou/santou0809.html",
+    "title": "産業投資現在高（令和8年9月末）",
+    "first_seen": "2026-10-20T09:09:16.240696+00:00"
+  },
+  "79ab1f5e9ed93f57": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261020.htm",
+    "title": "20年利付国債（第198回）の入札結果（令和8年10月20日入札）",
+    "first_seen": "2026-10-20T09:09:16.240696+00:00"
   }
 }
