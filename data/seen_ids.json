@@ -1,39 +1,4 @@
 {
-  "059ec86fb26f1cb1": {
-    "url": "https://www.boj.or.jp/about/release/sousaidouga.htm",
-    "title": "総裁記者会見（9月18日）動画の配信開始",
-    "first_seen": "2026-09-21T14:51:50.385599+00:00"
-  },
-  "dde2ec74026918ed": {
-    "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260918a.pdf",
-    "title": "金融市場調節方針の変更について",
-    "first_seen": "2026-09-21T14:51:50.385599+00:00"
-  },
-  "c272ebbbd0595944": {
-    "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260918b.pdf",
-    "title": "「補完当座預金制度基本要領」の一部改正について",
-    "first_seen": "2026-09-21T14:51:50.385599+00:00"
-  },
-  "77a396020b3f40ab": {
-    "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260918a.pdf",
-    "title": "「気候変動対応を支援するための資金供給オペレーション基本要領」の一部改正等について",
-    "first_seen": "2026-09-21T14:51:50.385599+00:00"
-  },
-  "6f74b47cc2e3f9ab": {
-    "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260918b.pdf",
-    "title": "（参考）金融市場調節方針の変更（2026年9月金融政策決定会合）",
-    "first_seen": "2026-09-21T14:51:50.385599+00:00"
-  },
-  "c421bfb8e89e938f": {
-    "url": "https://www.boj.or.jp/about/services/tame/tame_rate/kijun/kiju2610.htm",
-    "title": "基準外国為替相場及び裁定外国為替相場（10月分）",
-    "first_seen": "2026-09-21T14:51:50.385599+00:00"
-  },
-  "5f152c1f83088118": {
-    "url": "https://www.boj.or.jp/about/services/tame/tame_rate/syorei/hou2610.htm",
-    "title": "報告省令レート（10月分）",
-    "first_seen": "2026-09-21T14:51:50.385599+00:00"
-  },
   "c01a5df64063449f": {
     "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-kokusaikakokusaihokenkyouryokusitsusyusa_00002.html",
     "title": "採用情報（任期付職員（国際課海外広報専門官）募集情報）",
@@ -3573,5 +3538,10 @@
     "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer261021.htm",
     "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和8年10月21日公表）",
     "first_seen": "2026-10-21T07:06:17.221781+00:00"
+  },
+  "d79e16124ceaf9fd": {
+    "url": "https://www.mof.go.jp/public_relations/ohter/20261021231537.html",
+    "title": "PHPの脆弱性対応に伴うWebサイト・一部コンテンツの一時停止のお知らせ",
+    "first_seen": "2026-10-21T18:23:56.134268+00:00"
   }
 }
