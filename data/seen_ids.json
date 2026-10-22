@@ -3543,5 +3543,20 @@
     "url": "https://www.mof.go.jp/public_relations/ohter/20261021231537.html",
     "title": "PHPの脆弱性対応に伴うWebサイト・一部コンテンツの一時停止のお知らせ",
     "first_seen": "2026-10-21T18:23:56.134268+00:00"
+  },
+  "413f5d703e9c53b7": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261020.htm",
+    "title": "営業毎旬報告（10月20日現在）",
+    "first_seen": "2026-10-22T01:14:41.412642+00:00"
+  },
+  "eda7c9851a0eed03": {
+    "url": "http://www.boj.or.jp/statistics/dl/loan/loos/release/loos2610.pdf",
+    "title": "主要銀行貸出動向アンケート調査（10月）",
+    "first_seen": "2026-10-22T01:14:41.412642+00:00"
+  },
+  "7e8fa5e245624605": {
+    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+    "title": "国債金利情報(令和8年10月21日)",
+    "first_seen": "2026-10-22T01:14:42.120199+00:00"
   }
 }
