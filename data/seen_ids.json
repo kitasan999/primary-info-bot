@@ -3668,5 +3668,60 @@
     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
     "title": "国債金利情報(令和8年10月22日)",
     "first_seen": "2026-10-23T01:13:59.907172+00:00"
+  },
+  "5c77edc8419af27a": {
+    "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/s2026/08.html",
+    "title": "「人口動態統計速報」令和８（2026）年08月分",
+    "first_seen": "2026-10-23T07:00:10.672992+00:00"
+  },
+  "3cb26d42f9cd0280": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76931.html",
+    "title": "「第３回 創薬力向上のための官民協議会 施策検討・推進部会」を開催します（開催案内）",
+    "first_seen": "2026-10-23T07:00:10.672992+00:00"
+  },
+  "ba89b46e4e509d50": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76814.html",
+    "title": "薬事審議会　指定薬物部会を開催します",
+    "first_seen": "2026-10-23T07:00:10.672992+00:00"
+  },
+  "d3cf9fb2c1fe9171": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76788.html",
+    "title": "第38回アルコール健康障害対策関係者会議の開催について",
+    "first_seen": "2026-10-23T07:00:10.672992+00:00"
+  },
+  "1f46846aa4400983": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76755.html",
+    "title": "第33回社会保障審議会介護給付費分科会介護報酬改定検証・研究委員会（Web会議）を開催します",
+    "first_seen": "2026-10-23T07:00:10.672992+00:00"
+  },
+  "93a6904ebe31ad53": {
+    "url": "https://www.mhlw.go.jp/stf/houdou/0000177553_00011.html",
+    "title": "新規学卒就職者の離職状況(令和５年３月卒業者)を公表します",
+    "first_seen": "2026-10-23T07:00:10.672992+00:00"
+  },
+  "65fd17f8d8ade60c": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76440.html",
+    "title": "第214回労働政策審議会労働条件分科会　開催案内",
+    "first_seen": "2026-10-23T07:00:10.672992+00:00"
+  },
+  "0b1e219c97051167": {
+    "url": "http://www.boj.or.jp/research/brp/fsr/fsr261023.htm",
+    "title": "金融システムレポート（2026年10月号）",
+    "first_seen": "2026-10-23T07:00:11.272902+00:00"
+  },
+  "d81d429640912bb4": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20261023.htm",
+    "title": "国庫短期証券（第1415回）の入札結果",
+    "first_seen": "2026-10-23T07:00:11.810011+00:00"
+  },
+  "8dc5e7a46b5856cd": {
+    "url": "https://www.mof.go.jp/insideLink/20261020163358.html",
+    "title": "英米の財政部局によるEBPM（エビデンスに基づく政策形成）へのかかわり方～（「ファイナンス寄稿」）",
+    "first_seen": "2026-10-23T07:00:11.810011+00:00"
+  },
+  "519242cb2f29d4ae": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20261023.htm",
+    "title": "国庫短期証券（第1415回）の入札発行",
+    "first_seen": "2026-10-23T07:00:11.810011+00:00"
   }
 }
