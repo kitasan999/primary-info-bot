@@ -1,59 +1,4 @@
 {
-  "ec0de7eca7597891": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76368.html",
-    "title": "ＵＨＣナレッジハブの第四回調整委員会の開催について",
-    "first_seen": "2026-09-24T13:14:50.426739+00:00"
-  },
-  "46ebf8318f29c9c1": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76364.html",
-    "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
-    "first_seen": "2026-09-24T13:14:50.426739+00:00"
-  },
-  "3d0245a295ec9ed6": {
-    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
-    "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
-    "first_seen": "2026-09-24T13:14:50.426739+00:00"
-  },
-  "8f255f4fa20fc3ed": {
-    "url": "https://www.mhlw.go.jp/bunya/iryouhoken/jyuudou/ryouyouhi_yusyokouhu_sejutsusho.html",
-    "title": "柔道整復療養費に係る明細書を有償交付する施術所について",
-    "first_seen": "2026-09-24T13:14:50.426739+00:00"
-  },
-  "87a94ec8e4dc42a9": {
-    "url": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_474670.html",
-    "title": "労働政策審議会 (人材開発分科会監理団体審査部会)",
-    "first_seen": "2026-09-24T13:14:50.426739+00:00"
-  },
-  "e36036766c6ef71a": {
-    "url": "https://www.mhlw.go.jp/stf/kinkyu_16590.html",
-    "title": "管理栄養士国家試験に関する緊急情報",
-    "first_seen": "2026-09-24T13:14:50.877273+00:00"
-  },
-  "9211c1172cf08e13": {
-    "url": "https://www.fsa.go.jp/news/r8/ginkou/20260924.html",
-    "title": "令和８年台風第25号に伴う災害等に対する金融上の措置について公表しました。",
-    "first_seen": "2026-09-24T13:14:51.063686+00:00"
-  },
-  "33f41a5bb01156ee": {
-    "url": "https://www.fsa.go.jp/news/r8/singi/20260924.html",
-    "title": "金融審議会「保険制度ワーキング・グループ」（第１回）の開催について公表しました。",
-    "first_seen": "2026-09-24T13:14:51.063686+00:00"
-  },
-  "fcbb75425e853f27": {
-    "url": "https://www.mof.go.jp/public_relations/conference/my20260918.html",
-    "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年9月18日(金曜日))",
-    "first_seen": "2026-09-24T13:14:52.666794+00:00"
-  },
-  "3a160f2e3198e9c9": {
-    "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-foreign_exchange/proceedings/material/20260916200605.html",
-    "title": "関税・外国為替等審議会　第70回外国為替等分科会 資料",
-    "first_seen": "2026-09-24T13:14:52.666794+00:00"
-  },
-  "16ed3e64e0550b87": {
-    "url": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2026.09.17_47.pdf",
-    "title": "人事異動(令和8年9月17日)",
-    "first_seen": "2026-09-24T13:14:52.666794+00:00"
-  },
   "03bbd9ae35d454d5": {
     "url": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
     "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
@@ -3668,5 +3613,15 @@
     "url": "https://www.mof.go.jp/public_relations/conference/my20261023.html",
     "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月23日(金曜日))",
     "first_seen": "2026-10-23T12:34:03.661470+00:00"
+  },
+  "0f7b3232447236d3": {
+    "url": "http://www.boj.or.jp/about/bcp/fso/fso260924a.pdf",
+    "title": "令和8年台風第25号に伴う災害等に対する金融上の措置について（千葉県、東京都）",
+    "first_seen": "2026-10-24T14:15:29.918888+00:00"
+  },
+  "a614a09c26033155": {
+    "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk260924a.pdf",
+    "title": "【記者会見】植田総裁（9月18日分）",
+    "first_seen": "2026-10-24T14:15:29.918888+00:00"
   }
 }
