@@ -3478,5 +3478,80 @@
     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
     "title": "国債金利情報(令和8年10月26日)",
     "first_seen": "2026-10-27T01:10:15.276708+00:00"
+  },
+  "eb71bdbc92bb1c26": {
+    "url": "https://www.mhlw.go.jp/toukei/saikin/hw/eisei_houkoku/25/",
+    "title": "令和７(2025)年度衛生行政報告例の概況",
+    "first_seen": "2026-10-27T07:20:41.816939+00:00"
+  },
+  "a7a9933ced5c5e40": {
+    "url": "https://www.mhlw.go.jp/stf/houdou/0000212707_00057.html",
+    "title": "危険ドラッグの成分３物質を新たに指定薬物に指定",
+    "first_seen": "2026-10-27T07:20:41.816939+00:00"
+  },
+  "81cf266854422c8f": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76910.html",
+    "title": "「社会福祉施設職員等退職手当共済制度の在り方に関する検討会」（第５回）を開催します",
+    "first_seen": "2026-10-27T07:20:41.816939+00:00"
+  },
+  "d5acfd0eb0eeb565": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76725.html",
+    "title": "第272回社会保障審議会介護給付費分科会（Web会議）を開催します",
+    "first_seen": "2026-10-27T07:20:41.816939+00:00"
+  },
+  "0007e3d785ce3d90": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76906.html",
+    "title": "第61回労働政策審議会人材開発分科会（オンライン併用）の開催について",
+    "first_seen": "2026-10-27T07:20:41.816939+00:00"
+  },
+  "d3ae1415ccdc88b6": {
+    "url": "https://www.fsa.go.jp/news/r8/shouken/20261027/20261027.html",
+    "title": "信用格付業者の登録について公表しました。",
+    "first_seen": "2026-10-27T07:20:42.315842+00:00"
+  },
+  "ae298bdaaf1954f5": {
+    "url": "https://www.fsa.go.jp/news/r8/sonota/20260819.html",
+    "title": "その他,「第２回　気候変動関連データの活用と適応に関する実践パネル」の発表資料及び議事要旨について公表しました。",
+    "first_seen": "2026-10-27T07:20:42.315842+00:00"
+  },
+  "10f775d04674ef09": {
+    "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261023-1.html",
+    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月23日）について掲載しました。",
+    "first_seen": "2026-10-27T07:20:42.315842+00:00"
+  },
+  "45856739098461c2": {
+    "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261020-1.html",
+    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月20日）について掲載しました。",
+    "first_seen": "2026-10-27T07:20:42.315842+00:00"
+  },
+  "5ce3046c5b51c55f": {
+    "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261016-1.html",
+    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月16日）について掲載しました。",
+    "first_seen": "2026-10-27T07:20:42.315842+00:00"
+  },
+  "7ffbc2716239ef5e": {
+    "url": "http://www.boj.or.jp/about/release_2026/rel261027a.htm",
+    "title": "情報セキュリティ・セミナー「AIエージェント時代に求められるセキュリティ戦略と課題」開催のお知らせ",
+    "first_seen": "2026-10-27T07:20:42.750493+00:00"
+  },
+  "b76f7381f90895ac": {
+    "url": "https://www.mof.go.jp/jgbs/topics/JapanClimateTransitionBonds/index.html",
+    "title": "クライメート・トランジション利付国債",
+    "first_seen": "2026-10-27T07:20:43.388587+00:00"
+  },
+  "21c8457bdf2e9989": {
+    "url": "https://www.mof.go.jp/policy/customs_tariff/trade/plan/futou/ka20261027.html",
+    "title": "中華人民共和国産若しくは台湾、澎湖諸島、金門及び馬祖から成る独立の関税地域産ニッケル系ステンレス冷延鋼帯及び冷延鋼板に対する不当廉売関税の課税を決定しました",
+    "first_seen": "2026-10-27T07:20:43.388587+00:00"
+  },
+  "09c9639aca68883d": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261027.htm",
+    "title": "流動性供給(第464回)入札結果",
+    "first_seen": "2026-10-27T07:20:43.388587+00:00"
+  },
+  "73858ed1db3b5ec7": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261027.htm",
+    "title": "流動性供給(第464回)入札",
+    "first_seen": "2026-10-27T07:20:43.388587+00:00"
   }
 }
