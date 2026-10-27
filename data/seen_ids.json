@@ -1,14 +1,4 @@
 {
-  "d135c62f045c0db2": {
-    "url": "http://www.boj.or.jp/about/bcp/fso/fso260827b.pdf",
-    "title": "令和8年8月27日からの大雨に伴う災害等に対する金融上の措置について（富山県）",
-    "first_seen": "2026-09-26T21:51:03.882193+00:00"
-  },
-  "27ffd98d2eb14fa9": {
-    "url": "http://www.boj.or.jp/about/bcp/fso/fso260827a.pdf",
-    "title": "令和8年8月27日からの大雨に伴う災害等に対する金融上の措置について（石川県）",
-    "first_seen": "2026-09-26T21:51:03.882193+00:00"
-  },
   "15ee429a833d79de": {
     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
     "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
@@ -3463,5 +3453,30 @@
     "url": "https://www.fsa.go.jp/ordinary/chuui/mutouroku.html",
     "title": "その他,無登録で金融商品取引業を行う者の名称等について更新しました。",
     "first_seen": "2026-10-26T21:22:30.365467+00:00"
+  },
+  "92fed9a6f246dbc1": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76904.html",
+    "title": "第１回国民年金第３号被保険者制度等に関する検討会（議事録）",
+    "first_seen": "2026-10-27T01:10:13.935219+00:00"
+  },
+  "5da8c1e4e7a3b5e7": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76834.html",
+    "title": "中央社会保険医療協議会診療報酬調査専門組織（入院・外来医療等の調査・評価分科会）の開催について",
+    "first_seen": "2026-10-27T01:10:13.935219+00:00"
+  },
+  "b41cbbd029e1ba26": {
+    "url": "https://www.fsa.go.jp/policy/kashikin/tajusaimukondankai/20261028/20261028.html",
+    "title": "多重債務問題対策推進懇談会の議事次第等について公表しました。",
+    "first_seen": "2026-10-27T01:10:14.253724+00:00"
+  },
+  "62b30568fa442c22": {
+    "url": "http://www.boj.or.jp/statistics/pi/cspi_release/sppi2609.pdf",
+    "title": "企業向けサービス価格指数（9月）",
+    "first_seen": "2026-10-27T01:10:14.503314+00:00"
+  },
+  "8f7044ef1f4d40a1": {
+    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+    "title": "国債金利情報(令和8年10月26日)",
+    "first_seen": "2026-10-27T01:10:15.276708+00:00"
   }
 }
