@@ -1,39 +1,4 @@
 {
-  "4db7073fdb2f0c12": {
-    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/2607r/2607r.html",
-    "title": "毎月勤労統計調査ー2026（令和８）年７月分結果確報",
-    "first_seen": "2026-09-27T23:41:02.794053+00:00"
-  },
-  "c5f4ec6b4209f475": {
-    "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-koyoukankyou_kintougyouseijouhou.html",
-    "title": "雇用環境・均等行政情報システムデジタル推進専門官の募集について",
-    "first_seen": "2026-09-28T03:51:07.355362+00:00"
-  },
-  "2761a15db08f57ef": {
-    "url": "http://www.boj.or.jp/statistics/pi/cspi_release/sppi2608.pdf",
-    "title": "企業向けサービス価格指数（8月）",
-    "first_seen": "2026-09-28T03:51:08.090382+00:00"
-  },
-  "8e49ed00d45c5a4f": {
-    "url": "http://www.boj.or.jp/mopo/mpmsche_minu/minu_2026/g260731.pdf",
-    "title": "金融政策決定会合議事要旨（7月30、31日開催分）",
-    "first_seen": "2026-09-28T03:51:08.090382+00:00"
-  },
-  "07ffbc17c883e278": {
-    "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer260928.htm",
-    "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和8年9月28日公表）",
-    "first_seen": "2026-09-28T03:51:08.584154+00:00"
-  },
-  "04ea0b5b08040dc2": {
-    "url": "https://www.mof.go.jp/about_mof/recruit/mof/ninkitsuki/20260918140726.html",
-    "title": "任期付職員の募集について（国際局調査課（投資企画審査室））",
-    "first_seen": "2026-09-28T03:51:08.584154+00:00"
-  },
-  "e2f1f3d443c027e0": {
-    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-    "title": "国債金利情報(令和8年9月25日)",
-    "first_seen": "2026-09-28T03:51:08.584154+00:00"
-  },
   "7cbe942e78a0fc54": {
     "url": "https://www.mhlw.go.jp/stf/newpage_76405.html",
     "title": "第132回労働政策審議会労働条件分科会労災保険部会資料",
@@ -3543,5 +3508,75 @@
     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261027a.htm",
     "title": "流動性供給(第464回)入札において追加発行した国債の銘柄",
     "first_seen": "2026-10-27T13:59:40.469970+00:00"
+  },
+  "222815c6cf060ea2": {
+    "url": "https://www.mhlw.go.jp/topics/2026/10/tp1028-1.html",
+    "title": "民間競争入札実施事業　就労条件総合調査の実施状況について（令和７年度分）",
+    "first_seen": "2026-10-28T04:10:41.985360+00:00"
+  },
+  "50783463228d830c": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76867.html",
+    "title": "令和８年度栄養関係功労者（食生活改善事業功労者・地区組織）厚生労働大臣表彰受賞者が決まりました",
+    "first_seen": "2026-10-28T04:10:41.985360+00:00"
+  },
+  "15ee429a833d79de": {
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
+    "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+    "first_seen": "2026-10-28T04:10:41.985360+00:00"
+  },
+  "5d84ad7f19b7350d": {
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html",
+    "title": "インフルエンザの発生状況を更新しました",
+    "first_seen": "2026-10-28T04:10:41.985360+00:00"
+  },
+  "ffb3aad817bcf789": {
+    "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-igyoukeieisenmonkanorsyusa.html",
+    "title": "採用情報（任期付職員（医業経営専門官又は主査）募集情報）",
+    "first_seen": "2026-10-28T04:10:41.985360+00:00"
+  },
+  "836c2d5e2ed20f4a": {
+    "url": "https://www.fsa.go.jp/common/recruit/index-general.html",
+    "title": "採用,官庁訪問（経験者採用試験（係長級（事務））【府省合同Ａ区分】）について公表しました。",
+    "first_seen": "2026-10-28T04:10:42.551234+00:00"
+  },
+  "1f1ae55d2773d587": {
+    "url": "https://www.fsa.go.jp/common/recruit/index-general-b.html",
+    "title": "採用,官庁訪問（経験者採用試験（係長級（事務））【府省合同Ｂ区分】）について公表しました。",
+    "first_seen": "2026-10-28T04:10:42.551234+00:00"
+  },
+  "32553d077a5fadec": {
+    "url": "https://www.fsa.go.jp/inter/bis/20261028/20261028.html",
+    "title": "国際関係,バーゼル銀行監督委員会による「AML/CFTに関する監督ニューズレター」について公表しました。",
+    "first_seen": "2026-10-28T04:10:42.551234+00:00"
+  },
+  "690335ae3ff7451c": {
+    "url": "https://www.fsa.go.jp/common/recruit/r8/shiho-01/shiho-01.html",
+    "title": "採用,職員を募集しています。（金融モニタリング業務（資金移動業者や暗号資産交換業者等の法令等遵守態勢、関連法令の解釈等）に従事する職員)",
+    "first_seen": "2026-10-28T04:10:42.551234+00:00"
+  },
+  "d8138e8300de780e": {
+    "url": "http://www.boj.or.jp/finsys/intlact_fs/risk/ris261028a.htm",
+    "title": "バーゼル銀行監督委員会による「AML/CFTに関する監督ニューズレター」の公表について",
+    "first_seen": "2026-10-28T04:10:42.993550+00:00"
+  },
+  "7b4c06db7257df34": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result261028.htm",
+    "title": "交付税及び譲与税配付金特別会計の借入金の入札結果（令和8年10月28日入札）",
+    "first_seen": "2026-10-28T04:10:44.132268+00:00"
+  },
+  "09ef1938c7ab4540": {
+    "url": "https://www.mof.go.jp/application-contact/procurement/koubo/index.htm",
+    "title": "公募情報",
+    "first_seen": "2026-10-28T04:10:44.132268+00:00"
+  },
+  "7105db785e751568": {
+    "url": "https://www.mof.go.jp/public_relations/conference/my20261027.html",
+    "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月27日(火曜日))",
+    "first_seen": "2026-10-28T04:10:44.132268+00:00"
+  },
+  "1b795d45bbaee978": {
+    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+    "title": "国債金利情報(令和8年10月27日)",
+    "first_seen": "2026-10-28T04:10:44.132268+00:00"
   }
 }
