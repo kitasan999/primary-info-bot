@@ -1,9 +1,4 @@
 {
-  "4e99acc189036f52": {
-    "url": "https://www.mof.go.jp/about_mof/councils/meeting_of_jgbsp/proceedings/260928pd.html",
-    "title": "国債市場特別参加者会合（第120回）議事の要点",
-    "first_seen": "2026-09-28T23:43:35.931674+00:00"
-  },
   "2038d28933ec65b9": {
     "url": "https://www.mhlw.go.jp/stf/newpage_75934.html",
     "title": "令和７年度「少子高齢社会等調査検討事業」の報告書を公表します",
@@ -3658,5 +3653,50 @@
     "url": "https://www.boj.or.jp/paym/intlact_pm/cpss/cpss261019a.htm",
     "title": "「金融市場インフラ（FMI）によるビジネスリスク・ビジネスロス管理：金融市場インフラのための原則（FMI原則）に関する追加ガイダンス」の公表について",
     "first_seen": "2026-10-28T17:06:01.358284+00:00"
+  },
+  "75d1254ea2df95ae": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer261029.htm",
+    "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和8年10月29日公表）",
+    "first_seen": "2026-10-29T02:07:08.114775+00:00"
+  },
+  "af636be91036ec65": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261029.htm",
+    "title": "2年利付国債（第490回）の入札発行（令和8年10月29日入札）",
+    "first_seen": "2026-10-29T02:07:08.114775+00:00"
+  },
+  "303b0b4649e6f804": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261029.htm",
+    "title": "10年利付国債（11月債）の発行予定額等（令和8年10月29日公表）",
+    "first_seen": "2026-10-29T02:07:08.114775+00:00"
+  },
+  "e3af70a38bea5858": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20261029.htm",
+    "title": "国庫短期証券（第1416回）の入札発行",
+    "first_seen": "2026-10-29T02:07:08.114775+00:00"
+  },
+  "f052717321e403e2": {
+    "url": "https://www.mof.go.jp/insideLink/20261026104418.html",
+    "title": "「全国財務局の地域連携取組方針」を更新しました",
+    "first_seen": "2026-10-29T02:07:08.114775+00:00"
+  },
+  "92b9304948e62359": {
+    "url": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir8/yotaku20261029.html",
+    "title": "財政融資資金預託金利（令和8年11月1日以降適用）",
+    "first_seen": "2026-10-29T02:07:08.114775+00:00"
+  },
+  "de7678ed4d96e3af": {
+    "url": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir8/kashi20261029.html",
+    "title": "財政融資資金貸付金利（令和8年11月1日以降適用）",
+    "first_seen": "2026-10-29T02:07:08.114775+00:00"
+  },
+  "f2983f36fcf7f88a": {
+    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+    "title": "国債金利情報(令和8年10月28日)",
+    "first_seen": "2026-10-29T02:07:08.114775+00:00"
+  },
+  "f08daa0cbfdc01a3": {
+    "url": "https://www.mof.go.jp/outside_link/20261028111809.html",
+    "title": "貿易統計(令和8年10月上旬分速報)【税関ホームページ】",
+    "first_seen": "2026-10-29T02:07:08.114775+00:00"
   }
 }
