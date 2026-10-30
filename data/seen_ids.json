@@ -1,34 +1,4 @@
 {
-  "e73df5a001b0a9cc": {
-    "url": "https://www.mhlw.go.jp/general/saiyo/eizen_kakariin.html",
-    "title": "営繕技官募集案内【係長級】",
-    "first_seen": "2026-09-30T01:06:03.413684+00:00"
-  },
-  "317f4f496dcc956d": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76107.html",
-    "title": "令和７年度　看護職員の資質の向上に係る研修事業等の実施状況",
-    "first_seen": "2026-09-30T01:06:03.413684+00:00"
-  },
-  "94039d2fa789640b": {
-    "url": "https://www.mof.go.jp/about_mof/introduction/personnel/jinji-activities/shougai_katsuyaku.html",
-    "title": "障害者活躍推進計画",
-    "first_seen": "2026-09-30T01:06:05.729475+00:00"
-  },
-  "6f6163d67adae466": {
-    "url": "https://www.mof.go.jp/about_mof/introduction/personnel/jinji-activities/ninnmennjjoukyou.html",
-    "title": "障害者である職員の任免状況について",
-    "first_seen": "2026-09-30T01:06:05.729475+00:00"
-  },
-  "9c2e5457e2862bef": {
-    "url": "https://www.mof.go.jp/insideLink/20260928154738.html",
-    "title": "国債の償還予定額（令和8年10月分）",
-    "first_seen": "2026-09-30T01:06:05.729475+00:00"
-  },
-  "f66d0c26fa6abd04": {
-    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-    "title": "国債金利情報(令和8年9月29日)",
-    "first_seen": "2026-09-30T01:06:05.729475+00:00"
-  },
   "bda6ec7e475235ea": {
     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/36163_00001.html",
     "title": "地域ブロック別の職種別平均手数料及び離職率について",
@@ -3593,5 +3563,70 @@
     "url": "https://www.mof.go.jp/public_relations/conference/my20261016a.html",
     "title": "植田日本銀行総裁、三村財務官共同記者会見の概要(令和8年10月16日(金曜日))",
     "first_seen": "2026-10-29T09:24:00.985577+00:00"
+  },
+  "d2404a6d37f06d90": {
+    "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-igyoukeieisenmonkanorsyusa_00001.html",
+    "title": "採用情報（任期付職員（企画開発係長）募集情報）",
+    "first_seen": "2026-10-30T01:34:19.937517+00:00"
+  },
+  "eb9d53e2b733ea57": {
+    "url": "https://www.mhlw.go.jp/toukei/list/30-1b.html",
+    "title": "毎月勤労統計調査地方調査令和７年６月結果の一部訂正について（令和８年10月30日）",
+    "first_seen": "2026-10-30T01:34:19.937517+00:00"
+  },
+  "d05049356fd3b078": {
+    "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/index_00014.html",
+    "title": "総合職人間科学区分（課長補佐級／係長級）の経験者選考採用について",
+    "first_seen": "2026-10-30T01:34:19.937517+00:00"
+  },
+  "9b4b7342ac7a94a2": {
+    "url": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/index.html",
+    "title": "令和９年 医政局所管国家試験会場（予定）一覧",
+    "first_seen": "2026-10-30T01:34:19.937517+00:00"
+  },
+  "35d550a17856e79f": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77050.html",
+    "title": "第214回労働政策審議会労働条件分科会（資料）",
+    "first_seen": "2026-10-30T01:34:19.937517+00:00"
+  },
+  "6045107e16debbcc": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77031.html",
+    "title": "第38回アルコール健康障害対策関係者会議　資料",
+    "first_seen": "2026-10-30T01:34:19.937517+00:00"
+  },
+  "ffdfe1466d3ce305": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "title": "一般職業紹介状況(令和8年9月分)について",
+    "first_seen": "2026-10-30T01:34:19.937517+00:00"
+  },
+  "9affb55d906944e3": {
+    "url": "http://www.boj.or.jp/about/release/sousailive.htm",
+    "title": "総裁記者会見ライブ配信（10月30日15時30分予定）",
+    "first_seen": "2026-10-30T01:34:20.712954+00:00"
+  },
+  "21509b94c3469f88": {
+    "url": "http://www.boj.or.jp/about/release_2026/rel261030a.htm",
+    "title": "日本銀行の役員に就いている退職公務員等の状況等の公表について",
+    "first_seen": "2026-10-30T01:34:20.712954+00:00"
+  },
+  "f53151f6847b2a00": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20261030.htm",
+    "title": "国庫短期証券（第1417回）の発行予定額等",
+    "first_seen": "2026-10-30T01:34:21.266729+00:00"
+  },
+  "d45cbed3ed723fb6": {
+    "url": "https://www.mof.go.jp/insideLink/20261029093950.html",
+    "title": "国債の償還予定額（令和8年11月分）",
+    "first_seen": "2026-10-30T01:34:21.266729+00:00"
+  },
+  "487c621e62855341": {
+    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+    "title": "国債金利情報(令和8年10月29日)",
+    "first_seen": "2026-10-30T01:34:21.266729+00:00"
+  },
+  "80de83cf48b26105": {
+    "url": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/shinmado20261030.htm",
+    "title": "新型窓口販売方式による2年利付国債（第490回）の発行条件等",
+    "first_seen": "2026-10-30T01:34:21.266729+00:00"
   }
 }
