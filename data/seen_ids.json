@@ -1,39 +1,4 @@
 {
-  "1ee0f9a0ab66edc5": {
-    "url": "https://www.mhlw.go.jp/kinkyu/151106.html",
-    "title": "労働基準関係法令違反に係る公表事案",
-    "first_seen": "2026-09-30T20:33:41.269712+00:00"
-  },
-  "cf44483ed22ac952": {
-    "url": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei11/rousai-hassei/index.html",
-    "title": "労働災害発生状況",
-    "first_seen": "2026-09-30T20:33:41.269712+00:00"
-  },
-  "fc2f1e9d3290e3d8": {
-    "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260831a.pdf",
-    "title": "長期国債買入れ（利回り・価格入札方式）の四半期予定（2026年7～9月）［日程更新］",
-    "first_seen": "2026-09-30T20:33:42.160403+00:00"
-  },
-  "50ae924ce2ae25eb": {
-    "url": "http://www.boj.or.jp/about/bcp/fso/fso260831a.pdf",
-    "title": "令和8年8月27日からの大雨に伴う災害等に対する金融上の措置について（福井県）",
-    "first_seen": "2026-09-30T20:33:42.160403+00:00"
-  },
-  "43e94f841ab6d5b9": {
-    "url": "http://www.boj.or.jp/mopo/mpmsche_minu/opinion_2026/opi260918.pdf",
-    "title": "金融政策決定会合における主な意見（9月17、18日開催分）",
-    "first_seen": "2026-10-01T00:21:55.486305+00:00"
-  },
-  "f4394fd7fcecb58f": {
-    "url": "http://www.boj.or.jp/statistics/tk/tankan09a.htm",
-    "title": "短観（9月）＜概要、要旨＞",
-    "first_seen": "2026-10-01T00:21:55.486305+00:00"
-  },
-  "cc1a27a684830ed9": {
-    "url": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/shinmado20261001.htm",
-    "title": "新型窓口販売方式による2年利付国債（第489回）の発行条件等",
-    "first_seen": "2026-10-01T00:21:56.199872+00:00"
-  },
   "763021150bd926a5": {
     "url": "https://www.mhlw.go.jp/stf/newpage_76512.html",
     "title": "「令和８年度 第１回 薬事審議会 化学物質安全対策部会 家庭用品安全対策調査会」 を開催します（開催案内）",
@@ -3708,5 +3673,10 @@
     "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/data/monthly/20261030.html",
     "title": "外国為替平衡操作の実施状況(令和8年9月29日～令和8年10月28日)",
     "first_seen": "2026-10-30T15:33:47.847005+00:00"
+  },
+  "b2255ce51c92d082": {
+    "url": "https://www.fsa.go.jp/ordinary/tariff202504/kashitsuke/202506.html",
+    "title": "その他,金融機関における貸付条件の変更等の状況についてを更新しました。",
+    "first_seen": "2026-10-31T00:24:16.447185+00:00"
   }
 }
