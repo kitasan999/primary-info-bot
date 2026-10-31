@@ -1,29 +1,4 @@
 {
-  "7f9015057eb556bb": {
-    "url": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261001a.htm",
-    "title": "バーゼル銀行監督委員会による「バーゼルIIIモニタリングレポート」の公表について",
-    "first_seen": "2026-10-01T20:07:35.244666+00:00"
-  },
-  "f07c4fa42628a2bd": {
-    "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261001a.pdf",
-    "title": "気候変動対応を支援するための資金供給オペレーションの実施スケジュールについて",
-    "first_seen": "2026-10-01T20:07:35.244666+00:00"
-  },
-  "3c3e415eeb4dd22c": {
-    "url": "http://www.boj.or.jp/intl_finance/meeting/group/gro260901a.htm",
-    "title": "金融安定理事会によるG20財務大臣・中央銀行総裁へのレターの公表について",
-    "first_seen": "2026-10-01T20:07:35.244666+00:00"
-  },
-  "a669043ca96693f3": {
-    "url": "http://www.boj.or.jp/paym/bond/bond_list/bond2608.pdf",
-    "title": "債券市場サーベイ（2026年8月調査）",
-    "first_seen": "2026-10-01T20:07:35.244666+00:00"
-  },
-  "29fc4c2060e39025": {
-    "url": "http://www.boj.or.jp/statistics/boj/fm/juqf/juqf08.xlsx",
-    "title": "日銀当座預金増減要因と金融調節（8月実績）",
-    "first_seen": "2026-10-01T20:07:35.244666+00:00"
-  },
   "080556228a254b25": {
     "url": "https://www.mhlw.go.jp/stf/newpage_76543.html",
     "title": "第92回労働政策審議会雇用環境・均等分科会の資料を掲載しました。",
@@ -3478,5 +3453,10 @@
     "url": "http://www.boj.or.jp/statistics/boj/fm/juqf/juqf09.xlsx",
     "title": "日銀当座預金増減要因と金融調節（9月実績）",
     "first_seen": "2026-10-31T18:12:23.523823+00:00"
+  },
+  "080c4a76cf154c57": {
+    "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/suuri.html",
+    "title": "説明会情報の更新（総合職（数理・デジタル系））",
+    "first_seen": "2026-10-31T22:12:53.857369+00:00"
   }
 }
