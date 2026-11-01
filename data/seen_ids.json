@@ -1,34 +1,4 @@
 {
-  "080556228a254b25": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76543.html",
-    "title": "第92回労働政策審議会雇用環境・均等分科会の資料を掲載しました。",
-    "first_seen": "2026-10-02T00:32:11.603733+00:00"
-  },
-  "a1696dc48e23db29": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76397.html",
-    "title": "一般職業紹介状況(令和8年8月分)について",
-    "first_seen": "2026-10-02T00:32:11.603733+00:00"
-  },
-  "2b5e6157f965a080": {
-    "url": "http://www.boj.or.jp/statistics/dl/loan/yaku/yaku2608.pdf",
-    "title": "貸出約定平均金利（8月）",
-    "first_seen": "2026-10-02T00:32:13.470210+00:00"
-  },
-  "f5eb6d01b3ef0089": {
-    "url": "http://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
-    "title": "マネタリーベース（9月）",
-    "first_seen": "2026-10-02T00:32:13.470210+00:00"
-  },
-  "6b694d75fc053f39": {
-    "url": "http://www.boj.or.jp/statistics/tk/tankan09b.htm",
-    "title": "短観（9月）＜調査全容＞",
-    "first_seen": "2026-10-02T00:32:13.470210+00:00"
-  },
-  "9213abb974cec1fe": {
-    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-    "title": "国債金利情報(令和8年10月1日)",
-    "first_seen": "2026-10-02T00:32:14.262783+00:00"
-  },
   "908f3b4b9834900b": {
     "url": "https://www.mhlw.go.jp/general/saiyo/kokka1/yakugaku.html",
     "title": "総合職（化学・生物・薬学）（薬系技官）",
@@ -3458,5 +3428,15 @@
     "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/suuri.html",
     "title": "説明会情報の更新（総合職（数理・デジタル系））",
     "first_seen": "2026-10-31T22:12:53.857369+00:00"
+  },
+  "7f9015057eb556bb": {
+    "url": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261001a.htm",
+    "title": "バーゼル銀行監督委員会による「バーゼルIIIモニタリングレポート」の公表について",
+    "first_seen": "2026-11-01T01:52:14.489491+00:00"
+  },
+  "f07c4fa42628a2bd": {
+    "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261001a.pdf",
+    "title": "気候変動対応を支援するための資金供給オペレーションの実施スケジュールについて",
+    "first_seen": "2026-11-01T01:52:14.489491+00:00"
   }
 }
