@@ -1,14 +1,4 @@
 {
-  "2f34b638a2d0dec1": {
-    "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260831.xlsx",
-    "title": "日本銀行が保有する国債の銘柄別残高",
-    "first_seen": "2026-10-02T18:59:17.425677+00:00"
-  },
-  "3e580977e02c3ac2": {
-    "url": "http://www.boj.or.jp/statistics/boj/other/col/col2608.xlsx",
-    "title": "日本銀行が受入れている担保の残高（8月末）",
-    "first_seen": "2026-10-02T18:59:17.425677+00:00"
-  },
   "51d52e415adde855": {
     "url": "http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2609.xlsx",
     "title": "日銀当座預金増減要因（9月見込み）",
@@ -3313,5 +3303,20 @@
     "url": "http://www.boj.or.jp/statistics/tk/tankan09b.htm",
     "title": "短観（9月）＜調査全容＞",
     "first_seen": "2026-11-01T08:44:43.559111+00:00"
+  },
+  "1de7114b701e54a6": {
+    "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
+    "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+    "first_seen": "2026-11-01T20:12:17.514999+00:00"
+  },
+  "8b77b686097f537f": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260930.xlsx",
+    "title": "日本銀行が保有する国債の銘柄別残高",
+    "first_seen": "2026-11-01T20:12:18.304759+00:00"
+  },
+  "0c21779813bd0543": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/col/col2609.xlsx",
+    "title": "日本銀行が受入れている担保の残高（9月末）",
+    "first_seen": "2026-11-01T20:12:18.304759+00:00"
   }
 }
