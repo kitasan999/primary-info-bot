@@ -1,9 +1,4 @@
 {
-  "88563ec65645c810": {
-    "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk260904a.pdf",
-    "title": "【記者会見】植田総裁（G20、9月1日分）",
-    "first_seen": "2026-10-04T15:40:07.346870+00:00"
-  },
   "e63ca43b9e1ff690": {
     "url": "https://www.fsa.go.jp/inter/arfp/index.html",
     "title": "国際関係,アジア地域ファンド・パスポート「2025年 年次報告書」の公表について掲載しました。",
@@ -3488,5 +3483,10 @@
     "url": "https://www.mof.go.jp/about_mof/councils/meeting_of_jgbsp/press_release/261102.html",
     "title": "国債市場特別参加者会合（第121回）開催日程",
     "first_seen": "2026-11-02T17:50:38.178834+00:00"
+  },
+  "83fca54b9f488336": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77137.html",
+    "title": "第16回医師養成過程を通じた医師の偏在対策等に関する検討会",
+    "first_seen": "2026-11-03T15:50:35.703542+00:00"
   }
 }
