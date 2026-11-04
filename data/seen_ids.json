@@ -1,24 +1,4 @@
 {
-  "e63ca43b9e1ff690": {
-    "url": "https://www.fsa.go.jp/inter/arfp/index.html",
-    "title": "国際関係,アジア地域ファンド・パスポート「2025年 年次報告書」の公表について掲載しました。",
-    "first_seen": "2026-10-05T01:37:40.126695+00:00"
-  },
-  "f8a30b4855bba4b8": {
-    "url": "http://www.boj.or.jp/about/press/koen_2026/ko261005a.htm",
-    "title": "【挨拶】内田副総裁「AI、ビッグデータと金融政策」（ECONDAT 2026 Fall Meetingにおける開会挨拶の邦訳）",
-    "first_seen": "2026-10-05T01:37:40.450251+00:00"
-  },
-  "f52e1fd855571236": {
-    "url": "http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2610.xlsx",
-    "title": "日銀当座預金増減要因（10月見込み）",
-    "first_seen": "2026-10-05T01:37:40.450251+00:00"
-  },
-  "7d0e79549d3af1c5": {
-    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-    "title": "国債金利情報(令和8年10月2日)",
-    "first_seen": "2026-10-05T01:37:41.680122+00:00"
-  },
   "a1fd6c80e8acaf81": {
     "url": "https://www.mhlw.go.jp/stf/newpage_76430.html",
     "title": "関係法令、その他関係通知等",
@@ -3488,5 +3468,65 @@
     "url": "https://www.mhlw.go.jp/stf/newpage_77137.html",
     "title": "第16回医師養成過程を通じた医師の偏在対策等に関する検討会",
     "first_seen": "2026-11-03T15:50:35.703542+00:00"
+  },
+  "9da471f8a1eab53c": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77100.html",
+    "title": "人事労務マガジン定例第193号　「生涯現役地域づくり環境整備事業情報交換会」を11月17日に開催します 他",
+    "first_seen": "2026-11-04T01:54:25.958249+00:00"
+  },
+  "f53fa851e53e3c78": {
+    "url": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/kanrieiyoushi/about.html",
+    "title": "第41回管理栄養士国家試験の実施について",
+    "first_seen": "2026-11-04T01:54:25.958249+00:00"
+  },
+  "3e37a99db517ead1": {
+    "url": "https://www.mhlw.go.jp/toukei/saikin/hw/hihogosya/m2026/08.html",
+    "title": "被保護者調査（令和８年８月分概数）",
+    "first_seen": "2026-11-04T01:54:25.958249+00:00"
+  },
+  "8c7f6d2faf88bacf": {
+    "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-jiritsushienshinkoushitsuchouhosa.html",
+    "title": "採用情報（任期付職員（自立支援振興室長補佐）募集情報）",
+    "first_seen": "2026-11-04T01:54:25.958249+00:00"
+  },
+  "9649a71da7f29287": {
+    "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-shougaisyabunkageijyutsukeikakusuishinkan.html",
+    "title": "採用情報（任期付職員（障害者文化芸術計画推進官）募集情報）",
+    "first_seen": "2026-11-04T01:54:25.958249+00:00"
+  },
+  "98f0562cb7702287": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76949.html",
+    "title": "令和８年秋の叙勲受章者について",
+    "first_seen": "2026-11-04T01:54:25.958249+00:00"
+  },
+  "8f8f001962c0b5f8": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76875.html",
+    "title": "令和８年秋の褒章受章者について",
+    "first_seen": "2026-11-04T01:54:25.958249+00:00"
+  },
+  "cdcb479425680faa": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77074.html",
+    "title": "第１７回循環器病対策推進協議会　議事録",
+    "first_seen": "2026-11-04T01:54:25.958249+00:00"
+  },
+  "65dabe8797f70dd3": {
+    "url": "https://www.fsa.go.jp/news/r8/sonota/20261104/20261104.html",
+    "title": "令和８年秋の叙勲・褒章受章者について公表しました。",
+    "first_seen": "2026-11-04T01:54:26.313743+00:00"
+  },
+  "d8f64e6cbc4b231a": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261031.htm",
+    "title": "営業毎旬報告（10月31日現在）",
+    "first_seen": "2026-11-04T01:54:26.798225+00:00"
+  },
+  "f8a01b82e398ea5c": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
+    "title": "マネタリーベース（10月）",
+    "first_seen": "2026-11-04T01:54:26.798225+00:00"
+  },
+  "537cb1c7d7644e0d": {
+    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+    "title": "国債金利情報(令和8年11月2日)",
+    "first_seen": "2026-11-04T01:54:27.920618+00:00"
   }
 }
