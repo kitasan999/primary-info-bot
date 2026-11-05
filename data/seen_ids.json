@@ -3528,5 +3528,50 @@
     "url": "http://www.boj.or.jp/research/research_data/gap/index.htm",
     "title": "需給ギャップ・潜在成長率および労働需給関連指標",
     "first_seen": "2026-11-04T16:51:51.403203+00:00"
+  },
+  "f523ee2f28a56e76": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77177.html",
+    "title": "第63回社会保障審議会生活保護基準部会　  資料",
+    "first_seen": "2026-11-05T03:11:50.955186+00:00"
+  },
+  "6af2f9dbb139fc4e": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77172.html",
+    "title": "令和８年度 第２回化学物質管理に係る専門家検討会　議事録",
+    "first_seen": "2026-11-05T03:11:50.955186+00:00"
+  },
+  "35bee0442e5d41a5": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77023.html",
+    "title": "第１タスクフォース第１回　資料",
+    "first_seen": "2026-11-05T03:11:50.955186+00:00"
+  },
+  "b67164e74c3aa894": {
+    "url": "http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2611.xlsx",
+    "title": "日銀当座預金増減要因（11月見込み）",
+    "first_seen": "2026-11-05T03:11:51.747957+00:00"
+  },
+  "9430794264fc9799": {
+    "url": "http://www.boj.or.jp/mopo/mpmsche_minu/minu_2026/g260918.pdf",
+    "title": "金融政策決定会合議事要旨（9月17、18日開催分）",
+    "first_seen": "2026-11-05T03:11:51.747957+00:00"
+  },
+  "dc25573f7e5cdb98": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/rinya-offer261105.htm",
+    "title": "国有林野事業債務管理特別会計の借入金の入札予定（令和8年11月5日公表）",
+    "first_seen": "2026-11-05T03:11:52.704694+00:00"
+  },
+  "4b5a5c3aecbd21e9": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261105.htm",
+    "title": "5年利付国債（11月債）の発行予定額等（令和8年11月5日公表）",
+    "first_seen": "2026-11-05T03:11:52.704694+00:00"
+  },
+  "48abf1b047558272": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261105.htm",
+    "title": "10年利付国債（第384回）の入札発行（令和8年11月5日入札）",
+    "first_seen": "2026-11-05T03:11:52.704694+00:00"
+  },
+  "ebf3f3e4c1ca22cc": {
+    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+    "title": "国債金利情報(令和8年11月4日)",
+    "first_seen": "2026-11-05T03:11:52.704694+00:00"
   }
 }
