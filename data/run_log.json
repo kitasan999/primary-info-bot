@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-11-03T07:35:52.839795+00:00",
-    "source_id": "mhlw_news",
-    "status": "ok",
-    "fetched": 131,
-    "new": 0
-  },
-  {
-    "timestamp": "2026-11-03T07:35:52.991419+00:00",
-    "source_id": "mhlw_kinkyu",
-    "status": "ok",
-    "fetched": 1,
-    "new": 0
-  },
-  {
-    "timestamp": "2026-11-03T07:35:53.176957+00:00",
-    "source_id": "fsa_news",
-    "status": "ok",
-    "fetched": 15,
-    "new": 0
-  },
-  {
-    "timestamp": "2026-11-03T07:35:53.524808+00:00",
-    "source_id": "boj_news",
-    "status": "ok",
-    "fetched": 70,
-    "new": 0
-  },
-  {
-    "timestamp": "2026-11-03T07:35:54.490944+00:00",
-    "source_id": "mof_news",
-    "status": "ok",
-    "fetched": 100,
-    "new": 0
-  },
-  {
     "timestamp": "2026-11-03T15:50:35.703596+00:00",
     "source_id": "mhlw_news",
     "status": "ok",
@@ -348,5 +313,39 @@
     "status": "ok",
     "fetched": 100,
     "new": 0
+  },
+  {
+    "timestamp": "2026-11-06T00:45:39.430673+00:00",
+    "source_id": "mhlw_news",
+    "status": "ok",
+    "fetched": 118,
+    "new": 2
+  },
+  {
+    "timestamp": "2026-11-06T00:45:39.677425+00:00",
+    "source_id": "mhlw_kinkyu",
+    "status": "ok",
+    "fetched": 1,
+    "new": 0
+  },
+  {
+    "timestamp": "2026-11-06T00:45:39.933908+00:00",
+    "source_id": "fsa_news",
+    "status": "ok",
+    "fetched": 15,
+    "new": 0
+  },
+  {
+    "timestamp": "2026-11-06T00:45:40.610544+00:00",
+    "source_id": "boj_news",
+    "status": "ok",
+    "fetched": 75,
+    "new": 1
+  },
+  {
+    "timestamp": "2026-11-06T00:45:41.927105+00:00",
+    "source_id": "mof_news",
+    "status": "error",
+    "message": "RSS取得失敗: mof_news (<unknown>:10:101: not well-formed (invalid token))"
   }
 ]
