@@ -1,19 +1,4 @@
 {
-  "dc15b5d8d6e84654": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76665.html",
-    "title": "第133回労働政策審議会労働条件分科会労災保険部会資料",
-    "first_seen": "2026-10-08T17:44:06.670280+00:00"
-  },
-  "c1e5b2a41678687d": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76663.html",
-    "title": "第60回労働政策審議会人材開発分科会（オンライン併用）の開催について",
-    "first_seen": "2026-10-08T17:44:06.670280+00:00"
-  },
-  "943fb7fc4b9ebf26": {
-    "url": "https://www.mof.go.jp/about_mof/councils/study_on_chain/index.html",
-    "title": "国債のオンチェーン対応に関する研究会",
-    "first_seen": "2026-10-08T17:44:09.727945+00:00"
-  },
   "2cc53c010c143fbe": {
     "url": "https://www.mhlw.go.jp/stf/newpage_76664.html",
     "title": "有料老人ホームにおける望ましいサービス提供のあり方に関する検討会（第10回）の資料について",
@@ -3453,5 +3438,20 @@
     "url": "http://www.boj.or.jp/statistics/br/bop_06/bpdata/diiqcy.htm",
     "title": "業種別・地域別直接投資（2026年第2四半期）",
     "first_seen": "2026-11-07T15:26:03.920952+00:00"
+  },
+  "eb1500f680f54de4": {
+    "url": "http://www.boj.or.jp/research/brp/rer/rer261008.htm",
+    "title": "地域経済報告（さくらレポート、2026年10月）",
+    "first_seen": "2026-11-07T19:53:29.202261+00:00"
+  },
+  "ff12fa6cd0e2a31f": {
+    "url": "http://www.boj.or.jp/statistics/other/toukai/toukai.xlsx",
+    "title": "東海地域業況判断DI（9月）",
+    "first_seen": "2026-11-07T19:53:29.202261+00:00"
+  },
+  "f185b15593b25b9c": {
+    "url": "http://www.boj.or.jp/statistics/other/kantou/kantou.xlsx",
+    "title": "関東甲信越地域業況判断DI（9月）",
+    "first_seen": "2026-11-07T19:53:29.202261+00:00"
   }
 }
