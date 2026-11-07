@@ -3453,5 +3453,10 @@
     "url": "http://www.boj.or.jp/statistics/other/kantou/kantou.xlsx",
     "title": "関東甲信越地域業況判断DI（9月）",
     "first_seen": "2026-11-07T19:53:29.202261+00:00"
+  },
+  "943fb7fc4b9ebf26": {
+    "url": "https://www.mof.go.jp/about_mof/councils/study_on_chain/index.html",
+    "title": "国債のオンチェーン対応に関する研究会",
+    "first_seen": "2026-11-07T23:26:31.462503+00:00"
   }
 }
