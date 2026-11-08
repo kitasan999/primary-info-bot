@@ -1,24 +1,4 @@
 {
-  "9e0e7056e7e77cb6": {
-    "url": "https://www.fsa.go.jp/ordinary/chuui/chuui_phishing.html",
-    "title": "「インターネット取引サービスへの不正アクセス・不正取引にご注意ください」のページを更新しました。",
-    "first_seen": "2026-10-09T17:20:15.295641+00:00"
-  },
-  "dbf9e6ca26f52d24": {
-    "url": "http://www.boj.or.jp/about/bcp/fso/fso260909a.pdf",
-    "title": "令和8年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について（愛知県）",
-    "first_seen": "2026-10-09T17:20:15.805961+00:00"
-  },
-  "6c59f91a9573df5d": {
-    "url": "http://www.boj.or.jp/about/organization/notice/index.htm",
-    "title": "日本銀行やその役職員の関与を装った不審な連絡・勧誘・ウェブサイト・SNSアカウントなどにご注意ください",
-    "first_seen": "2026-10-09T17:20:15.805961+00:00"
-  },
-  "733b9fba54bc9a31": {
-    "url": "https://www.mof.go.jp/public_relations/conference/my20261009.html",
-    "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月9日(金曜日))",
-    "first_seen": "2026-10-09T17:20:16.668466+00:00"
-  },
   "a53fd7d386568b9d": {
     "url": "http://www.boj.or.jp/statistics/bis/yoshi/index.htm",
     "title": "デリバティブ取引に関する定例市場報告",
@@ -3298,5 +3278,25 @@
     "url": "https://www.mof.go.jp/about_mof/councils/study_on_chain/index.html",
     "title": "国債のオンチェーン対応に関する研究会",
     "first_seen": "2026-11-07T23:26:31.462503+00:00"
+  },
+  "ba1cea33beffe48f": {
+    "url": "http://www.boj.or.jp/finsys/macpru/mac261009a.pdf",
+    "title": "第25回「金融庁・日本銀行連絡会」の開催について",
+    "first_seen": "2026-11-08T17:38:38.858379+00:00"
+  },
+  "190d1c48176536f0": {
+    "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261009a.pdf",
+    "title": "「適格担保の担保価格」の一部改正等について",
+    "first_seen": "2026-11-08T17:38:38.858379+00:00"
+  },
+  "15bf6699f78a413a": {
+    "url": "http://www.boj.or.jp/about/recruit/rec261009a.htm",
+    "title": "日本銀行に関する学生向けの説明会、職員との座談会、オープン・カンパニーへの参加募集について",
+    "first_seen": "2026-11-08T17:38:38.858379+00:00"
+  },
+  "67590a26ba7cb74f": {
+    "url": "http://www.boj.or.jp/paym/market/market2610.htm",
+    "title": "わが国短期金融市場の動向",
+    "first_seen": "2026-11-08T17:38:38.858379+00:00"
   }
 }
