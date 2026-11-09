@@ -1,19 +1,4 @@
 {
-  "a53fd7d386568b9d": {
-    "url": "http://www.boj.or.jp/statistics/bis/yoshi/index.htm",
-    "title": "デリバティブ取引に関する定例市場報告",
-    "first_seen": "2026-10-10T09:27:11.951709+00:00"
-  },
-  "26d39394dc31e004": {
-    "url": "http://www.boj.or.jp/statistics/set/bffail/sjgb2608.pdf",
-    "title": "フェイルの発生状況（8月）",
-    "first_seen": "2026-10-10T19:47:38.891362+00:00"
-  },
-  "b029967bf115905f": {
-    "url": "http://www.boj.or.jp/about/pr_events/hontenkoho/hon260910.htm",
-    "title": "「日銀夏休み親子見学会2026」を開催しました（8月20日＜木＞～25日＜火＞）",
-    "first_seen": "2026-10-10T19:47:38.891362+00:00"
-  },
   "578ef8f9e917691c": {
     "url": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2608.pdf",
     "title": "企業物価指数（8月）",
@@ -3428,5 +3413,170 @@
     "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261109.htm",
     "title": "10年物価連動国債（11月債）の発行予定額等（令和8年11月9日公表）",
     "first_seen": "2026-11-09T09:10:49.829209+00:00"
+  },
+  "37255b71223c4ac4": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77290.html",
+    "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+    "first_seen": "2026-11-09T20:25:46.280674+00:00"
+  },
+  "98f9e0152d6b061b": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77232.html",
+    "title": "介護福祉士養成施設における教育の充実モデル支援事業の公募結果について",
+    "first_seen": "2026-11-09T20:25:46.280674+00:00"
+  },
+  "edb75416dd0ccf1f": {
+    "url": "https://www.boj.or.jp/statistics/market/short/call/call.xlsx",
+    "title": "コール市場残高（10月）",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "933baaa415b9a38c": {
+    "url": "https://www.boj.or.jp/statistics/boj/other/mbt/mbt2610.pdf",
+    "title": "マネタリーベースと日本銀行の取引（10月）",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "64f850416bc9eda5": {
+    "url": "https://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2610.pdf",
+    "title": "日本銀行の対政府取引（10月）",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "8e98417948a7db9f": {
+    "url": "https://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2610.xlsx",
+    "title": "オペレーション（10月）",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "d4f367b898e06cc2": {
+    "url": "https://www.boj.or.jp/about/press/koen_2026/ko261107a.htm",
+    "title": "【講演】植田総裁「日本の経常収支黒字と企業行動の変容」（IMF）",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "ea84eb24f3d3e896": {
+    "url": "https://www.boj.or.jp/about/release_2026/rel261106b.htm",
+    "title": "（金研ニュースレター）2026年カナダ銀行・フィラデルフィア連銀・日本銀行共催ワークショップ",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "f4f8648d51e85f52": {
+    "url": "https://www.boj.or.jp/about/release_2026/rel261106a.htm",
+    "title": "日本銀行金融研究所　ファイナンス・ワークショップの開催",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "b99e4face96a0594": {
+    "url": "https://www.boj.or.jp/research/imes/dps/dps26.htm",
+    "title": "金融研究所ディスカッション・ペーパー・シリーズ（2026年収録分）",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "dc20a634543c9262": {
+    "url": "https://www.boj.or.jp/paym/bond/mbond_list/mbond261105.pdf",
+    "title": "「債券市場参加者会合」（第25回）の開催について",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "483003e41b452248": {
+    "url": "https://www.boj.or.jp/statistics/boj/fm/juqp/juqp2611.xlsx",
+    "title": "日銀当座預金増減要因（11月見込み）",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "c1dccdb5ad1ccd1f": {
+    "url": "https://www.boj.or.jp/mopo/mpmsche_minu/minu_2026/g260918.pdf",
+    "title": "金融政策決定会合議事要旨（9月17、18日開催分）",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "23896de6bd8d1728": {
+    "url": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261030.xlsx",
+    "title": "日本銀行が保有する国債の銘柄別残高",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "3753d27071b4fa2a": {
+    "url": "https://www.boj.or.jp/statistics/boj/other/col/col2610.xlsx",
+    "title": "日本銀行が受入れている担保の残高（10月末）",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "9cb9637af6e7960e": {
+    "url": "https://www.boj.or.jp/about/bcp/fin_bcp/fbcp261104a.pdf",
+    "title": "訓練目的の共通担保資金供給オペの実施について",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "a53c5ba651df1826": {
+    "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261031.htm",
+    "title": "営業毎旬報告（10月31日現在）",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "4d26b15cbbfa1936": {
+    "url": "https://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
+    "title": "マネタリーベース（10月）",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "fc6c99366a81c65c": {
+    "url": "https://www.boj.or.jp/paym/intlact_pm/cpss/cpss261102a.htm",
+    "title": "CPMIが報告書「進化する決済システムにおける中央銀行および中央銀行マネーの役割」を公表",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "f9371eaf63eb21df": {
+    "url": "https://www.boj.or.jp/mopo/measures/select/s_release/srel261102a.htm",
+    "title": "気候変動対応を支援するための資金供給オペレーションの対象先公募について",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "cc168a3b6f0b6d9a": {
+    "url": "https://www.boj.or.jp/about/press/kaiken_2026/kk261102a.pdf",
+    "title": "【記者会見】植田総裁（10月30日分）",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "08480203068666df": {
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2610b.pdf",
+    "title": "経済・物価情勢の展望（10月、全文）",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "59ef7637993bd5d8": {
+    "url": "https://www.boj.or.jp/statistics/boj/fm/juqf/juqf10.xlsx",
+    "title": "日銀当座預金増減要因と金融調節（10月実績）",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "c5ed0b6712282f50": {
+    "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030c.pdf",
+    "title": "長期国債買入れ（利回り・価格入札方式）の四半期予定（2026年10～12月）［日程更新］",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "8492d1c45bfae253": {
+    "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030b.pdf",
+    "title": "米ドル資金供給オペレーションのオファー日程（2026年11月～2027年3月）",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "6c603cbbfb14ec45": {
+    "url": "https://www.boj.or.jp/about/release/sousaidouga.htm",
+    "title": "総裁記者会見（10月30日）動画の配信開始",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "f045e3f62e203a63": {
+    "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030a.pdf",
+    "title": "「指数連動型上場投資信託受益権等の処分の指針」の一部改正について",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "0356b31fdd896276": {
+    "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030a.pdf",
+    "title": "当面の金融政策運営について",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "031a8e40ca086e1d": {
+    "url": "https://www.boj.or.jp/mopo/outlook/gor2610a.pdf",
+    "title": "経済・物価情勢の展望（10月、基本的見解）",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "e3e9f12b300171c6": {
+    "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030b.pdf",
+    "title": "（参考）経済・物価情勢の展望と基調的な物価上昇率に関連する各種指標",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "3271898fd82ed8c1": {
+    "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030c.pdf",
+    "title": "（参考）ETFの売却ペースの見直しに関する決定（2026年10月）",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "a8f55732227f8050": {
+    "url": "https://www.boj.or.jp/statistics/set/kess/release/2026/kess2609.pdf",
+    "title": "決済動向（9月）",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
+  },
+  "373d3d82fb9d41e1": {
+    "url": "https://www.boj.or.jp/about/release_2026/rel261030a.htm",
+    "title": "日本銀行の役員に就いている退職公務員等の状況等の公表について",
+    "first_seen": "2026-11-09T20:25:47.102151+00:00"
   }
 }
