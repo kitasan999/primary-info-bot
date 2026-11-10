@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-11-07T15:26:03.037959+00:00",
-    "source_id": "mhlw_news",
-    "status": "ok",
-    "fetched": 132,
-    "new": 0
-  },
-  {
-    "timestamp": "2026-11-07T15:26:03.273481+00:00",
-    "source_id": "mhlw_kinkyu",
-    "status": "ok",
-    "fetched": 1,
-    "new": 0
-  },
-  {
-    "timestamp": "2026-11-07T15:26:03.459976+00:00",
-    "source_id": "fsa_news",
-    "status": "ok",
-    "fetched": 15,
-    "new": 0
-  },
-  {
-    "timestamp": "2026-11-07T15:26:03.920997+00:00",
-    "source_id": "boj_news",
-    "status": "ok",
-    "fetched": 78,
-    "new": 1
-  },
-  {
-    "timestamp": "2026-11-07T15:26:04.960431+00:00",
-    "source_id": "mof_news",
-    "status": "ok",
-    "fetched": 100,
-    "new": 0
-  },
-  {
     "timestamp": "2026-11-07T19:53:28.470119+00:00",
     "source_id": "mhlw_news",
     "status": "ok",
@@ -348,5 +313,40 @@
     "status": "ok",
     "fetched": 100,
     "new": 0
+  },
+  {
+    "timestamp": "2026-11-10T03:11:23.072860+00:00",
+    "source_id": "mhlw_news",
+    "status": "ok",
+    "fetched": 123,
+    "new": 2
+  },
+  {
+    "timestamp": "2026-11-10T03:11:23.221274+00:00",
+    "source_id": "mhlw_kinkyu",
+    "status": "ok",
+    "fetched": 1,
+    "new": 0
+  },
+  {
+    "timestamp": "2026-11-10T03:11:23.516051+00:00",
+    "source_id": "fsa_news",
+    "status": "ok",
+    "fetched": 15,
+    "new": 2
+  },
+  {
+    "timestamp": "2026-11-10T03:11:24.163370+00:00",
+    "source_id": "boj_news",
+    "status": "ok",
+    "fetched": 74,
+    "new": 2
+  },
+  {
+    "timestamp": "2026-11-10T03:11:24.653992+00:00",
+    "source_id": "mof_news",
+    "status": "ok",
+    "fetched": 100,
+    "new": 6
   }
 ]
