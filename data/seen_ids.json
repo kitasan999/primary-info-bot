@@ -1,9 +1,4 @@
 {
-  "578ef8f9e917691c": {
-    "url": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2608.pdf",
-    "title": "企業物価指数（8月）",
-    "first_seen": "2026-10-11T11:13:56.326371+00:00"
-  },
   "9972bb77f43f0541": {
     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00025.html",
     "title": "インフルエンザに関する報道発表資料を更新しました",
@@ -3638,5 +3633,80 @@
     "url": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/pg202609.htm",
     "title": "令和8年9月中 国際収支状況（速報）の概要",
     "first_seen": "2026-11-10T03:11:24.653940+00:00"
+  },
+  "13b9c64bf1379364": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77344.html",
+    "title": "第８回　医療扶助・健康管理支援等に関する検討会　議事録",
+    "first_seen": "2026-11-10T12:08:24.954957+00:00"
+  },
+  "6837704c3906e3ab": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77343.html",
+    "title": "第212回労働政策審議会労働条件分科会　議事録（2026年10月14日）",
+    "first_seen": "2026-11-10T12:08:24.954957+00:00"
+  },
+  "c614a595241b38fb": {
+    "url": "https://www.mhlw.go.jp/toukei/list/30-1b.html",
+    "title": "毎月勤労統計調査の掲載表の訂正について（令和８年11月10日）",
+    "first_seen": "2026-11-10T12:08:24.954957+00:00"
+  },
+  "630dac3003c6d195": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77319.html",
+    "title": "第60回「ねむの木賞」「高木賞」の贈呈式が行われます",
+    "first_seen": "2026-11-10T12:08:24.954957+00:00"
+  },
+  "08e842ed0c6b1bf6": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77165.html",
+    "title": "第26回成年後見制度利用促進専門家会議　開催案内",
+    "first_seen": "2026-11-10T12:08:24.954957+00:00"
+  },
+  "4e8c4d117dc68540": {
+    "url": "https://www.mhlw.go.jp/stf/houdou/0000212707_00059.html",
+    "title": "残留限度値を超えるΔ９-THCが検出された製品に対する注意喚起について",
+    "first_seen": "2026-11-10T12:08:24.954957+00:00"
+  },
+  "943711e1cfee67d7": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77176.html",
+    "title": "「第２回毎月勤労統計調査の調査手法の検討等に関するワーキンググループ」の開催について",
+    "first_seen": "2026-11-10T12:08:24.954957+00:00"
+  },
+  "4bd0c5525f6ba8e9": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76846.html",
+    "title": "第215回労働政策審議会労働条件分科会　開催案内",
+    "first_seen": "2026-11-10T12:08:24.954957+00:00"
+  },
+  "ed0bb8cfe0abd512": {
+    "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261110114158.html",
+    "title": "片山大臣とベトナムのゴー・ヴァン・トゥアン財政大臣との面会（令和8年11月10日（火））",
+    "first_seen": "2026-11-10T12:08:27.381014+00:00"
+  },
+  "365a43b0545eaab9": {
+    "url": "https://www.mof.go.jp/public_relations/conference/my20261110.html",
+    "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年11月10日(火曜日))",
+    "first_seen": "2026-11-10T12:08:27.381014+00:00"
+  },
+  "7d371022048e0dc9": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261110a.htm",
+    "title": "30年利付国債（第92回）の第II非価格競争入札結果（令和8年11月10日入札）",
+    "first_seen": "2026-11-10T12:08:27.381014+00:00"
+  },
+  "4a7c5f0302a7b1f9": {
+    "url": "https://www.mof.go.jp/outside_link/20261110104032.html",
+    "title": "豪州との間で職員の派遣に関する覚書に署名しました",
+    "first_seen": "2026-11-10T12:08:27.381014+00:00"
+  },
+  "574fa339e641b5f7": {
+    "url": "https://www.mof.go.jp/jgbs/reference/gbb/202609.html",
+    "title": "国債及び借入金並びに政府保証債務現在高（令和8年9月末現在）",
+    "first_seen": "2026-11-10T12:08:27.381014+00:00"
+  },
+  "76fc5e866be988a9": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-result261110.htm",
+    "title": "エネルギー対策特別会計の借入金の入札結果（令和8年11月10日入札）",
+    "first_seen": "2026-11-10T12:08:27.381014+00:00"
+  },
+  "c7d46045a50afa01": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261110.htm",
+    "title": "30年利付国債（第92回）の入札結果（令和8年11月10日入札）",
+    "first_seen": "2026-11-10T12:08:27.381014+00:00"
   }
 }
