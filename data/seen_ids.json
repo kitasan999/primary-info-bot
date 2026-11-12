@@ -1,24 +1,4 @@
 {
-  "6b0e8803578761db": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76702.html",
-    "title": "令和８年度第１回社会復帰促進等事業に関する検討会（議事録)",
-    "first_seen": "2026-10-13T16:52:52.227165+00:00"
-  },
-  "684ca103603685ef": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76698.html",
-    "title": "第133回労働政策審議会労働条件分科会労災保険部会資料",
-    "first_seen": "2026-10-13T16:52:52.227165+00:00"
-  },
-  "3f80f8f44f363dcd": {
-    "url": "https://www.mhlw.go.jp/stf/shingi/0001210262_00104.html",
-    "title": "健康・医療・介護情報利活用検討会 医療等情報利活用ワーキンググループ 第１回歯科情報に関する技術作業班の開催案内",
-    "first_seen": "2026-10-13T16:52:52.227165+00:00"
-  },
-  "3b268633eab80f52": {
-    "url": "https://www.mof.go.jp/public_relations/conference/my20261013.html",
-    "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月13日(火曜日))",
-    "first_seen": "2026-10-13T16:52:54.474108+00:00"
-  },
   "a305b8276c0d7c2f": {
     "url": "http://www.boj.or.jp/statistics/money/ms/ms2609.pdf",
     "title": "マネーストック（9月）",
@@ -3708,5 +3688,20 @@
     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261112a.htm",
     "title": "5年利付国債（第189回）の第II非価格競争入札結果（令和8年11月12日入札）",
     "first_seen": "2026-11-12T14:41:05.556598+00:00"
+  },
+  "8614af1b4dee5895": {
+    "url": "http://www.boj.or.jp/intl_finance/meeting/group/gro261013a.htm",
+    "title": "金融安定理事会によるG20財務大臣・中央銀行総裁へのレターの公表について",
+    "first_seen": "2026-11-12T21:44:12.902378+00:00"
+  },
+  "cfeafeb095d530b7": {
+    "url": "http://www.boj.or.jp/statistics/set/bffail/sjgb2609.pdf",
+    "title": "フェイルの発生状況（9月）",
+    "first_seen": "2026-11-12T21:44:12.902378+00:00"
+  },
+  "a9e167496c9e1e37": {
+    "url": "http://www.boj.or.jp/research/o_survey/ishiki2610.htm",
+    "title": "「生活意識に関するアンケート調査」（第107回）の結果",
+    "first_seen": "2026-11-12T21:44:12.902378+00:00"
   }
 }
