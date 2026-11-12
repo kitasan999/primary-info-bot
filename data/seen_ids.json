@@ -1,24 +1,4 @@
 {
-  "3924f4767d254a4d": {
-    "url": "http://www.boj.or.jp/statistics/dl/depo/kashi/kasi2609.pdf",
-    "title": "貸出・預金動向（9月）",
-    "first_seen": "2026-10-13T01:06:52.070493+00:00"
-  },
-  "a0f1f056b701ef17": {
-    "url": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2609.pdf",
-    "title": "企業物価指数（9月）",
-    "first_seen": "2026-10-13T01:06:52.070493+00:00"
-  },
-  "6d181d4ff678f399": {
-    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-    "title": "国債金利情報(令和8年10月9日)",
-    "first_seen": "2026-10-13T01:06:52.741747+00:00"
-  },
-  "1fba8806f290c620": {
-    "url": "https://www.mof.go.jp/policy/international_policy/imf/dc/20261009183854.html",
-    "title": "片山財務大臣の世銀・IMF合同開発委員会次期議長指名について（令和8年10月13日）",
-    "first_seen": "2026-10-13T01:06:52.741747+00:00"
-  },
   "998e2189ac1fbb98": {
     "url": "https://www.mhlw.go.jp/stf/newpage_76692.html",
     "title": "第２７回新型インフルエンザ対策に関する小委員会　第１２回危機対応医薬品等に関する小委員会　資料",
@@ -3683,5 +3663,95 @@
     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20261111.htm",
     "title": "国庫短期証券（第1420回）の発行予定額等",
     "first_seen": "2026-11-11T08:52:49.622626+00:00"
+  },
+  "e92aa10b64fe560b": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77300.html",
+    "title": "厚生科学審議会感染症部会第２８回新型インフルエンザ対策に関する小委員会 ・第１３回危機対応医薬品等に関する小委員会についてを開催します",
+    "first_seen": "2026-11-12T05:53:09.634787+00:00"
+  },
+  "c9366702b7e0de96": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76869.html",
+    "title": "第79回厚生科学審議会予防接種・ワクチン分科会予防接種基本方針部会の開催について",
+    "first_seen": "2026-11-12T05:53:09.634787+00:00"
+  },
+  "4a73242f6ca11146": {
+    "url": "https://www.mhlw.go.jp/stf/other-kenkou_128610_00048.html",
+    "title": "国民健康・栄養調査企画解析検討会の開催について",
+    "first_seen": "2026-11-12T05:53:09.634787+00:00"
+  },
+  "5a3a9fe1e9c8ea6c": {
+    "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-jinzaikaihatsutoukatsukan04.html",
+    "title": "採用情報（期間業務職員（人材開発統括官）)募集情報",
+    "first_seen": "2026-11-12T05:53:09.634787+00:00"
+  },
+  "f14bfb2a7fd408c3": {
+    "url": "http://www.boj.or.jp/about/press/koen_2026/ko261112a.htm",
+    "title": "【挨拶】浅田審議委員「わが国の経済・物価情勢と金融政策」（長崎）",
+    "first_seen": "2026-11-12T05:53:10.672961+00:00"
+  },
+  "8b23b19d5458b8de": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261110.htm",
+    "title": "営業毎旬報告（11月10日現在）",
+    "first_seen": "2026-11-12T05:53:10.672961+00:00"
+  },
+  "b727cf16d3ea2507": {
+    "url": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2610.pdf",
+    "title": "企業物価指数（10月）",
+    "first_seen": "2026-11-12T05:53:10.672961+00:00"
+  },
+  "373cb6fa706d7b30": {
+    "url": "http://www.boj.or.jp/statistics/outline/notice_2026/not261112a.htm",
+    "title": "「預金者別預金」（2026年9月）等の公表について",
+    "first_seen": "2026-11-12T05:53:10.672961+00:00"
+  },
+  "be2f6ff1affbd581": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/rinya-result261112.htm",
+    "title": "国有林野事業債務管理特別会計の借入金の入札結果（令和8年11月12日入札）",
+    "first_seen": "2026-11-12T05:53:13.067194+00:00"
+  },
+  "63d67041bc4d250f": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261112.htm",
+    "title": "5年利付国債（第189回）の入札結果（令和8年11月12日入札）",
+    "first_seen": "2026-11-12T05:53:13.067194+00:00"
+  },
+  "7de97c1808b74124": {
+    "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_tokusyu/proceedings/kanb20261019.html",
+    "title": "関税・外国為替等審議会 関税分科会 特殊関税部会(令和8年10月19日)議事録",
+    "first_seen": "2026-11-12T05:53:13.067194+00:00"
+  },
+  "99a64e397b753323": {
+    "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_customs/proceedings/kana20261006.html",
+    "title": "関税・外国為替等審議会　関税分科会（令和8年10月6日開催）議事録",
+    "first_seen": "2026-11-12T05:53:13.067194+00:00"
+  },
+  "92ba84904b013bfa": {
+    "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_tokusyu/proceedings/kanb20261019.html.html",
+    "title": "関税・外国為替等審議会 関税分科会 特殊関税部会(令和8年10月19日)議事録",
+    "first_seen": "2026-11-12T05:53:13.067194+00:00"
+  },
+  "b1679f141d36eac4": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer261112.htm",
+    "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和8年11月12日公表）",
+    "first_seen": "2026-11-12T05:53:13.067194+00:00"
+  },
+  "385ff3a3d44106e6": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261112.htm",
+    "title": "5年利付国債（第189回）の入札発行（令和8年11月12日入札）",
+    "first_seen": "2026-11-12T05:53:13.067194+00:00"
+  },
+  "50a85037a5b03626": {
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/proceedings/zaitoa20260918.html",
+    "title": "財政投融資分科会（令和8年9月18日開催）議事録",
+    "first_seen": "2026-11-12T05:53:13.067194+00:00"
+  },
+  "51b7e09328697e4d": {
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/outline/zaitoa20261019.html",
+    "title": "財政投融資分科会（令和8年10月19日開催）議事要旨",
+    "first_seen": "2026-11-12T05:53:13.067194+00:00"
+  },
+  "56ca92be3847d7d0": {
+    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+    "title": "国債金利情報(令和8年11月11日)",
+    "first_seen": "2026-11-12T05:53:13.067194+00:00"
   }
 }
