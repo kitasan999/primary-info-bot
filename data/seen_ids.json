@@ -1,19 +1,4 @@
 {
-  "ee9270a00b20331d": {
-    "url": "http://www.boj.or.jp/research/imes/dps/dps26_e.htm",
-    "title": "金融研究所ディスカッション・ペーパー・シリーズ（E-Series : 英語版）（2026年収録分）",
-    "first_seen": "2026-10-14T20:28:30.492929+00:00"
-  },
-  "15a35fbbe4b2ef6b": {
-    "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260910.xlsx",
-    "title": "日本銀行が保有する国債の銘柄別残高",
-    "first_seen": "2026-10-14T20:28:30.492929+00:00"
-  },
-  "9bc0f5f7e50317e6": {
-    "url": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260910.htm",
-    "title": "営業毎旬報告（9月10日現在）",
-    "first_seen": "2026-10-14T20:28:30.492929+00:00"
-  },
   "f6e0c26612ef3d29": {
     "url": "https://www.mhlw.go.jp/stf/newpage_33437.html",
     "title": "厚生労働省本省係長級職員（一般職相当）採用選考 - 令和８年度第３期・第４期",
@@ -3778,5 +3763,15 @@
     "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261113.html",
     "title": "片山大臣とシディ・ウルド・ターアフリカ開発銀行総裁の面会（令和8年11月13日）",
     "first_seen": "2026-11-13T18:23:19.361199+00:00"
+  },
+  "8dfeb53f7aff1b43": {
+    "url": "http://www.boj.or.jp/intl_finance/cooperate/coop261014a.pdf",
+    "title": "第15回日中韓・中央銀行総裁会合の開催について",
+    "first_seen": "2026-11-14T00:11:05.777839+00:00"
+  },
+  "2fa160967c03d4af": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261009.xlsx",
+    "title": "日本銀行が保有する国債の銘柄別残高",
+    "first_seen": "2026-11-14T00:11:05.777839+00:00"
   }
 }
