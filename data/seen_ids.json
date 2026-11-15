@@ -1,9 +1,4 @@
 {
-  "2cda6aaafb3a86f2": {
-    "url": "https://www.mof.go.jp/public_relations/conference/my20261016.html",
-    "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月16日(金曜日))",
-    "first_seen": "2026-10-16T15:13:22.941152+00:00"
-  },
   "a7bba7ca6b130263": {
     "url": "http://www.boj.or.jp/statistics/sj/sj.htm",
     "title": "資金循環統計（速報）（2026年第2四半期）",
@@ -3478,5 +3473,25 @@
     "url": "http://www.boj.or.jp/intl_finance/meeting/group/gro261015a.htm",
     "title": "金融安定理事会による「G20金融規制改革の実施モニタリングレビュー：2026年報告書」の公表について",
     "first_seen": "2026-11-14T19:43:02.795677+00:00"
+  },
+  "6760d7ab1aab85c5": {
+    "url": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html",
+    "title": "中央最低賃金審議会 (中央最低賃金審議会)",
+    "first_seen": "2026-11-15T19:15:04.201139+00:00"
+  },
+  "0ecf8dc878bf8c0b": {
+    "url": "http://www.boj.or.jp/intl_finance/meeting/group/gro261016a.htm",
+    "title": "金融安定理事会による最終報告書「AIの責任ある導入に関する健全な実務慣行」の公表について",
+    "first_seen": "2026-11-15T19:15:04.920899+00:00"
+  },
+  "74603a6629c2761f": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
+    "title": "業態別の日銀当座預金残高（9月）",
+    "first_seen": "2026-11-15T19:15:04.920899+00:00"
+  },
+  "d7a055a00cbdc373": {
+    "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk261016a.pdf",
+    "title": "【記者会見】小枝審議委員（熊本、10月15日分）",
+    "first_seen": "2026-11-15T19:15:04.920899+00:00"
   }
 }
