@@ -1,24 +1,4 @@
 {
-  "a7bba7ca6b130263": {
-    "url": "http://www.boj.or.jp/statistics/sj/sj.htm",
-    "title": "資金循環統計（速報）（2026年第2四半期）",
-    "first_seen": "2026-10-17T06:35:55.542225+00:00"
-  },
-  "4fbe90d3a4ab2ba5": {
-    "url": "https://www.mof.go.jp/policy/international_policy/imf/annual_meeting/20261017045147.html",
-    "title": "第81回IMF・世界銀行年次総会　片山財務大臣総務演説（令和8年10月16日　於：バンコク）",
-    "first_seen": "2026-10-17T11:23:07.548626+00:00"
-  },
-  "792c372de7da9d9b": {
-    "url": "https://www.mof.go.jp/policy/international_policy/imf/imfc/261017_IMFC_1.pdf",
-    "title": "第54回国際通貨金融委員会（IMFC）議長声明（仮訳）.pdf",
-    "first_seen": "2026-10-17T11:23:07.548626+00:00"
-  },
-  "1dd8f31dbd1d177e": {
-    "url": "https://www.mof.go.jp/policy/international_policy/imf/imfc/20261017jp.pdf",
-    "title": "第54回国際通貨金融委員会（IMFC）における日本国ステートメント.pdf",
-    "first_seen": "2026-10-17T11:23:07.548626+00:00"
-  },
   "cb7682c1bc1f6326": {
     "url": "https://www.mhlw.go.jp/toukei/list/113-1.html",
     "title": "食肉検査等情報還元調査",
@@ -3543,5 +3523,60 @@
     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
     "title": "国債金利情報(令和8年11月13日)",
     "first_seen": "2026-11-16T04:55:23.270683+00:00"
+  },
+  "2b53c1b3c5163702": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77453.html",
+    "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+    "first_seen": "2026-11-16T13:22:20.236212+00:00"
+  },
+  "c17d4aa36c847f38": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77273.html",
+    "title": "令和８年度（令和７年度からの繰越分）医療施設等施設整備費補助金の交付額について（４回目内示）",
+    "first_seen": "2026-11-16T13:22:20.236212+00:00"
+  },
+  "c260638d45ef3527": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77272.html",
+    "title": "令和８年度医療施設等施設整備費補助金の交付額の内示について （4回目内示）",
+    "first_seen": "2026-11-16T13:22:20.236212+00:00"
+  },
+  "33670698c027c4bc": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77353.html",
+    "title": "薬事審議会　医薬品第二部会を開催します",
+    "first_seen": "2026-11-16T13:22:20.236212+00:00"
+  },
+  "0935feca9d722c6a": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77291.html",
+    "title": "第７回2040年に向けた看護職員の養成・確保の在り方に関する検討会の開催について：開催案内",
+    "first_seen": "2026-11-16T13:22:20.236212+00:00"
+  },
+  "1b27649cc4952974": {
+    "url": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734_old2.html",
+    "title": "社会保障審議会（介護保険部会）",
+    "first_seen": "2026-11-16T13:22:20.236212+00:00"
+  },
+  "bb9e4f694696d900": {
+    "url": "https://www.fsa.go.jp/inter/bis/20261116/20261116.html",
+    "title": "国際関係,バーゼル銀行監督委員会による市中協議文書「銀行勘定の金利リスクに関する追加的な第２の柱ガイダンス」について公表しました。",
+    "first_seen": "2026-11-16T13:22:20.595172+00:00"
+  },
+  "33434beb9baad278": {
+    "url": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261116a.htm",
+    "title": "バーゼル銀行監督委員会による市中協議文書「銀行勘定の金利リスクに関する追加的な第2の柱ガイダンス」の公表について",
+    "first_seen": "2026-11-16T13:22:20.830813+00:00"
+  },
+  "28b5f978c08d3e48": {
+    "url": "http://www.boj.or.jp/mopo/outlook/highlight/ten202610.htm",
+    "title": "展望レポートのハイライト （2026年10月）",
+    "first_seen": "2026-11-16T13:22:20.830813+00:00"
+  },
+  "e45395bdff339573": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
+    "title": "業態別の日銀当座預金残高（10月）",
+    "first_seen": "2026-11-16T13:22:20.830813+00:00"
+  },
+  "d57dc88dd036b2c3": {
+    "url": "https://www.mof.go.jp/public_relations/ohter/2026111302.html",
+    "title": "システム障害に伴うメール受信不具合の復旧について",
+    "first_seen": "2026-11-16T13:22:22.010542+00:00"
   }
 }
