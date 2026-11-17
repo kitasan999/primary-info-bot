@@ -1,34 +1,4 @@
 {
-  "d3aaaedd3a08c649": {
-    "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260918b.pdf",
-    "title": "「補完当座預金制度基本要領」の一部改正について",
-    "first_seen": "2026-10-18T12:58:56.726903+00:00"
-  },
-  "afc147b1e087cb53": {
-    "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260918a.pdf",
-    "title": "「気候変動対応を支援するための資金供給オペレーション基本要領」の一部改正等について",
-    "first_seen": "2026-10-18T12:58:56.726903+00:00"
-  },
-  "22f0b8d74592fe05": {
-    "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260918b.pdf",
-    "title": "（参考）金融市場調節方針の変更（2026年9月金融政策決定会合）",
-    "first_seen": "2026-10-18T12:58:56.726903+00:00"
-  },
-  "03e793f855fbe707": {
-    "url": "http://www.boj.or.jp/about/services/tame/tame_rate/kijun/kiju2610.htm",
-    "title": "基準外国為替相場及び裁定外国為替相場（10月分）",
-    "first_seen": "2026-10-18T12:58:56.726903+00:00"
-  },
-  "775c30623762300f": {
-    "url": "http://www.boj.or.jp/about/services/tame/tame_rate/syorei/hou2610.htm",
-    "title": "報告省令レート（10月分）",
-    "first_seen": "2026-10-18T12:58:56.726903+00:00"
-  },
-  "ffe6006fc9c223ba": {
-    "url": "http://www.boj.or.jp/about/release/sousaidouga.htm",
-    "title": "総裁記者会見（9月18日）動画の配信開始",
-    "first_seen": "2026-10-18T16:26:48.869626+00:00"
-  },
   "fad4d08fc0846a7b": {
     "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-kenkou_seikatueiseikyoku01_00005.html",
     "title": "採用情報（期間業務職員（政策統括官（総合政策、労使関係担当））募集情報）",
@@ -3523,5 +3493,70 @@
     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
     "title": "国債金利情報(令和8年11月16日)",
     "first_seen": "2026-11-17T06:42:56.013928+00:00"
+  },
+  "7115e5229ea77c9c": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77427.html",
+    "title": "第64回社会保障審議会生活保護基準部会　  資料",
+    "first_seen": "2026-11-17T16:41:26.492596+00:00"
+  },
+  "cb4c19f37af6be95": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77489.html",
+    "title": "第２８回新型インフルエンザ対策に関する小委員会　第１３回危機対応医薬品等に関する小委員会　資料",
+    "first_seen": "2026-11-17T16:41:26.492596+00:00"
+  },
+  "15a777214d470046": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77439.html",
+    "title": "令和８年度第８回医薬品等安全対策部会安全対策調査会 議事録",
+    "first_seen": "2026-11-17T16:41:26.492596+00:00"
+  },
+  "6ea325698a925039": {
+    "url": "https://www.fsa.go.jp/news/r8/sonota/20261113/japanfintechweek.html",
+    "title": "イベント,「Japan Fintech Week 2027」の開催について公表しました。",
+    "first_seen": "2026-11-17T16:41:26.747403+00:00"
+  },
+  "87b01fbb8f1bdb2f": {
+    "url": "https://www.fsa.go.jp/inter/fsf/20261117/261117.html",
+    "title": "国際関係,金融安定理事会による「クロスボーダー送金の改善に向けたG20ロードマップ：2026年統合進捗報告書」について公表しました。",
+    "first_seen": "2026-11-17T16:41:26.747403+00:00"
+  },
+  "5b587bb13b871b54": {
+    "url": "https://www.fsa.go.jp/singi/singi_kinyu/disclosure_wg/shiryou/20261118.html",
+    "title": "金融審議会「ディスクロージャーワーキング・グループ」（第７回）議事次第について公表しました。",
+    "first_seen": "2026-11-17T16:41:26.747403+00:00"
+  },
+  "3067a08ba910aab7": {
+    "url": "https://www.fsa.go.jp/inter/ios/20261117/20261117.html",
+    "title": "IOSCO(証券監督者国際機構) 常設委員会議長・副議長選出について公表しました。",
+    "first_seen": "2026-11-17T16:41:26.747403+00:00"
+  },
+  "712db69bf94dec61": {
+    "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-10/ginnsyou-10.html",
+    "title": "採用,職員を募集しています。（金融モニタリング業務（各種リスク管理態勢）に従事する職員）",
+    "first_seen": "2026-11-17T16:41:26.747403+00:00"
+  },
+  "b31ce7b0166c1886": {
+    "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-12/ginnsyou-12.html",
+    "title": "採用,職員を募集しています。（金融モニタリング業務（マネー・ローンダリング・テロ資金供与対策）に従事する職員）",
+    "first_seen": "2026-11-17T16:41:26.747403+00:00"
+  },
+  "710a593d2a084fbc": {
+    "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261113-1.html",
+    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年11月13日）について掲載しました。",
+    "first_seen": "2026-11-17T16:41:26.747403+00:00"
+  },
+  "4377841317761a88": {
+    "url": "http://www.boj.or.jp/intl_finance/meeting/group/gro261117a.htm",
+    "title": "金融安定理事会による「クロスボーダー送金の改善に向けたG20ロードマップ：2026年統合進捗報告書」の公表について",
+    "first_seen": "2026-11-17T16:41:26.973538+00:00"
+  },
+  "667c3f11929cd45c": {
+    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/material/zaitoa20261117.html",
+    "title": "財政投融資分科会（令和8年11月17日開催）資料一覧",
+    "first_seen": "2026-11-17T16:41:27.894533+00:00"
+  },
+  "f267e8c8458573da": {
+    "url": "https://www.mof.go.jp/public_relations/conference/my20261117.html",
+    "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年11月17日(火曜日))",
+    "first_seen": "2026-11-17T16:41:27.894533+00:00"
   }
 }
