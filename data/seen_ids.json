@@ -1,34 +1,4 @@
 {
-  "dfbb4689ad0cfa59": {
-    "url": "https://www.mhlw.go.jp/stf/htcp-topics-20261001_00001.html",
-    "title": "11月17日は世界さい帯血の日です。",
-    "first_seen": "2026-10-19T12:14:24.318425+00:00"
-  },
-  "e8883c4414c6d4b0": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76821.html",
-    "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
-    "first_seen": "2026-10-19T12:14:24.318425+00:00"
-  },
-  "85a62b92a9147aa7": {
-    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/kojinbougogu/haifu/index.html",
-    "title": "個人防護具の配布について",
-    "first_seen": "2026-10-19T12:14:24.318425+00:00"
-  },
-  "003ff9beffc99b34": {
-    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/material/zaitoa20261019.html",
-    "title": "財政投融資分科会（令和８年10月19日開催）資料一覧",
-    "first_seen": "2026-10-19T12:14:26.559427+00:00"
-  },
-  "e956da292ab96afd": {
-    "url": "https://www.mof.go.jp/public_relations/finance/index.htm",
-    "title": "広報誌「ファイナンス」10月号　特集　件当たりの脱税額は1億円超へ　「脱税は犯罪」マルサが暴く悪質手口と犯罪の代償",
-    "first_seen": "2026-10-19T12:14:26.559427+00:00"
-  },
-  "351b77526ab9cbef": {
-    "url": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2031.htm",
-    "title": "第92回株式会社日本政策投資銀行社債に対する政府保証の付与",
-    "first_seen": "2026-10-19T12:14:26.559427+00:00"
-  },
   "78cd32c8820a189c": {
     "url": "https://www.mhlw.go.jp/web_magazine/",
     "title": "WEBマガジン「厚生労働」（コラム[iDeCoがパワーアップ!]ほか更新）",
@@ -3558,5 +3528,40 @@
     "url": "https://www.mof.go.jp/outside_link/20261117114843.html",
     "title": "貿易統計(令和8年10月分速報)【税関ホームページ】",
     "first_seen": "2026-11-18T06:00:40.670232+00:00"
+  },
+  "b89df418cfead142": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77515.html",
+    "title": "医薬品安定供給・流通確認システムへの不正アクセスに係る 個人情報の漏えいについて",
+    "first_seen": "2026-11-18T16:11:36.137968+00:00"
+  },
+  "bf918cdcbd1b5b39": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77498.html",
+    "title": "高齢者に対する肺炎球菌ワクチン及び小児におけるRSウイルス感染症の予防についての議論のまとめ",
+    "first_seen": "2026-11-18T16:11:36.137968+00:00"
+  },
+  "3856156ef5f17eac": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77507.html",
+    "title": "2026年10月26日　第９回労働政策審議会労働条件分科会「組織再編に伴う労働関係の調整に関する部会」　議事録",
+    "first_seen": "2026-11-18T16:11:36.137968+00:00"
+  },
+  "5f17231e6551acbe": {
+    "url": "http://www.boj.or.jp/intl_finance/meeting/group/gro261118a.htm",
+    "title": "金融安定理事会による本会合議事要旨の公表について",
+    "first_seen": "2026-11-18T16:11:36.885726+00:00"
+  },
+  "9fdb2a4d59c575da": {
+    "url": "http://www.boj.or.jp/paym/intlact_pm/cpss/cpss261019a.htm",
+    "title": "「金融市場インフラ（FMI）によるビジネスリスク・ビジネスロス管理：金融市場インフラのための原則（FMI原則）に関する追加ガイダンス」の公表について",
+    "first_seen": "2026-11-18T16:11:36.885726+00:00"
+  },
+  "01abec3973922a08": {
+    "url": "https://www.mof.go.jp/public_relations/finance/index.htm",
+    "title": "広報誌「ファイナンス」11月号　特集　令和7年度の事例集から紹介　全国財務局の地域連携の取組",
+    "first_seen": "2026-11-18T16:11:37.437518+00:00"
+  },
+  "0d09a27544516cee": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261118a.htm",
+    "title": "20年利付国債（第198回）の第II非価格競争入札結果（令和8年11月18日入札）",
+    "first_seen": "2026-11-18T16:11:37.437518+00:00"
   }
 }
