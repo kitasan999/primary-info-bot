@@ -1,34 +1,4 @@
 {
-  "b60443d881fbd5f2": {
-    "url": "https://www.mhlw.go.jp/bunya/iyakuhin/yakuzaishi/menkyo.html",
-    "title": "薬剤師免許に関するオンライン申請手続きのご案内",
-    "first_seen": "2026-10-26T09:44:45.396210+00:00"
-  },
-  "abfd92496d35ffc0": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76922.html",
-    "title": "第３回　令和８年度医師の働き方改革の推進等に関する検討会：開催案内",
-    "first_seen": "2026-10-26T09:44:45.396210+00:00"
-  },
-  "0139c62b36c94b3c": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76792.html",
-    "title": "令和８年度第３回「団体等検定制度についての出張相談会」を開催します",
-    "first_seen": "2026-10-26T09:44:45.396210+00:00"
-  },
-  "39010390da08963c": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76741.html",
-    "title": "第4回　困難な問題を抱える女性への支援に関する検討会を開催いたします",
-    "first_seen": "2026-10-26T09:44:45.396210+00:00"
-  },
-  "09f74cd1bb1c138d": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76737.html",
-    "title": "第4回　困難な問題を抱える女性への支援に関する検討会を開催いたします",
-    "first_seen": "2026-10-26T09:44:45.396210+00:00"
-  },
-  "5fa5413c8a2ec3c0": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76958.html",
-    "title": "2026年７月31日　第１回毎月勤労統計調査の調査手法の検討等に関する ワーキンググループ　議事録",
-    "first_seen": "2026-10-26T09:44:45.396210+00:00"
-  },
   "e9a5c0931dc60e1e": {
     "url": "https://www.fsa.go.jp/common/recruit/r8/kokusai-01/kokusai-01.html",
     "title": "採用,職員を募集しています。（国際関連業務に従事する職員）",
@@ -3668,5 +3638,75 @@
     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
     "title": "国債金利情報(令和8年11月24日)",
     "first_seen": "2026-11-25T03:25:34.883391+00:00"
+  },
+  "eab0a5b2b7cc1633": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77496.html",
+    "title": "第27回成年後見制度利用促進専門家会議　開催案内",
+    "first_seen": "2026-11-25T13:54:17.090120+00:00"
+  },
+  "da1e62b6389b2572": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77641.html",
+    "title": "第76回中央最低賃金審議会 資料",
+    "first_seen": "2026-11-25T13:54:17.090120+00:00"
+  },
+  "837087a5f3f92f1f": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77637.html",
+    "title": "労働基準法第113条の規定による公聴会",
+    "first_seen": "2026-11-25T13:54:17.090120+00:00"
+  },
+  "d7a836f30a2c9bd9": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77572.html",
+    "title": "令和８年度「社会保険労務士制度功労者厚生労働大臣表彰」の受賞者を決定しました",
+    "first_seen": "2026-11-25T13:54:17.090120+00:00"
+  },
+  "2a0b39ff7728ab39": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77542.html",
+    "title": "第277回社会保障審議会介護給付費分科会（Web会議）を開催します",
+    "first_seen": "2026-11-25T13:54:17.090120+00:00"
+  },
+  "9f9ac22d5d8fca27": {
+    "url": "https://www.mhlw.go.jp/toukei/saikin/hw/judan/chukou26/",
+    "title": "第21回中高年者縦断調査（中高年者の生活に関する継続調査）の概況",
+    "first_seen": "2026-11-25T13:54:17.090120+00:00"
+  },
+  "d053f656459d4330": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77616.html",
+    "title": "第50回匿名医療情報等の提供に関する専門委員会の開催について",
+    "first_seen": "2026-11-25T13:54:17.090120+00:00"
+  },
+  "55ac2e5095c68067": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77533.html",
+    "title": "第23回医療介護総合確保促進会議の開催について",
+    "first_seen": "2026-11-25T13:54:17.090120+00:00"
+  },
+  "ef76b34178e45795": {
+    "url": "https://www.mhlw.go.jp/stf/houdou/R8_2_00001.html",
+    "title": "令和８年度地域医療介護総合確保基金（介護分）の内示（２回目）について",
+    "first_seen": "2026-11-25T13:54:17.090120+00:00"
+  },
+  "89d578673dd606bd": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261120.xlsx",
+    "title": "日本銀行が保有する国債の銘柄別残高",
+    "first_seen": "2026-11-25T13:54:18.700986+00:00"
+  },
+  "2d2703bf44c0665e": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261125a.htm",
+    "title": "40年利付国債（第19回）の第II非価格競争入札結果（令和8年11月25日入札）",
+    "first_seen": "2026-11-25T13:54:19.284797+00:00"
+  },
+  "8281d0d9c859b48d": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result261125.htm",
+    "title": "交付税及び譲与税配付金特別会計の借入金の入札結果（令和8年11月25日入札）",
+    "first_seen": "2026-11-25T13:54:19.284797+00:00"
+  },
+  "cd12b75e115ddbf7": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261125.htm",
+    "title": "40年利付国債（第19回）の入札結果（令和8年11月25日入札）",
+    "first_seen": "2026-11-25T13:54:19.284797+00:00"
+  },
+  "a928653cb255aec0": {
+    "url": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm",
+    "title": "政府調達情報",
+    "first_seen": "2026-11-25T13:54:19.284797+00:00"
   }
 }
