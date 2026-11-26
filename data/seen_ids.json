@@ -1,84 +1,4 @@
 {
-  "eb71bdbc92bb1c26": {
-    "url": "https://www.mhlw.go.jp/toukei/saikin/hw/eisei_houkoku/25/",
-    "title": "令和７(2025)年度衛生行政報告例の概況",
-    "first_seen": "2026-10-27T07:20:41.816939+00:00"
-  },
-  "a7a9933ced5c5e40": {
-    "url": "https://www.mhlw.go.jp/stf/houdou/0000212707_00057.html",
-    "title": "危険ドラッグの成分３物質を新たに指定薬物に指定",
-    "first_seen": "2026-10-27T07:20:41.816939+00:00"
-  },
-  "81cf266854422c8f": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76910.html",
-    "title": "「社会福祉施設職員等退職手当共済制度の在り方に関する検討会」（第５回）を開催します",
-    "first_seen": "2026-10-27T07:20:41.816939+00:00"
-  },
-  "d5acfd0eb0eeb565": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76725.html",
-    "title": "第272回社会保障審議会介護給付費分科会（Web会議）を開催します",
-    "first_seen": "2026-10-27T07:20:41.816939+00:00"
-  },
-  "0007e3d785ce3d90": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76906.html",
-    "title": "第61回労働政策審議会人材開発分科会（オンライン併用）の開催について",
-    "first_seen": "2026-10-27T07:20:41.816939+00:00"
-  },
-  "d3ae1415ccdc88b6": {
-    "url": "https://www.fsa.go.jp/news/r8/shouken/20261027/20261027.html",
-    "title": "信用格付業者の登録について公表しました。",
-    "first_seen": "2026-10-27T07:20:42.315842+00:00"
-  },
-  "ae298bdaaf1954f5": {
-    "url": "https://www.fsa.go.jp/news/r8/sonota/20260819.html",
-    "title": "その他,「第２回　気候変動関連データの活用と適応に関する実践パネル」の発表資料及び議事要旨について公表しました。",
-    "first_seen": "2026-10-27T07:20:42.315842+00:00"
-  },
-  "10f775d04674ef09": {
-    "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261023-1.html",
-    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月23日）について掲載しました。",
-    "first_seen": "2026-10-27T07:20:42.315842+00:00"
-  },
-  "45856739098461c2": {
-    "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261020-1.html",
-    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月20日）について掲載しました。",
-    "first_seen": "2026-10-27T07:20:42.315842+00:00"
-  },
-  "5ce3046c5b51c55f": {
-    "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261016-1.html",
-    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月16日）について掲載しました。",
-    "first_seen": "2026-10-27T07:20:42.315842+00:00"
-  },
-  "7ffbc2716239ef5e": {
-    "url": "http://www.boj.or.jp/about/release_2026/rel261027a.htm",
-    "title": "情報セキュリティ・セミナー「AIエージェント時代に求められるセキュリティ戦略と課題」開催のお知らせ",
-    "first_seen": "2026-10-27T07:20:42.750493+00:00"
-  },
-  "b76f7381f90895ac": {
-    "url": "https://www.mof.go.jp/jgbs/topics/JapanClimateTransitionBonds/index.html",
-    "title": "クライメート・トランジション利付国債",
-    "first_seen": "2026-10-27T07:20:43.388587+00:00"
-  },
-  "21c8457bdf2e9989": {
-    "url": "https://www.mof.go.jp/policy/customs_tariff/trade/plan/futou/ka20261027.html",
-    "title": "中華人民共和国産若しくは台湾、澎湖諸島、金門及び馬祖から成る独立の関税地域産ニッケル系ステンレス冷延鋼帯及び冷延鋼板に対する不当廉売関税の課税を決定しました",
-    "first_seen": "2026-10-27T07:20:43.388587+00:00"
-  },
-  "09c9639aca68883d": {
-    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261027.htm",
-    "title": "流動性供給(第464回)入札結果",
-    "first_seen": "2026-10-27T07:20:43.388587+00:00"
-  },
-  "73858ed1db3b5ec7": {
-    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261027.htm",
-    "title": "流動性供給(第464回)入札",
-    "first_seen": "2026-10-27T07:20:43.388587+00:00"
-  },
-  "6a635d32be2e4934": {
-    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261027a.htm",
-    "title": "流動性供給(第464回)入札において追加発行した国債の銘柄",
-    "first_seen": "2026-10-27T13:59:40.469970+00:00"
-  },
   "222815c6cf060ea2": {
     "url": "https://www.mhlw.go.jp/topics/2026/10/tp1028-1.html",
     "title": "民間競争入札実施事業　就労条件総合調査の実施状況について（令和７年度分）",
@@ -3688,5 +3608,120 @@
     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
     "title": "国債金利情報(令和8年11月25日)",
     "first_seen": "2026-11-26T04:45:07.253758+00:00"
+  },
+  "5df4f39bf6851685": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77683.html",
+    "title": "「第８回 ハローワーク業務改善コンクール」の授賞を決定しました",
+    "first_seen": "2026-11-26T14:43:33.939930+00:00"
+  },
+  "1e8516c8b0b82b35": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77679.html",
+    "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+    "first_seen": "2026-11-26T14:43:33.939930+00:00"
+  },
+  "2ac683f2a68039a0": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77684.html",
+    "title": "厚生労働省、農林水産省、経済産業省及びスポーツ庁が合同で日経健康経営・ロンジェビティEXPO 2026に出展・登壇します",
+    "first_seen": "2026-11-26T14:43:33.939930+00:00"
+  },
+  "935904d1f87cd758": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77599.html",
+    "title": "第70回 医療上の必要性の高い未承認薬・適応外薬検討会議（オンライン会議）を開催します",
+    "first_seen": "2026-11-26T14:43:33.939930+00:00"
+  },
+  "31d7cfea7c5c9b1e": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77579.html",
+    "title": "令和８年度第２回医道審議会医師分科会医師国家試験等改善検討部会",
+    "first_seen": "2026-11-26T14:43:33.939930+00:00"
+  },
+  "a05b0396cfc31fde": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77527.html",
+    "title": "令和８年度「援護事業功労者　厚生労働大臣表彰」の受賞者（被表彰者）を決定しました",
+    "first_seen": "2026-11-26T14:43:33.939930+00:00"
+  },
+  "070e94fd4ff92d3c": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77503.html",
+    "title": "「第15回 健康寿命をのばそう！アワード」",
+    "first_seen": "2026-11-26T14:43:33.939930+00:00"
+  },
+  "88b3df3e0fb54602": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77655.html",
+    "title": "第48回 保険者による健診・保健指導等に関する検討会の開催について（オンライン会議・ペーパーレス）",
+    "first_seen": "2026-11-26T14:43:33.939930+00:00"
+  },
+  "c38ff71bcb51c4a7": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77623.html",
+    "title": "12月は「職場のハラスメント撲滅月間」です",
+    "first_seen": "2026-11-26T14:43:33.939930+00:00"
+  },
+  "b3bac3cf044a0e13": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77458.html",
+    "title": "先進医療会議の開催について",
+    "first_seen": "2026-11-26T14:43:33.939930+00:00"
+  },
+  "a903371b1b0afd4f": {
+    "url": "https://www.fsa.go.jp/status/kasikin/20261126/index.html",
+    "title": "貸金業関係資料集について掲載しました。",
+    "first_seen": "2026-11-26T14:43:34.298794+00:00"
+  },
+  "fa47d14e47183979": {
+    "url": "https://www.fsa.go.jp/inter/fsf/20261126/20261126.html",
+    "title": "国際関係,金融安定理事会による「グローバルなシステム上重要な銀行（G-SIB）の2026年リスト」を公表しました。",
+    "first_seen": "2026-11-26T14:43:34.298794+00:00"
+  },
+  "4fa74ba46c569d99": {
+    "url": "https://www.fsa.go.jp/ordinary/chuui/mutouroku.html",
+    "title": "その他,無登録で金融商品取引業を行う者の名称等について更新しました。",
+    "first_seen": "2026-11-26T14:43:34.298794+00:00"
+  },
+  "fbb399d4c8536058": {
+    "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261120-1.html",
+    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年11月20日）について掲載しました。",
+    "first_seen": "2026-11-26T14:43:34.298794+00:00"
+  },
+  "7879738729e4c4ca": {
+    "url": "https://www.fsa.go.jp/news/r8/singi/20261125.html",
+    "title": "「トランジション・ファイナンス環境整備検討会」（第15回）の開催について公表しました。",
+    "first_seen": "2026-11-26T14:43:34.298794+00:00"
+  },
+  "2e6175d8f3e791c8": {
+    "url": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261126a.htm",
+    "title": "金融安定理事会による「グローバルなシステム上重要な銀行（G-SIB）の2026年リスト」の公表について",
+    "first_seen": "2026-11-26T14:43:34.673789+00:00"
+  },
+  "67c4078b4eaeb0a2": {
+    "url": "http://www.boj.or.jp/statistics/boj/other/other_gai/gai2609.pdf",
+    "title": "令和8年度上半期末の日本銀行保有外貨資産の残高",
+    "first_seen": "2026-11-26T14:43:34.673789+00:00"
+  },
+  "5ce9457f84163499": {
+    "url": "http://www.boj.or.jp/finsys/rfs/rfs261126.pdf",
+    "title": "地域金融強化のための特別当座預金制度に基づく特別付利の実施について",
+    "first_seen": "2026-11-26T14:43:34.673789+00:00"
+  },
+  "62b30568fa442c22": {
+    "url": "http://www.boj.or.jp/statistics/pi/cspi_release/sppi2609.pdf",
+    "title": "企業向けサービス価格指数（9月）",
+    "first_seen": "2026-11-26T14:43:34.673789+00:00"
+  },
+  "c8dd33972d6a77e9": {
+    "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-foreign_exchange/proceedings/material/20261120175045.html",
+    "title": "関税・外国為替等審議会　第71回外国為替等分科会 資料",
+    "first_seen": "2026-11-26T14:43:35.342188+00:00"
+  },
+  "b6c1974975da6d92": {
+    "url": "https://www.mof.go.jp/about_mof/councils/policy_evaluation/proceedings/proceedings/20261120140102.html",
+    "title": "第87回 財務省政策評価懇談会（10月20日開催）議事録",
+    "first_seen": "2026-11-26T14:43:35.342188+00:00"
+  },
+  "4f8e997d7612e686": {
+    "url": "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/fdi/20261124114759.html",
+    "title": "外為法改正に伴う届出書及び報告書の取扱いについて（経過措置期間：令和9年1月4日～2月2日）",
+    "first_seen": "2026-11-26T14:43:35.342188+00:00"
+  },
+  "9769b6db9af894ab": {
+    "url": "https://www.mof.go.jp/policy/international_policy/convention/other/20261126.html",
+    "title": "ASEAN+3財務大臣・中央銀行総裁代理会議等の開催について（令和8年11月25日～26日）",
+    "first_seen": "2026-11-26T14:43:35.342188+00:00"
   }
 }
