@@ -1,29 +1,4 @@
 {
-  "92fed9a6f246dbc1": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76904.html",
-    "title": "第１回国民年金第３号被保険者制度等に関する検討会（議事録）",
-    "first_seen": "2026-10-27T01:10:13.935219+00:00"
-  },
-  "5da8c1e4e7a3b5e7": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76834.html",
-    "title": "中央社会保険医療協議会診療報酬調査専門組織（入院・外来医療等の調査・評価分科会）の開催について",
-    "first_seen": "2026-10-27T01:10:13.935219+00:00"
-  },
-  "b41cbbd029e1ba26": {
-    "url": "https://www.fsa.go.jp/policy/kashikin/tajusaimukondankai/20261028/20261028.html",
-    "title": "多重債務問題対策推進懇談会の議事次第等について公表しました。",
-    "first_seen": "2026-10-27T01:10:14.253724+00:00"
-  },
-  "62b30568fa442c22": {
-    "url": "http://www.boj.or.jp/statistics/pi/cspi_release/sppi2609.pdf",
-    "title": "企業向けサービス価格指数（9月）",
-    "first_seen": "2026-10-27T01:10:14.503314+00:00"
-  },
-  "8f7044ef1f4d40a1": {
-    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-    "title": "国債金利情報(令和8年10月26日)",
-    "first_seen": "2026-10-27T01:10:15.276708+00:00"
-  },
   "eb71bdbc92bb1c26": {
     "url": "https://www.mhlw.go.jp/toukei/saikin/hw/eisei_houkoku/25/",
     "title": "令和７(2025)年度衛生行政報告例の概況",
@@ -3678,5 +3653,40 @@
     "url": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm",
     "title": "政府調達情報",
     "first_seen": "2026-11-25T13:54:19.284797+00:00"
+  },
+  "f98d1800b9b5b194": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77651.html",
+    "title": "第139回社会保障審議会介護保険部会の資料について",
+    "first_seen": "2026-11-26T04:45:05.056332+00:00"
+  },
+  "fe585f5da310552d": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77662.html",
+    "title": "第３回精神医療に関する地域医療構想検討ワーキンググループ：資料",
+    "first_seen": "2026-11-26T04:45:05.056332+00:00"
+  },
+  "b9dbb2fb1584e1eb": {
+    "url": "http://www.boj.or.jp/about/press/koen_2026/ko261126a.htm",
+    "title": "【挨拶】田村審議委員「わが国の経済・物価情勢と金融政策」（山梨）",
+    "first_seen": "2026-11-26T04:45:06.082391+00:00"
+  },
+  "97062b49e986d666": {
+    "url": "https://www.mof.go.jp/insideLink/20261125150944.html",
+    "title": "Public Policy Review Vol.22, No.2 : Understanding Japan’s Labor Market: Dynamics, Trends, and Challengesに1論文を掲載しました",
+    "first_seen": "2026-11-26T04:45:07.253758+00:00"
+  },
+  "9c4af2614f8e43f1": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer261126.htm",
+    "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和8年11月26日公表）",
+    "first_seen": "2026-11-26T04:45:07.253758+00:00"
+  },
+  "0edb8959ce2adff9": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261126.htm",
+    "title": "10年利付国債（12月債）の発行予定額等（令和8年11月26日公表）",
+    "first_seen": "2026-11-26T04:45:07.253758+00:00"
+  },
+  "29ed2f4595a50f52": {
+    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+    "title": "国債金利情報(令和8年11月25日)",
+    "first_seen": "2026-11-26T04:45:07.253758+00:00"
   }
 }
