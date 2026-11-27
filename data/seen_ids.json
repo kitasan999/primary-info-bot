@@ -1,74 +1,4 @@
 {
-  "222815c6cf060ea2": {
-    "url": "https://www.mhlw.go.jp/topics/2026/10/tp1028-1.html",
-    "title": "民間競争入札実施事業　就労条件総合調査の実施状況について（令和７年度分）",
-    "first_seen": "2026-10-28T04:10:41.985360+00:00"
-  },
-  "50783463228d830c": {
-    "url": "https://www.mhlw.go.jp/stf/newpage_76867.html",
-    "title": "令和８年度栄養関係功労者（食生活改善事業功労者・地区組織）厚生労働大臣表彰受賞者が決まりました",
-    "first_seen": "2026-10-28T04:10:41.985360+00:00"
-  },
-  "15ee429a833d79de": {
-    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
-    "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-    "first_seen": "2026-10-28T04:10:41.985360+00:00"
-  },
-  "5d84ad7f19b7350d": {
-    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html",
-    "title": "インフルエンザの発生状況を更新しました",
-    "first_seen": "2026-10-28T04:10:41.985360+00:00"
-  },
-  "ffb3aad817bcf789": {
-    "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-igyoukeieisenmonkanorsyusa.html",
-    "title": "採用情報（任期付職員（医業経営専門官又は主査）募集情報）",
-    "first_seen": "2026-10-28T04:10:41.985360+00:00"
-  },
-  "836c2d5e2ed20f4a": {
-    "url": "https://www.fsa.go.jp/common/recruit/index-general.html",
-    "title": "採用,官庁訪問（経験者採用試験（係長級（事務））【府省合同Ａ区分】）について公表しました。",
-    "first_seen": "2026-10-28T04:10:42.551234+00:00"
-  },
-  "1f1ae55d2773d587": {
-    "url": "https://www.fsa.go.jp/common/recruit/index-general-b.html",
-    "title": "採用,官庁訪問（経験者採用試験（係長級（事務））【府省合同Ｂ区分】）について公表しました。",
-    "first_seen": "2026-10-28T04:10:42.551234+00:00"
-  },
-  "32553d077a5fadec": {
-    "url": "https://www.fsa.go.jp/inter/bis/20261028/20261028.html",
-    "title": "国際関係,バーゼル銀行監督委員会による「AML/CFTに関する監督ニューズレター」について公表しました。",
-    "first_seen": "2026-10-28T04:10:42.551234+00:00"
-  },
-  "690335ae3ff7451c": {
-    "url": "https://www.fsa.go.jp/common/recruit/r8/shiho-01/shiho-01.html",
-    "title": "採用,職員を募集しています。（金融モニタリング業務（資金移動業者や暗号資産交換業者等の法令等遵守態勢、関連法令の解釈等）に従事する職員)",
-    "first_seen": "2026-10-28T04:10:42.551234+00:00"
-  },
-  "d8138e8300de780e": {
-    "url": "http://www.boj.or.jp/finsys/intlact_fs/risk/ris261028a.htm",
-    "title": "バーゼル銀行監督委員会による「AML/CFTに関する監督ニューズレター」の公表について",
-    "first_seen": "2026-10-28T04:10:42.993550+00:00"
-  },
-  "7b4c06db7257df34": {
-    "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result261028.htm",
-    "title": "交付税及び譲与税配付金特別会計の借入金の入札結果（令和8年10月28日入札）",
-    "first_seen": "2026-10-28T04:10:44.132268+00:00"
-  },
-  "09ef1938c7ab4540": {
-    "url": "https://www.mof.go.jp/application-contact/procurement/koubo/index.htm",
-    "title": "公募情報",
-    "first_seen": "2026-10-28T04:10:44.132268+00:00"
-  },
-  "7105db785e751568": {
-    "url": "https://www.mof.go.jp/public_relations/conference/my20261027.html",
-    "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月27日(火曜日))",
-    "first_seen": "2026-10-28T04:10:44.132268+00:00"
-  },
-  "1b795d45bbaee978": {
-    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-    "title": "国債金利情報(令和8年10月27日)",
-    "first_seen": "2026-10-28T04:10:44.132268+00:00"
-  },
   "64c4a567678d6d4e": {
     "url": "https://www.mhlw.go.jp/stf/newpage_76975.html",
     "title": "第１回 生命科学・医学系研究等における個人情報の取扱い等に関する合同会議　第１タスクフォース",
@@ -3733,5 +3663,150 @@
     "url": "https://www.mof.go.jp/about_mof/councils/meeting_of_jgbsp/proceedings/261126pd.html",
     "title": "国債市場特別参加者会合（第121回）議事の要点",
     "first_seen": "2026-11-26T23:29:12.480882+00:00"
+  },
+  "aaccab9e78123439": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77691.html",
+    "title": "第45回「肢体不自由児・者の美術展／デジタル写真展」の開催",
+    "first_seen": "2026-11-27T06:53:32.212943+00:00"
+  },
+  "e2b17664aa649d28": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77674.html",
+    "title": "薬事審議会　医療機器・体外診断薬部会を開催します",
+    "first_seen": "2026-11-27T06:53:32.212943+00:00"
+  },
+  "09f1ae96616b41b3": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_021225156_00116.html",
+    "title": "第229回労働政策審議会職業安定分科会を開催します",
+    "first_seen": "2026-11-27T06:53:32.212943+00:00"
+  },
+  "9143afba596c08ed": {
+    "url": "https://www.mhlw.go.jp/topics/medias/c-med/2026/07/",
+    "title": "最近の調剤医療費（電算処理分）の動向　令和8年度7月号",
+    "first_seen": "2026-11-27T06:53:32.212943+00:00"
+  },
+  "2ee102ee7691a980": {
+    "url": "https://www.mhlw.go.jp/topics/medias/shika_iryou/2026/07/",
+    "title": "最近の歯科医療費（電算処理分）の動向　令和8年度7月号",
+    "first_seen": "2026-11-27T06:53:32.212943+00:00"
+  },
+  "3059d807e210fd8e": {
+    "url": "https://www.mhlw.go.jp/topics/medias/ika_iryou/2026/07/",
+    "title": "最近の医科医療費（電算処理分）の動向　令和8年度7月号",
+    "first_seen": "2026-11-27T06:53:32.212943+00:00"
+  },
+  "c4fa86ef7c1e3f4d": {
+    "url": "https://www.mhlw.go.jp/topics/medias/month/26/07.html",
+    "title": "最近の医療費の動向-MEDIAS-令和8年度7月号",
+    "first_seen": "2026-11-27T06:53:32.212943+00:00"
+  },
+  "0f32c0545642a266": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77588.html",
+    "title": "第43回労働政策審議会労働政策基本部会を開催します",
+    "first_seen": "2026-11-27T06:53:32.212943+00:00"
+  },
+  "a3ab7cb41d9de865": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77463.html",
+    "title": "第94回労働政策審議会勤労者生活分科会中小企業退職金共済部会議事録",
+    "first_seen": "2026-11-27T06:53:32.212943+00:00"
+  },
+  "3fcb3d3b5787c766": {
+    "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/kakutei25/index.html",
+    "title": "令和７（2025）年　人口動態統計（確定数）の概況",
+    "first_seen": "2026-11-27T06:53:32.212943+00:00"
+  },
+  "b18e6e342efd5408": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77518.html",
+    "title": "「第20回薬局・薬剤師の機能強化等に関する検討会」の開催について",
+    "first_seen": "2026-11-27T06:53:32.212943+00:00"
+  },
+  "e55a83daf844292b": {
+    "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-hattatsushougaishisakuchouseikan.html",
+    "title": "採用情報（任期付職員（発達障害施策調整官）募集情報）",
+    "first_seen": "2026-11-27T06:53:32.212943+00:00"
+  },
+  "f905a9d8ea5497be": {
+    "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-shikahokenka.html",
+    "title": "採用情報（任期付職員（歯科保健課長補佐又は主査）募集情報）",
+    "first_seen": "2026-11-27T06:53:32.212943+00:00"
+  },
+  "21deb11cc5b527ae": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77686.html",
+    "title": "第94回労働政策審議会雇用環境・均等分科会の資料を掲載しました。",
+    "first_seen": "2026-11-27T06:53:32.212943+00:00"
+  },
+  "839824cec17ba887": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77529.html",
+    "title": "令和８年度第２回医道審議会医師分科会医師臨床研修部会",
+    "first_seen": "2026-11-27T06:53:32.212943+00:00"
+  },
+  "bc5bd18c7d8869df": {
+    "url": "https://www.mhlw.go.jp/stf/newpage_77459.html",
+    "title": "中央社会保険医療協議会診療報酬調査専門組織（入院・外来医療等の調査・評価分科会）の開催について",
+    "first_seen": "2026-11-27T06:53:32.212943+00:00"
+  },
+  "eb2523d1bc7eae06": {
+    "url": "http://www.boj.or.jp/about/press/koen_2026/ko261127a.htm",
+    "title": "【講演】神山理事「デジタルマネーと決済：新たなパラダイムへの移行」（IMF MCM-OAP Seminar in Tokyo）",
+    "first_seen": "2026-11-27T06:53:33.352368+00:00"
+  },
+  "901b36cc804af47f": {
+    "url": "https://www.mof.go.jp/policy/customs_tariff/trade/plan/futou/ka20261127-3.html",
+    "title": "大韓民国産及び中華人民共和国産水酸化カリウムに対する 不当廉売関税の課税期間の延長を決定しました",
+    "first_seen": "2026-11-27T06:53:33.977260+00:00"
+  },
+  "1cc021725bc25eaf": {
+    "url": "https://www.mof.go.jp/policy/customs_tariff/trade/plan/futou/ka20261127-2.html",
+    "title": "大韓民国産並びに台湾、澎湖諸島、金門及び馬祖から成る独立の関税地域産ビスフェノールＡに対する不当廉売関税の課税を決定しました",
+    "first_seen": "2026-11-27T06:53:33.977260+00:00"
+  },
+  "256148f1cf730d43": {
+    "url": "https://www.mof.go.jp/policy/customs_tariff/trade/plan/futou/ka20261127-1.html",
+    "title": "大韓民国産及び中華人民共和国産溶融亜鉛めっき鋼帯及び鋼板に対する不当廉売関税の課税を決定しました",
+    "first_seen": "2026-11-27T06:53:33.977260+00:00"
+  },
+  "3cfc5f0ca4cdf157": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261127.htm",
+    "title": "流動性供給(第466回)入札結果",
+    "first_seen": "2026-11-27T06:53:33.977260+00:00"
+  },
+  "247fef29034dd603": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20261127.htm",
+    "title": "国庫短期証券（第1422回）の入札結果",
+    "first_seen": "2026-11-27T06:53:33.977260+00:00"
+  },
+  "091675d502be2f5a": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261127.htm",
+    "title": "流動性供給(第466回)入札",
+    "first_seen": "2026-11-27T06:53:33.977260+00:00"
+  },
+  "13d4e7b22ad361a7": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20261127.htm",
+    "title": "国庫短期証券（第1423回）の発行予定額等",
+    "first_seen": "2026-11-27T06:53:33.977260+00:00"
+  },
+  "4f5a7639e98ecc91": {
+    "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20261127.htm",
+    "title": "国庫短期証券（第1422回）の入札発行",
+    "first_seen": "2026-11-27T06:53:33.977260+00:00"
+  },
+  "a908e4cbe7d600fb": {
+    "url": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir8/yotaku20261127.html",
+    "title": "財政融資資金預託金利（令和8年12月1日以降適用）",
+    "first_seen": "2026-11-27T06:53:33.977260+00:00"
+  },
+  "b46d54c891bf5316": {
+    "url": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir8/kashi20261127.html",
+    "title": "財政融資資金貸付金利（令和8年12月1日以降適用）",
+    "first_seen": "2026-11-27T06:53:33.977260+00:00"
+  },
+  "c07dd20d018ef1bf": {
+    "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+    "title": "国債金利情報(令和8年11月26日)",
+    "first_seen": "2026-11-27T06:53:33.977260+00:00"
+  },
+  "8eab7f7e9a01975e": {
+    "url": "https://www.mof.go.jp/outside_link/20261126113809.html",
+    "title": "貿易統計(令和8年11月上旬分速報)【税関ホームページ】",
+    "first_seen": "2026-11-27T06:53:33.977260+00:00"
   }
 }
